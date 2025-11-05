@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  toeic-test-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3003:3000"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    container_name: toeic-test-app
+    networks:
+      - toeic-network
+
+networks:
+  toeic-network:
+    driver: bridge

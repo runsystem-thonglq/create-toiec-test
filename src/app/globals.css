@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-6 py-3 rounded-lg font-semibold text-sm uppercase tracking-wide transition-all duration-300 cursor-pointer;
+  }
+
+  .btn-primary {
+    @apply bg-blue-600 text-white hover:bg-blue-700 hover:-translate-y-0.5 hover:shadow-lg;
+  }
+
+  .btn-success {
+    @apply bg-green-600 text-white hover:bg-green-700 hover:-translate-y-0.5 hover:shadow-lg;
+  }
+
+  .btn-danger {
+    @apply bg-red-600 text-white hover:bg-red-700 hover:-translate-y-0.5 hover:shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-600 text-white hover:bg-gray-700 hover:-translate-y-0.5 hover:shadow-lg;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-lg overflow-hidden;
+  }
+
+  .question-item {
+    @apply bg-white border-2 border-gray-200 rounded-xl p-5 transition-all duration-300 relative overflow-hidden;
+  }
+
+  .question-item:hover {
+    @apply border-blue-500 shadow-lg -translate-y-1;
+  }
+
+  .question-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: #3498db;
+    transform: scaleY(0);
+    transition: transform 0.3s ease;
+  }
+
+  .question-item:hover::before {
+    transform: scaleY(1);
+  }
+
+  .option {
+    @apply flex items-center p-3 border-2 border-gray-200 rounded-lg cursor-pointer transition-all duration-300 bg-white;
+  }
+
+  .option:hover {
+    @apply border-blue-500 bg-gray-50;
+  }
+
+  .option.correct {
+    @apply bg-red-100 border-red-500 text-red-800;
+  }
+
+  .option.incorrect {
+    @apply bg-green-100 border-green-500 text-green-800;
+  }
+
+  .option.selected {
+    @apply bg-blue-100 border-blue-500 text-blue-800;
+  }
+
+  .question-item.correct {
+    @apply border-red-500 bg-gradient-to-br from-red-50 to-red-100;
+  }
+
+  .question-item.incorrect {
+    @apply border-green-500 bg-gradient-to-br from-green-50 to-green-100;
+  }
+
+  .fade-in {
+    animation: fadeIn 0.5s ease-in;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}

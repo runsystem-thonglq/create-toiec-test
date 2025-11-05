@@ -1,0 +1,29 @@
+{
+  "id": "sample_test_1",
+  "title": "TOEIC Test Mẫu",
+  "description": "Bài test mẫu với đáp án được tạo sẵn",
+  "answers": [
+    {"id": 1, "value": "A"},
+    {"id": 2, "value": "B"},
+    {"id": 3, "value": "C"},
+    {"id": 4, "value": "D"},
+    {"id": 5, "value": "A"},
+    {"id": 6, "value": "B"},
+    {"id": 7, "value": "C"},
+    {"id": 8, "value": "D"},
+    {"id": 9, "value": "A"},
+    {"id": 10, "value": "B"},
+    {"id": 11, "value": "C"},
+    {"id": 12, "value": "D"},
+    {"id": 13, "value": "A"},
+    {"id": 14, "value": "B"},
+    {"id": 15, "value": "C"},
+    {"id": 16, "value": "D"},
+    {"id": 17, "value": "A"},
+    {"id": 18, "value": "B"},
+    {"id": 19, "value": "C"},
+    {"id": 20, "value": "D"}
+  ],
+  "createdAt": "2024-01-01T00:00:00.000Z",
+  "updatedAt": "2024-01-01T00:00:00.000Z"
+}

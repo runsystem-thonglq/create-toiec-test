@@ -1,0 +1,583 @@
+[
+  {
+    "id": 101,
+    "question": "Former Sendai Company CEO Ken Nakata spoke about ------- career experiences.",
+    "options": {
+      "A": "he",
+      "B": "his",
+      "C": "him",
+      "D": "himself"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'he' là đại từ chủ ngữ. Không thể đứng trước một cụm danh từ ('career experiences') để chỉ sở hữu.",
+          "B": "Lựa chọn (B) 'his' là tính từ sở hữu. Nó đứng trước cụm danh từ 'career experiences' để chỉ rõ 'kinh nghiệm nghề nghiệp của anh ấy (Ken Nakata)'.",
+          "C": "Lựa chọn (C) 'him' là đại từ tân ngữ. Nếu dùng 'about him', nó có nghĩa là Ken Nakata nói về một người đàn ông khác, không phải kinh nghiệm của ông ấy. 'about him career experiences' là không đúng ngữ pháp.",
+          "D": "Lựa chọn (D) 'himself' là đại từ phản thân. 'about himself' là đúng ngữ pháp nếu Ken Nakata nói về bản thân ông ấy, nhưng không thể đứng trước 'career experiences' để bổ nghĩa cho nó."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. his",
+        "sentence_explanation": "💬 Trong câu này, chúng ta cần một từ để bổ nghĩa cho cụm danh từ 'career experiences' (kinh nghiệm nghề nghiệp) và chỉ rõ đó là kinh nghiệm của 'Ken Nakata'. Tính từ sở hữu 'his' (của anh ấy) là lựa chọn phù hợp nhất về mặt ngữ pháp và ý nghĩa.",
+        "translation": "Cựu Giám đốc điều hành của Công ty Sendai, Ken Nakata, đã nói về kinh nghiệm nghề nghiệp của mình.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `CEO (Chief Executive Officer)`: Giám đốc điều hành (danh từ).\n- `career experiences`: kinh nghiệm nghề nghiệp (cụm danh từ).\n- `spoke about`: đã nói về (quá khứ của `speak about`).",
+        "grammar_notes": "👉 Câu này kiểm tra kiến thức về tính từ sở hữu. Tính từ sở hữu (ví dụ: my, your, his, her, its, our, their) luôn đứng trước danh từ để chỉ sở hữu."
+      },
+      "en": {
+        "summary": "The blank requires a possessive adjective to modify the noun phrase 'career experiences' and indicate that these experiences belong to Ken Nakata. 'His' is the correct possessive adjective for a male subject."
+      }
+    }
+  },
+  {
+    "id": 102,
+    "question": "Passengers who will be taking a ------- domestic flight should go to Terminal A.",
+    "options": {
+      "A": "connectivity",
+      "B": "connects",
+      "C": "connect",
+      "D": "connecting"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'connectivity' là danh từ, có nghĩa là khả năng kết nối. 'a connectivity domestic flight' không tạo thành một cụm danh từ có nghĩa.",
+          "B": "Lựa chọn (B) 'connects' là động từ chia ở ngôi thứ ba số ít hoặc danh từ số nhiều. Không dùng để bổ nghĩa cho 'domestic flight'.",
+          "C": "Lựa chọn (C) 'connect' là động từ nguyên mẫu. 'a connect domestic flight' là không đúng ngữ pháp.",
+          "D": "Lựa chọn (D) 'connecting' là hiện tại phân từ, đóng vai trò như một tính từ bổ nghĩa cho danh từ 'flight'. 'a connecting domestic flight' có nghĩa là một chuyến bay có điểm dừng hoặc chuyển tiếp, phù hợp với ngữ cảnh."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. connecting",
+        "sentence_explanation": "💬 Trong câu này, chúng ta cần một tính từ để mô tả loại 'domestic flight' (chuyến bay nội địa). 'Connecting' (liên quan đến việc nối chuyến) là hiện tại phân từ dùng như tính từ, chỉ ra đây là chuyến bay chuyển tiếp, rất phổ biến trong lĩnh vực hàng không.",
+        "translation": "Hành khách sẽ đi chuyến bay nội địa nối chuyến nên đến Ga A.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `passenger`: hành khách (danh từ).\n- `domestic flight`: chuyến bay nội địa (cụm danh từ).\n- `Terminal A`: Ga A (cụm danh từ).\n- `connecting flight`: chuyến bay nối chuyến (cụm danh từ).",
+        "grammar_notes": "👉 Câu này kiểm tra việc sử dụng hiện tại phân từ (V-ing) như một tính từ để bổ nghĩa cho danh từ. Hiện tại phân từ thường mô tả hành động đang diễn ra hoặc tính chất của danh từ."
+      },
+      "en": {
+        "summary": "The blank requires an adjective to describe the type of flight. 'Connecting' (the present participle) functions as an adjective meaning a flight that connects to another, or one with a layover. This is a common term in aviation."
+      }
+    }
+  },
+  {
+    "id": 103,
+    "question": "Fresh and ------- apple-cider donuts are available at Oakcrest Orchard's retail shop for £6 per dozen.",
+    "options": {
+      "A": "eaten",
+      "B": "open",
+      "C": "tasty",
+      "D": "free"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'eaten' là quá khứ phân từ của 'eat'. 'Fresh and eaten' (tươi và đã ăn) không có nghĩa trong ngữ cảnh đang bán bánh donut.",
+          "B": "Lựa chọn (B) 'open' là tính từ, có nghĩa là mở. 'Fresh and open' không phải là một mô tả thông thường cho chất lượng của bánh donut.",
+          "C": "Lựa chọn (C) 'tasty' là tính từ, có nghĩa là ngon. 'Fresh and tasty' (tươi và ngon) là một cụm từ rất phổ biến và phù hợp để mô tả chất lượng của thực phẩm, đặc biệt là bánh donut.",
+          "D": "Lựa chọn (D) 'free' là tính từ, có nghĩa là miễn phí. Tuy nhiên, câu cuối chỉ ra giá là '£6 per dozen', nên bánh donut không miễn phí."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. tasty",
+        "sentence_explanation": "💬 Câu này mô tả chất lượng của bánh donut. 'Fresh' (tươi) đi kèm với một tính từ khác để bổ sung ý nghĩa. 'Tasty' (ngon) là tính từ phù hợp nhất để mô tả chất lượng sản phẩm thực phẩm được bán.",
+        "translation": "Bánh donut táo tươi và ngon có sẵn tại cửa hàng bán lẻ của Oakcrest Orchard với giá 6 bảng Anh mỗi tá.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `fresh`: tươi (tính từ).\n- `apple-cider donuts`: bánh donut táo (cụm danh từ).\n- `available`: có sẵn (tính từ).\n- `retail shop`: cửa hàng bán lẻ (cụm danh từ).\n- `per dozen`: mỗi tá (cụm giới từ).",
+        "grammar_notes": "👉 Câu này kiểm tra từ vựng và sự kết hợp của tính từ. Hai tính từ được nối bằng 'and' thường bổ nghĩa cho cùng một danh từ và có ý nghĩa tương đồng hoặc bổ trợ cho nhau."
+      },
+      "en": {
+        "summary": "The blank requires an adjective to describe the quality of the 'apple-cider donuts', following 'Fresh and'. 'Tasty' is the most appropriate adjective to complement 'fresh' when describing food products that are being sold for consumption."
+      }
+    }
+  },
+  {
+    "id": 104,
+    "question": "Zahn Flooring has the widest selection of ------- in the United Kingdom.",
+    "options": {
+      "A": "paints",
+      "B": "tiles",
+      "C": "furniture",
+      "D": "curtains"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'paints' (sơn) thường dùng cho tường, không phải sàn nhà (Flooring).",
+          "B": "Lựa chọn (B) 'tiles' (gạch, ngói lát) là một loại vật liệu lót sàn rất phổ biến. 'selection of tiles' rất phù hợp với công ty 'Zahn Flooring'.",
+          "C": "Lựa chọn (C) 'furniture' (nội thất) không liên quan trực tiếp đến sàn nhà.",
+          "D": "Lựa chọn (D) 'curtains' (rèm cửa) không liên quan đến sàn nhà.",
+          "E": "Không có lựa chọn E."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. tiles",
+        "sentence_explanation": "💬 Tên công ty 'Zahn Flooring' cho biết công ty này chuyên về sàn nhà. Do đó, 'selection of tiles' (lựa chọn gạch lát) là sản phẩm phù hợp nhất trong ngữ cảnh này.",
+        "translation": "Zahn Flooring có nhiều lựa chọn gạch lát đa dạng nhất ở Vương quốc Anh.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `flooring`: vật liệu lót sàn (danh từ).\n- `widest selection`: lựa chọn đa dạng nhất (cụm danh từ).\n- `tiles`: gạch lát (danh từ số nhiều).\n- `in the United Kingdom`: ở Vương quốc Anh (cụm giới từ).",
+        "grammar_notes": "👉 Câu này kiểm tra từ vựng và sự liên quan về nghĩa. Cần chọn một danh từ phù hợp với lĩnh vực kinh doanh của công ty."
+      },
+      "en": {
+        "summary": "Zahn Flooring is a company specializing in flooring. Among the options provided, 'tiles' is the only product directly related to flooring, making it the most logical choice to complete the phrase 'selection of ___'."
+      }
+    }
+  },
+  {
+    "id": 105,
+    "question": "One responsibility of the IT department is to ensure that the company is using ------- software.",
+    "options": {
+      "A": "update",
+      "B": "updating",
+      "C": "updates",
+      "D": "updated"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'update' có thể là động từ nguyên mẫu hoặc danh từ (bản cập nhật). 'using update software' không đúng ngữ pháp.",
+          "B": "Lựa chọn (B) 'updating' là hiện tại phân từ, có thể đóng vai trò tính từ (đang cập nhật). 'updating software' có thể dùng để chỉ phần mềm đang trong quá trình cập nhật hoặc phần mềm có chức năng tự động cập nhật, nhưng không phải là nghĩa phổ biến nhất cho trách nhiệm của IT.",
+          "C": "Lựa chọn (C) 'updates' là danh từ số nhiều (các bản cập nhật) hoặc động từ chia ở ngôi thứ ba số ít. Không dùng để bổ nghĩa cho 'software' trong cấu trúc này.",
+          "D": "Lựa chọn (D) 'updated' là quá khứ phân từ, đóng vai trò như một tính từ (đã được cập nhật). 'updated software' (phần mềm đã được cập nhật) là cách diễn đạt phổ biến và chính xác nhất để nói về phần mềm phiên bản mới nhất, đảm bảo tính bảo mật và hiệu quả, đây là một trách nhiệm cốt lõi của bộ phận IT."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. updated",
+        "sentence_explanation": "💬 Trách nhiệm của bộ phận IT là đảm bảo công ty sử dụng phần mềm phiên bản mới nhất, tức là phần mềm đã được cập nhật. 'Updated' là quá khứ phân từ được dùng như tính từ, hoàn toàn phù hợp để mô tả 'software'.",
+        "translation": "Một trong những trách nhiệm của bộ phận IT là đảm bảo công ty đang sử dụng phần mềm đã được cập nhật.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `responsibility`: trách nhiệm (danh từ).\n- `IT department`: bộ phận công nghệ thông tin (cụm danh từ).\n- `ensure`: đảm bảo (động từ).\n- `software`: phần mềm (danh từ).\n- `updated software`: phần mềm đã được cập nhật (cụm danh từ).",
+        "grammar_notes": "👉 Câu này kiểm tra việc sử dụng quá khứ phân từ (V-ed) như một tính từ để bổ nghĩa cho danh từ, thường mang ý nghĩa bị động (đã được làm gì đó)."
+      },
+      "en": {
+        "summary": "The blank requires an adjective to describe 'software'. 'Updated' (the past participle) functions as an adjective, meaning 'brought up to date'. Ensuring the use of updated software is a key responsibility of an IT department, making it the most logical and grammatically correct choice."
+      }
+    }
+  },
+  {
+    "id": 106,
+    "question": "It is wise to check a company's dress code ------- visiting its head office.",
+    "options": {
+      "A": "so",
+      "B": "how",
+      "C": "like",
+      "D": "before"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'so' là liên từ chỉ kết quả hoặc mục đích. 'so visiting' không phù hợp với ngữ pháp và ý nghĩa của câu.",
+          "B": "Lựa chọn (B) 'how' là trạng từ chỉ cách thức. 'how visiting' không phù hợp.",
+          "C": "Lựa chọn (C) 'like' là giới từ (giống như) hoặc liên từ (như thể). 'like visiting' không truyền tải ý nghĩa thời gian cần thiết.",
+          "D": "Lựa chọn (D) 'before' là giới từ hoặc liên từ, có nghĩa là 'trước khi'. 'before visiting' (trước khi đến thăm) rất phù hợp với ngữ cảnh, khuyên nên kiểm tra quy định trang phục trước chuyến thăm."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. before",
+        "sentence_explanation": "💬 Câu này đưa ra lời khuyên về thời điểm thực hiện hành động. Việc kiểm tra quy định trang phục nên được thực hiện 'trước khi' đến thăm trụ sở chính. 'Before' là giới từ phù hợp để chỉ mối quan hệ thời gian này.",
+        "translation": "Việc kiểm tra quy định trang phục của công ty trước khi đến thăm trụ sở chính là một điều khôn ngoan.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `wise`: khôn ngoan (tính từ).\n- `dress code`: quy định về trang phục (cụm danh từ).\n- `head office`: trụ sở chính (cụm danh từ).\n- `visiting`: việc đến thăm (danh động từ).",
+        "grammar_notes": "👉 Câu này kiểm tra việc sử dụng giới từ hoặc liên từ chỉ thời gian. 'Before' thường đi với danh động từ (V-ing) để chỉ hành động xảy ra trước một hành động khác."
+      },
+      "en": {
+        "summary": "The blank requires a word to indicate the timing of checking the dress code in relation to visiting the head office. 'Before' is the most suitable preposition/conjunction, meaning 'prior to', suggesting that checking the dress code should occur before the visit."
+      }
+    }
+  },
+  {
+    "id": 107,
+    "question": "Wexler Store's management team expects that employees will ------- support any new hires.",
+    "options": {
+      "A": "enthusiastically",
+      "B": "enthusiasm",
+      "C": "enthusiastic",
+      "D": "enthused"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'enthusiastically' là trạng từ, có nghĩa là một cách nhiệt tình. Nó đứng giữa trợ động từ 'will' và động từ chính 'support', bổ nghĩa cho động từ 'support' (ủng hộ một cách nhiệt tình).",
+          "B": "Lựa chọn (B) 'enthusiasm' là danh từ, có nghĩa là sự nhiệt tình. Không phù hợp vị trí trạng từ.",
+          "C": "Lựa chọn (C) 'enthusiastic' là tính từ, có nghĩa là nhiệt tình. Không phù hợp vị trí trạng từ.",
+          "D": "Lựa chọn (D) 'enthused' là quá khứ phân từ của động từ 'enthuse', có thể dùng như tính từ. 'will enthused support' là không đúng ngữ pháp."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. enthusiastically",
+        "sentence_explanation": "💬 Trong câu này, 'will support' là một cụm động từ. Chúng ta cần một trạng từ để mô tả cách thức nhân viên sẽ 'support' (ủng hộ). 'Enthusiastically' (một cách nhiệt tình) hoàn toàn phù hợp về ngữ pháp và ý nghĩa.",
+        "translation": "Đội ngũ quản lý của Wexler Store mong đợi nhân viên sẽ nhiệt tình hỗ trợ bất kỳ nhân viên mới nào.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `management team`: đội ngũ quản lý (cụm danh từ).\n- `expects`: mong đợi (động từ).\n- `support`: hỗ trợ (động từ).\n- `new hires`: nhân viên mới (cụm danh từ).\n- `enthusiastically`: một cách nhiệt tình (trạng từ).",
+        "grammar_notes": "👉 Câu này kiểm tra vị trí và chức năng của trạng từ. Trạng từ thường đứng giữa trợ động từ và động từ chính để bổ nghĩa cho động từ."
+      },
+      "en": {
+        "summary": "The blank is positioned between the auxiliary verb 'will' and the main verb 'support'. This position requires an adverb to modify the verb 'support', indicating the manner in which the employees will support. 'Enthusiastically' is the correct adverb."
+      }
+    }
+  },
+  {
+    "id": 108,
+    "question": "Wheel alignments and brake system ------- are part of our vehicle service plan.",
+    "options": {
+      "A": "inspects",
+      "B": "inspector",
+      "C": "inspected",
+      "D": "inspections"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'inspects' là động từ chia ở ngôi thứ ba số ít. Không phù hợp để đứng sau 'brake system' và trước động từ 'are'.",
+          "B": "Lựa chọn (B) 'inspector' là danh từ chỉ người (người kiểm tra) ở dạng số ít. Không phù hợp với 'brake system' để tạo thành dịch vụ và không khớp với động từ 'are' (số nhiều).",
+          "C": "Lựa chọn (C) 'inspected' là quá khứ phân từ của động từ 'inspect'. 'brake system inspected' có thể là một cụm danh từ nếu 'inspected' làm tính từ, nhưng nó vẫn không khớp với 'are' (số nhiều) và ý nghĩa chung của câu là liệt kê các dịch vụ.",
+          "D": "Lựa chọn (D) 'inspections' là danh từ số nhiều, có nghĩa là các cuộc kiểm tra. 'brake system inspections' (các cuộc kiểm tra hệ thống phanh) là một dịch vụ cụ thể, phù hợp để liệt kê cùng với 'wheel alignments' và khớp với động từ 'are' (số nhiều)."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. inspections",
+        "sentence_explanation": "💬 Câu này liệt kê các dịch vụ thuộc 'vehicle service plan' (kế hoạch dịch vụ xe). 'Wheel alignments' là một cụm danh từ chỉ dịch vụ, nên chúng ta cần một cụm danh từ tương tự cho hệ thống phanh. 'Brake system inspections' (các cuộc kiểm tra hệ thống phanh) là lựa chọn hợp lý nhất.",
+        "translation": "Việc căn chỉnh bánh xe và kiểm tra hệ thống phanh là một phần của kế hoạch dịch vụ xe của chúng tôi.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `wheel alignments`: việc căn chỉnh bánh xe (cụm danh từ).\n- `brake system`: hệ thống phanh (cụm danh từ).\n- `vehicle service plan`: kế hoạch dịch vụ xe (cụm danh từ).\n- `inspections`: các cuộc kiểm tra (danh từ số nhiều).",
+        "grammar_notes": "👉 Câu này kiểm tra sự song song trong cấu trúc câu và việc sử dụng danh từ số nhiều. Khi liệt kê các hạng mục dịch vụ, chúng ta cần sử dụng các danh từ hoặc cụm danh từ có cấu trúc tương đồng."
+      },
+      "en": {
+        "summary": "The sentence lists services that are part of a 'vehicle service plan'. 'Wheel alignments' is a plural noun phrase. Therefore, a plural noun is needed to complete 'brake system ___' to maintain parallelism and denote a type of service. 'Inspections' (plural noun) fits perfectly, referring to the acts of inspecting the brake system."
+      }
+    }
+  },
+  {
+    "id": 109,
+    "question": "Registration for the Marketing Coalition Conference is now open ------- September 30.",
+    "options": {
+      "A": "until",
+      "B": "into",
+      "C": "yet",
+      "D": "while"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'until' là giới từ, có nghĩa là 'cho đến khi'. 'open until September 30' nghĩa là đăng ký mở cho đến hết ngày 30 tháng 9, rất phù hợp để chỉ thời hạn.",
+          "B": "Lựa chọn (B) 'into' là giới từ, thường chỉ sự di chuyển vào bên trong hoặc sự thay đổi trạng thái. Không dùng để chỉ thời hạn.",
+          "C": "Lựa chọn (C) 'yet' là trạng từ, thường dùng trong câu phủ định hoặc câu hỏi để chỉ 'cho đến bây giờ' hoặc 'chưa'. Không phù hợp trong câu khẳng định này để chỉ thời hạn.",
+          "D": "Lựa chọn (D) 'while' là liên từ, có nghĩa là 'trong khi'. Nó cần theo sau bởi một mệnh đề (S + V). 'while September 30' là không đúng ngữ pháp."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. until",
+        "sentence_explanation": "💬 Câu này thông báo về thời gian mở đăng ký. 'Open until [date]' là cấu trúc phổ biến để chỉ thời hạn cuối cùng của một sự kiện hoặc hoạt động. 'Until' là từ chính xác nhất để thể hiện điều này.",
+        "translation": "Đăng ký Hội nghị Liên minh Tiếp thị hiện đang mở cho đến ngày 30 tháng 9.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `registration`: việc đăng ký (danh từ).\n- `Marketing Coalition Conference`: Hội nghị Liên minh Tiếp thị (cụm danh từ riêng).\n- `open`: mở (tính từ).\n- `September 30`: ngày 30 tháng 9 (cụm danh từ chỉ thời gian).",
+        "grammar_notes": "👉 Câu này kiểm tra kiến thức về giới từ chỉ thời gian. 'Until' được dùng để chỉ điểm kết thúc của một khoảng thời gian hoặc một hành động."
+      },
+      "en": {
+        "summary": "The blank requires a preposition to indicate the deadline for registration. 'Until' is the correct preposition to express that registration is open up to and including September 30, marking the end of the period."
+      }
+    }
+  },
+  {
+    "id": 110,
+    "question": "Growth in the home entertainment industry has been ------- this quarter.",
+    "options": {
+      "A": "separate",
+      "B": "limited",
+      "C": "willing",
+      "D": "assorted"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'separate' là tính từ, có nghĩa là riêng biệt. 'separate growth' không có nghĩa thông thường.",
+          "B": "Lựa chọn (B) 'limited' là tính từ, có nghĩa là hạn chế, giới hạn. 'limited growth' (tăng trưởng hạn chế) là một cách diễn đạt phổ biến và có nghĩa, chỉ rằng sự tăng trưởng không lớn hoặc có giới hạn trong quý này.",
+          "C": "Lựa chọn (C) 'willing' là tính từ, có nghĩa là sẵn lòng. Thường dùng để mô tả người hoặc chủ thể có ý chí, không dùng cho 'growth'.",
+          "D": "Lựa chọn (D) 'assorted' là tính từ, có nghĩa là đủ loại, hỗn hợp. Thường dùng cho các vật phẩm đa dạng, không dùng cho 'growth'."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. limited",
+        "sentence_explanation": "💬 Câu này mô tả tính chất của sự tăng trưởng trong một ngành. 'Limited' (hạn chế) là tính từ phù hợp nhất để miêu tả rằng tốc độ hoặc mức độ tăng trưởng không cao trong quý này.",
+        "translation": "Sự tăng trưởng trong ngành công nghiệp giải trí gia đình đã bị hạn chế trong quý này.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `growth`: sự tăng trưởng (danh từ).\n- `home entertainment industry`: ngành công nghiệp giải trí gia đình (cụm danh từ).\n- `this quarter`: quý này (cụm danh từ chỉ thời gian).\n- `limited`: hạn chế, giới hạn (tính từ).",
+        "grammar_notes": "👉 Câu này kiểm tra từ vựng và sự kết hợp giữa tính từ và danh từ. Cần chọn tính từ có ý nghĩa phù hợp để bổ nghĩa cho danh từ 'growth'."
+      },
+      "en": {
+        "summary": "The blank requires an adjective to describe 'growth'. 'Limited' means restricted in amount or extent, which is a common and meaningful way to describe economic growth within a specific period like 'this quarter'."
+      }
+    }
+  },
+  {
+    "id": 111,
+    "question": "Hawson Furniture will be making ------- on the east side of town on Thursday.",
+    "options": {
+      "A": "deliveries",
+      "B": "delivered",
+      "C": "deliver",
+      "D": "deliverable"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'deliveries' là danh từ số nhiều, có nghĩa là các chuyến giao hàng. 'making deliveries' là một cụm động từ (collocation) phổ biến có nghĩa là thực hiện các chuyến giao hàng.",
+          "B": "Lựa chọn (B) 'delivered' là quá khứ phân từ của động từ 'deliver'. 'making delivered' là không đúng ngữ pháp.",
+          "C": "Lựa chọn (C) 'deliver' là động từ nguyên mẫu. 'making deliver' là không đúng ngữ pháp. Cần một danh từ sau 'making' trong ngữ cảnh này (ví dụ: making *a* delivery).",
+          "D": "Lựa chọn (D) 'deliverable' là tính từ (có thể giao được) hoặc danh từ (sản phẩm/kết quả cần giao). 'making deliverable' không đúng ngữ pháp trong cấu trúc này nếu là tính từ, và nếu là danh từ số nhiều ('deliverables') thì có nghĩa là tạo ra sản phẩm, không phải là hành động giao hàng."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. deliveries",
+        "sentence_explanation": "💬 Câu này nói về hoạt động của công ty Hawson Furniture. Cụm từ 'making deliveries' là một thành ngữ thông dụng, có nghĩa là thực hiện việc giao hàng. Nó phù hợp với ngữ cảnh về địa điểm và thời gian.",
+        "translation": "Hawson Furniture sẽ giao hàng ở phía đông thị trấn vào thứ Năm.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `Hawson Furniture`: Nội thất Hawson (danh từ riêng).\n- `making deliveries`: thực hiện việc giao hàng (thành ngữ).\n- `on the east side of town`: ở phía đông thị trấn (cụm giới từ).\n- `on Thursday`: vào thứ Năm (cụm giới từ).",
+        "grammar_notes": "👉 Câu này kiểm tra các cụm động từ (collocations) phổ biến trong tiếng Anh. 'Make a delivery' (giao một chuyến hàng) hoặc 'make deliveries' (giao hàng nhiều chuyến) là cấu trúc chuẩn."
+      },
+      "en": {
+        "summary": "The phrase 'making deliveries' is a common collocation meaning 'performing acts of delivery'. The context of a furniture company needing to transport items to a location on a specific day fits this meaning perfectly. Options B, C, and D are grammatically incorrect or do not fit the semantic context."
+      }
+    }
+  },
+  {
+    "id": 112,
+    "question": "The Marlton City Council does not have the authority to ------- parking on city streets.",
+    "options": {
+      "A": "drive",
+      "B": "prohibit",
+      "C": "bother",
+      "D": "travel"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'drive' (lái xe) không phù hợp với 'parking' (việc đỗ xe) trong ngữ cảnh này.",
+          "B": "Lựa chọn (B) 'prohibit' là động từ, có nghĩa là cấm. 'prohibit parking' (cấm đỗ xe) là một hành động phổ biến và có quyền hạn của hội đồng thành phố đối với các con phố.",
+          "C": "Lựa chọn (C) 'bother' (làm phiền) không có nghĩa khi đi với 'parking'.",
+          "D": "Lựa chọn (D) 'travel' (đi lại, du lịch) không có nghĩa khi đi với 'parking'."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. prohibit",
+        "sentence_explanation": "💬 Câu này nói về quyền hạn của hội đồng thành phố. Hội đồng thành phố thường có quyền ban hành các quy định liên quan đến việc đỗ xe. 'Prohibit' (cấm) là động từ phù hợp nhất để diễn đạt quyền hạn này.",
+        "translation": "Hội đồng Thành phố Marlton không có quyền cấm đỗ xe trên các con phố trong thành phố.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `City Council`: Hội đồng thành phố (cụm danh từ).\n- `authority`: quyền hạn (danh từ).\n- `parking`: việc đỗ xe (danh động từ/danh từ).\n- `city streets`: các con phố trong thành phố (cụm danh từ).\n- `prohibit`: cấm (động từ).",
+        "grammar_notes": "👉 Câu này kiểm tra từ vựng và sự kết hợp động từ-danh từ. Cần chọn một động từ có ý nghĩa phù hợp để đi kèm với danh từ 'parking' và ngữ cảnh 'authority'."
+      },
+      "en": {
+        "summary": "The blank requires a verb that fits the phrase 'the authority to ___ parking'. 'Prohibit' means to formally forbid, which is a common and logical action for a city council regarding parking regulations on city streets."
+      }
+    }
+  },
+  {
+    "id": 113,
+    "question": "Project Earth Group is ------- for ways to reduce transport-related greenhouse gas emissions.",
+    "options": {
+      "A": "looking",
+      "B": "seeing",
+      "C": "driving",
+      "D": "leaning"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'looking' là hiện tại phân từ. 'looking for' là một cụm động từ (phrasal verb) có nghĩa là tìm kiếm. 'is looking for ways' (đang tìm cách) là một cấu trúc hoàn toàn đúng và có nghĩa.",
+          "B": "Lựa chọn (B) 'seeing' là hiện tại phân từ. 'seeing for ways' không phải là cụm động từ có nghĩa trong ngữ cảnh này.",
+          "C": "Lựa chọn (C) 'driving' là hiện tại phân từ. 'driving for ways' không có nghĩa.",
+          "D": "Lựa chọn (D) 'leaning' là hiện tại phân từ. 'leaning for ways' không có nghĩa."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. looking",
+        "sentence_explanation": "💬 Câu này mô tả hoạt động của 'Project Earth Group'. Họ đang 'tìm kiếm' các giải pháp. Cụm động từ 'look for' (tìm kiếm) là phù hợp nhất trong ngữ cảnh này. Với 'is' phía trước, chúng ta cần dạng V-ing của động từ.",
+        "translation": "Nhóm Dự án Trái đất đang tìm cách giảm lượng khí thải nhà kính liên quan đến giao thông.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `Project Earth Group`: Nhóm Dự án Trái đất (danh từ riêng).\n- `ways`: cách thức, phương pháp (danh từ số nhiều).\n- `reduce`: giảm (động từ).\n- `transport-related`: liên quan đến giao thông (tính từ ghép).\n- `greenhouse gas emissions`: khí thải nhà kính (cụm danh từ).\n- `look for`: tìm kiếm (cụm động từ).",
+        "grammar_notes": "👉 Câu này kiểm tra kiến thức về cụm động từ (phrasal verbs) và thì hiện tại tiếp diễn (be + V-ing). Cụm 'look for' là cụm động từ chính xác để diễn tả hành động tìm kiếm."
+      },
+      "en": {
+        "summary": "The phrase 'is looking for ways' is a common and grammatically correct construction in the present continuous tense, meaning 'is searching for methods'. 'Look for' is the appropriate phrasal verb to express the idea of seeking solutions to reduce emissions."
+      }
+    }
+  },
+  {
+    "id": 114,
+    "question": "Our skilled tailors are happy to design a custom-made suit that fits your style and budget -------.",
+    "options": {
+      "A": "perfect",
+      "B": "perfects",
+      "C": "perfectly",
+      "D": "perfection"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'perfect' là tính từ. Mặc dù đôi khi được dùng trong văn nói, nhưng trong văn viết trang trọng, nó không thể trực tiếp bổ nghĩa cho động từ 'fits' sau nó.",
+          "B": "Lựa chọn (B) 'perfects' là động từ chia ở ngôi thứ ba số ít. Không phù hợp vị trí của trạng từ hoặc tính từ.",
+          "C": "Lựa chọn (C) 'perfectly' là trạng từ, có nghĩa là một cách hoàn hảo. Nó bổ nghĩa cho động từ 'fits' (phù hợp một cách hoàn hảo), đây là cách dùng chính xác về mặt ngữ pháp và ý nghĩa.",
+          "D": "Lựa chọn (D) 'perfection' là danh từ, có nghĩa là sự hoàn hảo. Không phù hợp để bổ nghĩa cho động từ."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. perfectly",
+        "sentence_explanation": "💬 Câu này mô tả cách thức bộ vest được thiết kế để 'fits' (phù hợp) với phong cách và ngân sách. Chúng ta cần một trạng từ để bổ nghĩa cho động từ 'fits'. 'Perfectly' (một cách hoàn hảo) là trạng từ phù hợp nhất.",
+        "translation": "Những thợ may lành nghề của chúng tôi rất vui lòng thiết kế một bộ vest đặt làm riêng phù hợp hoàn hảo với phong cách và ngân sách của bạn.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `skilled tailors`: những thợ may lành nghề (cụm danh từ).\n- `custom-made suit`: bộ vest đặt làm riêng (cụm danh từ).\n- `fits`: phù hợp (động từ).\n- `style`: phong cách (danh từ).\n- `budget`: ngân sách (danh từ).\n- `perfectly`: một cách hoàn hảo (trạng từ).",
+        "grammar_notes": "👉 Câu này kiểm tra kiến thức về trạng từ bổ nghĩa cho động từ. Trạng từ (thường kết thúc bằng -ly) được dùng để mô tả cách thức một hành động xảy ra."
+      },
+      "en": {
+        "summary": "The blank requires an adverb to modify the verb 'fits', describing *how* the suit fits. 'Perfectly' is the adverbial form of 'perfect', meaning 'in a perfect manner', which is grammatically correct and semantically appropriate for describing a perfectly tailored suit."
+      }
+    }
+  },
+  {
+    "id": 115,
+    "question": "Project manager Hannah Chung has proved to be very ------- with completing company projects.",
+    "options": {
+      "A": "helpfulness",
+      "B": "help",
+      "C": "helpfully",
+      "D": "helpful"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'helpfulness' là danh từ, có nghĩa là sự hữu ích. 'very helpfulness' là không đúng ngữ pháp.",
+          "B": "Lựa chọn (B) 'help' có thể là danh từ (sự giúp đỡ) hoặc động từ (giúp đỡ). 'very help' là không đúng ngữ pháp.",
+          "C": "Lựa chọn (C) 'helpfully' là trạng từ, có nghĩa là một cách hữu ích. Nó thường bổ nghĩa cho động từ. Tuy nhiên, ở đây chúng ta cần một tính từ để mô tả Hannah Chung sau 'to be very'.",
+          "D": "Lựa chọn (D) 'helpful' là tính từ, có nghĩa là hữu ích. 'very helpful' là cấu trúc đúng ngữ pháp (very + tính từ) để mô tả tính cách hoặc phẩm chất của Hannah Chung."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. helpful",
+        "sentence_explanation": "💬 Trong câu này, 'to be very' cần được theo sau bởi một tính từ để mô tả phẩm chất của Hannah Chung. 'Helpful' (hữu ích) là tính từ phù hợp nhất, chỉ ra rằng cô ấy rất có ích trong việc hoàn thành các dự án của công ty.",
+        "translation": "Quản lý dự án Hannah Chung đã chứng tỏ mình rất hữu ích trong việc hoàn thành các dự án của công ty.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `project manager`: quản lý dự án (cụm danh từ).\n- `has proved to be`: đã chứng tỏ là (cấu trúc).\n- `completing`: việc hoàn thành (danh động từ).\n- `company projects`: các dự án của công ty (cụm danh từ).\n- `helpful`: hữu ích (tính từ).",
+        "grammar_notes": "👉 Câu này kiểm tra kiến thức về tính từ sau động từ 'to be' và các trạng từ cường độ ('very'). Cấu trúc 'to be very + adjective' là cách dùng chuẩn để mô tả một phẩm chất."
+      },
+      "en": {
+        "summary": "The blank follows 'to be very', which requires an adjective to describe Hannah Chung's quality. 'Helpful' is an adjective meaning 'providing help or usefulness', which accurately describes someone who is effective at completing company projects. The other options are incorrect parts of speech in this context."
+      }
+    }
+  },
+  {
+    "id": 116,
+    "question": "Lehua Vacation Club members will receive double points ------- the month of August at participating hotels.",
+    "options": {
+      "A": "onto",
+      "B": "above",
+      "C": "during",
+      "D": "between"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'onto' là giới từ, chỉ sự di chuyển lên trên một bề mặt. Không dùng để chỉ thời gian.",
+          "B": "Lựa chọn (B) 'above' là giới từ, có nghĩa là phía trên. Không dùng để chỉ thời gian.",
+          "C": "Lựa chọn (C) 'during' là giới từ, có nghĩa là 'trong suốt thời gian'. 'during the month of August' (trong suốt tháng Tám) là cách diễn đạt chính xác về khoảng thời gian mà các điểm sẽ được nhận.",
+          "D": "Lựa chọn (D) 'between' là giới từ, có nghĩa là 'giữa'. Nó thường đi với 'and' để chỉ khoảng thời gian giữa hai điểm cụ thể (ví dụ: between August 1 and August 31). 'between the month of August' là không đúng ngữ pháp."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. during",
+        "sentence_explanation": "💬 Câu này nói về thời điểm thành viên sẽ nhận được điểm thưởng. 'The month of August' là một khoảng thời gian. 'During' là giới từ phù hợp nhất để chỉ rằng sự kiện này sẽ diễn ra 'trong suốt' tháng Tám.",
+        "translation": "Các thành viên Câu lạc bộ Nghỉ dưỡng Lehua sẽ nhận được điểm gấp đôi trong suốt tháng 8 tại các khách sạn tham gia.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `Lehua Vacation Club members`: các thành viên Câu lạc bộ Nghỉ dưỡng Lehua (cụm danh từ).\n- `receive`: nhận (động từ).\n- `double points`: điểm gấp đôi (cụm danh từ).\n- `the month of August`: tháng Tám (cụm danh từ).\n- `participating hotels`: các khách sạn tham gia (cụm danh từ).\n- `during`: trong suốt (giới từ).",
+        "grammar_notes": "👉 Câu này kiểm tra kiến thức về giới từ chỉ thời gian. 'During' được sử dụng để chỉ một sự việc xảy ra trong một khoảng thời gian cụ thể."
+      },
+      "en": {
+        "summary": "The blank requires a preposition to indicate a period of time. 'During' means 'throughout the duration of', which perfectly fits the context of receiving points throughout 'the month of August'. The other prepositions do not convey the correct temporal meaning."
+      }
+    }
+  },
+  {
+    "id": 117,
+    "question": "The costumes were not received ------- enough to be used in the first dress rehearsal.",
+    "options": {
+      "A": "far",
+      "B": "very",
+      "C": "almost",
+      "D": "soon"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'far' là trạng từ, chỉ khoảng cách xa. Không phù hợp với 'enough' để chỉ thời gian.",
+          "B": "Lựa chọn (B) 'very' là trạng từ cường độ. Không thể đứng trực tiếp trước 'enough' để bổ nghĩa cho nó theo cách này ('very enough' là không đúng ngữ pháp).",
+          "C": "Lựa chọn (C) 'almost' là trạng từ, có nghĩa là gần như. 'almost enough' là không đúng ngữ pháp để diễn đạt ý nghĩa 'không đủ sớm'.",
+          "D": "Lựa chọn (D) 'soon' là trạng từ, có nghĩa là sớm. Cụm 'not received soon enough' (không được nhận đủ sớm) có nghĩa là chúng bị nhận trễ, không kịp cho buổi tổng duyệt đầu tiên. Đây là lựa chọn phù hợp nhất."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. soon",
+        "sentence_explanation": "💬 Câu này ám chỉ rằng trang phục đến muộn, không kịp cho buổi tổng duyệt. Cụm từ 'soon enough' có nghĩa là 'đủ sớm'. Khi dùng 'not... soon enough', nó mang ý nghĩa là 'quá muộn'.",
+        "translation": "Trang phục đã không được nhận đủ sớm để sử dụng trong buổi tổng duyệt đầu tiên.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `costumes`: trang phục (danh từ số nhiều).\n- `received`: được nhận (quá khứ phân từ).\n- `dress rehearsal`: buổi tổng duyệt trang phục (cụm danh từ).\n- `soon enough`: đủ sớm (cụm trạng từ).",
+        "grammar_notes": "👉 Câu này kiểm tra cụm trạng từ 'soon enough'. Khi dùng với phủ định 'not...soon enough', nó diễn tả rằng một điều gì đó đã xảy ra quá muộn hoặc không kịp thời gian."
+      },
+      "en": {
+        "summary": "The blank needs an adverb to complete the phrase 'not received ___ enough'. 'Soon enough' means 'early enough'. If the costumes were 'not received soon enough', it means they arrived too late to be used for the first dress rehearsal, which fits the context perfectly."
+      }
+    }
+  },
+  {
+    "id": 118,
+    "question": "As a former publicist for several renowned orchestras, Mr. Wu would excel in the role of event -------.",
+    "options": {
+      "A": "organized",
+      "B": "organizer",
+      "C": "organizes",
+      "D": "organizational"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'organized' là quá khứ phân từ, có thể làm tính từ. 'event organized' không phải là một chức danh công việc hoặc vai trò.",
+          "B": "Lựa chọn (B) 'organizer' là danh từ, có nghĩa là người tổ chức. 'event organizer' (người tổ chức sự kiện) là một chức danh công việc phổ biến và phù hợp với kinh nghiệm của Mr. Wu với các dàn nhạc (orchestras).",
+          "C": "Lựa chọn (C) 'organizes' là động từ chia ở ngôi thứ ba số ít. Không phù hợp làm danh từ trong cụm 'role of event ___'.",
+          "D": "Lựa chọn (D) 'organizational' là tính từ, có nghĩa là thuộc về tổ chức. 'event organizational' không phải là một cụm danh từ có nghĩa trong tiếng Anh để chỉ vai trò."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. organizer",
+        "sentence_explanation": "💬 Câu này nói về vai trò mà Mr. Wu sẽ 'excel' (xuất sắc) trong đó, dựa trên kinh nghiệm làm chuyên viên quảng bá cho các dàn nhạc. Kinh nghiệm đó rất phù hợp với vai trò 'event organizer' (người tổ chức sự kiện).",
+        "translation": "Là một cựu chuyên viên quảng bá cho nhiều dàn nhạc nổi tiếng, ông Wu sẽ xuất sắc trong vai trò người tổ chức sự kiện.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `former`: cựu, trước đây (tính từ).\n- `publicist`: chuyên viên quảng bá (danh từ).\n- `renowned`: nổi tiếng (tính từ).\n- `orchestras`: các dàn nhạc (danh từ số nhiều).\n- `excel`: xuất sắc (động từ).\n- `role`: vai trò (danh từ).\n- `event organizer`: người tổ chức sự kiện (cụm danh từ).",
+        "grammar_notes": "👉 Câu này kiểm tra từ vựng và sự kết hợp danh từ. Cần chọn một danh từ để hoàn thành cụm 'role of event ___' sao cho nó trở thành một chức danh hoặc vai trò có nghĩa và phù hợp với ngữ cảnh."
+      },
+      "en": {
+        "summary": "The blank requires a noun to complete the phrase 'role of event ___'. Given Mr. Wu's background as a publicist for orchestras, the role of an 'event organizer' (a person who plans and coordinates events) is the most logical and grammatically correct fit."
+      }
+    }
+  },
+  {
+    "id": 119,
+    "question": "The northbound lane on Davis Street will be ------- closed because of the city's bridge reinforcement project.",
+    "options": {
+      "A": "temporarily",
+      "B": " competitively",
+      "C": "recently",
+      "D": "collectively"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'temporarily' là trạng từ, có nghĩa là tạm thời. 'temporarily closed' (tạm thời đóng cửa) là một cụm từ rất phổ biến và phù hợp khi một con đường bị đóng do một dự án xây dựng.",
+          "B": "Lựa chọn (B) 'competitively' là trạng từ, có nghĩa là một cách cạnh tranh. Không phù hợp với việc đóng đường.",
+          "C": "Lựa chọn (C) 'recently' là trạng từ, có nghĩa là gần đây. Thường chỉ hành động đã xảy ra trong quá khứ gần. 'will be recently closed' là không đúng ngữ pháp vì 'will be' chỉ tương lai.",
+          "D": "Lựa chọn (D) 'collectively' là trạng từ, có nghĩa là một cách tập thể, cùng nhau. Không phù hợp với việc đóng đường."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. temporarily",
+        "sentence_explanation": "💬 Câu này nói về việc đóng làn đường do một dự án. Các dự án như vậy thường dẫn đến việc đóng đường 'tạm thời'. 'Temporarily' (tạm thời) là trạng từ hoàn hảo để mô tả thời gian đóng đường.",
+        "translation": "Làn đường đi hướng bắc trên phố Davis sẽ tạm thời bị đóng cửa vì dự án gia cố cầu của thành phố.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `northbound lane`: làn đường hướng bắc (cụm danh từ).\n- `closed`: đóng cửa (tính từ/quá khứ phân từ).\n- `bridge reinforcement project`: dự án gia cố cầu (cụm danh từ).\n- `temporarily`: tạm thời (trạng từ).",
+        "grammar_notes": "👉 Câu này kiểm tra việc sử dụng trạng từ bổ nghĩa cho động từ 'be closed'. Trạng từ 'temporarily' phù hợp với ý nghĩa của việc đóng đường vì một dự án."
+      },
+      "en": {
+        "summary": "The blank requires an adverb to modify 'closed', indicating the duration of the closure. A bridge reinforcement project typically causes a closure that is not permanent. 'Temporarily' (for a limited period of time) is the most appropriate adverb to describe this kind of road closure."
+      }
+    }
+  },
+  {
+    "id": 120,
+    "question": "Airline representatives must handle a wide range of passenger issues, ------- missed connections to lost luggage.",
+    "options": {
+      "A": "from",
+      "B": "under",
+      "C": "on",
+      "D": "against"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Lựa chọn (A) 'from'. Cụm 'from X to Y' được sử dụng để chỉ một phạm vi. Ở đây, 'missed connections to lost luggage' đã là một phạm vi. Do đó, 'from' đứng trước nó sẽ hoàn thiện cấu trúc 'from [điểm bắt đầu của phạm vi] to [điểm kết thúc của phạm vi]', ám chỉ các vấn đề trải dài từ việc lỡ chuyến đến mất hành lý.",
+          "B": "Lựa chọn (B) 'under' là giới từ, có nghĩa là dưới. Không phù hợp trong ngữ cảnh này.",
+          "C": "Lựa chọn (C) 'on' là giới từ, có nghĩa là trên. Không phù hợp trong ngữ cảnh này.",
+          "D": "Lựa chọn (D) 'against' là giới từ, có nghĩa là chống lại. Không phù hợp trong ngữ cảnh này."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. from",
+        "sentence_explanation": "💬 Câu này đang liệt kê các ví dụ về 'passenger issues' (các vấn đề của hành khách), cụ thể là một phạm vi từ việc lỡ chuyến đến mất hành lý. Cấu trúc 'from X to Y' được dùng để chỉ một phạm vi rộng. Mặc dù động từ 'ranging' không có mặt, 'from' vẫn có thể bắt đầu phần liệt kê phạm vi này.",
+        "translation": "Đại diện hãng hàng không phải xử lý nhiều vấn đề đa dạng của hành khách, từ việc lỡ chuyến đến mất hành lý.",
+        "vocab_notes": "📘 Ghi nhớ:\n- `airline representatives`: đại diện hãng hàng không (cụm danh từ).\n- `handle`: xử lý (động từ).\n- `a wide range of`: một phạm vi rộng lớn (cụm danh từ).\n- `passenger issues`: các vấn đề của hành khách (cụm danh từ).\n- `missed connections`: lỡ chuyến bay nối (cụm danh từ).\n- `lost luggage`: hành lý thất lạc (cụm danh từ).",
+        "grammar_notes": "👉 Câu này kiểm tra kiến thức về giới từ để chỉ phạm vi. Cấu trúc 'from X to Y' là phổ biến để diễn đạt một loạt các hạng mục. Ở đây, 'to' đã có sẵn trong 'to lost luggage', nên 'from' sẽ hoàn thiện cấu trúc này."
+      },
+      "en": {
+        "summary": "The phrase 'missed connections to lost luggage' already forms a range. The preposition 'from' is used to initiate a range when followed by 'to' (e.g., 'from A to B'). By selecting 'from', the sentence implies a range of issues spanning from missed connections to lost luggage, which perfectly describes the examples given."
+      }
+    }
+  }
+]
