@@ -38,7 +38,7 @@ export default function TestCreator({
         form.append("description", description.trim());
         form.append("timeLimit", String(timeLimit));
 
-        const res = await fetch("/api/generate-test", {
+        const res = await fetch("/toeic/api/generate-test", {
           method: "POST",
           body: form,
         });
