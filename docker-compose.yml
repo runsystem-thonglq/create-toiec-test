@@ -9,8 +9,6 @@ services:
       - "3003:3000"
     env_file:
       - .env
-    environment:
-      # Load environment variables from .env file
     restart: unless-stopped
     container_name: toeic-test-app
     networks:
