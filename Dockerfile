@@ -19,6 +19,9 @@ COPY . .
 
 # Ensure public directory exists (create if it doesn't)
 RUN mkdir -p public
+RUN mkdir -p AI
+
+
 
 # Next.js collects completely anonymous telemetry data about general usage.
 # Learn more here: https://nextjs.org/telemetry
@@ -40,7 +43,7 @@ RUN adduser --system --uid 1001 nextjs
 
 # Copy public directory if it exists
 COPY --from=builder /app/public ./public
-
+COPY --from=builder /app/AI ./AI
 # Set the correct permission for prerender cache
 RUN mkdir .next
 RUN chown nextjs:nodejs .next

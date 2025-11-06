@@ -27,7 +27,6 @@ export async function POST(req: NextRequest) {
       path.join(process.cwd(), "AI", "promt", "part6.md"),
       path.join(process.cwd(), "AI", "promt", "part7.md"),
     ].map((p) => fs.readFileSync(p, "utf-8"));
-
     // Fire 3 requests concurrently
     const [r5, r6, r7] = await Promise.all(
       prompts.map((p) =>
