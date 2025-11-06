@@ -4,6 +4,7 @@ const nextConfig = {
     appDir: true,
     assetPrefix: "/toeic",
   },
+  basePath: "/toeic",
   output: "standalone",
 };
 
