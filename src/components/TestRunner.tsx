@@ -113,7 +113,9 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
   useEffect(() => {
     const loadUserAnswers = async () => {
       try {
-        const response = await fetch(`/api/user-answers?testId=${test.id}`);
+        const response = await fetch(
+          `/toeic/api/user-answers?testId=${test.id}`
+        );
         if (response.ok) {
           const data = await response.json();
           setUserAnswers(data.userAnswers || []);
@@ -128,7 +130,7 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
   useEffect(() => {
     const saveUserAnswers = async () => {
       try {
-        await fetch("/api/user-answers", {
+        await fetch("/toeic/api/user-answers", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ testId: test.id, userAnswers }),
@@ -221,7 +223,7 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
     userAnswers.find((a) => a.id === id)?.value as Choice | undefined;
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-6 relative">
+    <div className="grid grid-cols-1 lg:grid-cols-[1fr_200px] gap-6 relative">
       <div>
         <div className="flex items-center justify-between mb-4">
           <button onClick={onBack} className="btn btn-secondary">

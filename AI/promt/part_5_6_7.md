@@ -21,7 +21,7 @@ Nếu chỉ có một phần, chỉ xuất phần tương ứng.
 
 Trả về **một mảng JSON hợp lệ duy nhất**, KHÔNG có văn bản thừa ngoài JSON.
 
-```json
+```
 [
   {
     "part": 5,

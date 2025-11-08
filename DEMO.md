@@ -39,7 +39,7 @@
 
 ### 📁 Cấu Trúc File JSON:
 
-```json
+```
 {
   "sample_test_1": [
     { "id": 1, "value": "A" },

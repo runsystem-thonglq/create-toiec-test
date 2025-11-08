@@ -1,0 +1,872 @@
+[
+  {
+    "id": 101,
+    "question": "Video game designers need a broad ------- of computer programming.",
+    "options": {
+      "A": "knowledge",
+      "B": "known",
+      "C": "knowing",
+      "D": "know"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **knowledge** (danh từ): có nghĩa là 'kiến thức'. Cụm từ 'a broad knowledge of something' (kiến thức sâu rộng về cái gì đó) là một cấu trúc danh từ phổ biến và phù hợp về mặt ngữ pháp và ý nghĩa.",
+          "B": "**known** (tính từ/quá khứ phân từ): có nghĩa là 'được biết đến'. Không phù hợp để đứng sau 'a broad'.",
+          "C": "**knowing** (danh động từ/tính từ): có nghĩa là 'việc biết' hoặc 'am hiểu'. Mặc dù có thể là danh từ (gerund), nhưng trong ngữ cảnh này, 'knowledge' là từ đúng hơn để diễn tả 'kiến thức'.",
+          "D": "**know** (động từ): có nghĩa là 'biết'. Không thể đứng sau 'a broad' như một danh từ."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. knowledge",
+        "sentence_explanation": "💬 Câu này yêu cầu một danh từ để hoàn thành cụm 'a broad ------- of computer programming', có nghĩa là 'một kiến thức sâu rộng về lập trình máy tính'. 'Knowledge' là danh từ phù hợp nhất.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Các nhà thiết kế trò chơi điện tử cần có kiến thức sâu rộng về lập trình máy tính.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **broad** (tính từ): rộng, sâu rộng.\n- **knowledge** (danh từ): kiến thức, sự hiểu biết.\n- **computer programming** (cụm danh từ): lập trình máy tính.",
+        "grammar_notes": "👉 Cấu trúc: **a + adjective + noun + of + something**."
+      },
+      "en": {
+        "summary": "The phrase 'a broad knowledge of' requires a noun. 'Knowledge' is the correct noun that means 'understanding of a subject,' fitting the context perfectly. 'Known' is an adjective, 'knowing' is a gerund/adjective, and 'know' is a verb, none of which fit grammatically after 'a broad' to mean 'a wide understanding'."
+      }
+    }
+  },
+  {
+    "id": 102,
+    "question": "Concerning the item that was lost in transit, we will take responsibility for -------.",
+    "options": {
+      "A": "it",
+      "B": "its",
+      "C": "its own",
+      "D": "itself"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**it** (đại từ tân ngữ): Mặc dù ngữ pháp có thể chấp nhận 'take responsibility for it', nhưng trong ngữ cảnh này, việc sử dụng đại từ phản thân 'itself' mang lại sự nhấn mạnh rằng trách nhiệm là dành cho chính món đồ đó, chứ không phải bất cứ điều gì liên quan đến nó.",
+          "B": "**its** (tính từ sở hữu/đại từ sở hữu): 'Its' là tính từ sở hữu (ví dụ: 'its color') hoặc đại từ sở hữu (ví dụ: 'The cat lost its toy, so its is gone'). Không phù hợp ở đây.",
+          "C": "**its own** (tính từ sở hữu + tính từ): Dùng để nhấn mạnh quyền sở hữu. Không phù hợp với 'take responsibility for'.",
+          "D": "✅ **itself** (đại từ phản thân/đại từ nhấn mạnh): Trong trường hợp này, 'itself' được dùng như một đại từ nhấn mạnh, chỉ rõ rằng trách nhiệm là dành cho 'the item' đã bị mất, không phải cho một khía cạnh nào khác. Nó thường được sử dụng để nhấn mạnh đối tượng của một hành động, đặc biệt khi đối tượng đã được đề cập trước đó."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. itself",
+        "sentence_explanation": "💬 Câu này nói về việc nhận trách nhiệm cho một món đồ bị thất lạc. 'Take responsibility for itself' nghĩa là nhận trách nhiệm cho chính món đồ đó, nhấn mạnh đối tượng của trách nhiệm.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Liên quan đến món hàng bị mất trong quá trình vận chuyển, chúng tôi sẽ chịu trách nhiệm về chính món hàng đó.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **concerning** (giới từ): liên quan đến, về.\n- **in transit** (cụm giới từ): đang được vận chuyển.\n- **take responsibility for** (cụm động từ): chịu trách nhiệm về.",
+        "grammar_notes": "👉 Đại từ phản thân (reflexive/emphatic pronoun) 'itself' được dùng để nhấn mạnh danh từ hoặc đại từ đã được nhắc đến trước đó, ở đây là 'the item'."
+      },
+      "en": {
+        "summary": "The phrase 'take responsibility for' needs an object. 'Itself' is an emphatic pronoun that refers back to 'the item' and adds emphasis that the responsibility is for the item directly. While 'it' is grammatically possible, 'itself' clarifies and emphasizes that the company is taking responsibility for the specific lost item."
+      }
+    }
+  },
+  {
+    "id": 103,
+    "question": "The Springly Energy marketing team is working hard ------- our latest products.",
+    "options": {
+      "A": "promote",
+      "B": "to promote",
+      "C": "promoted",
+      "D": "were promoting"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**promote** (động từ nguyên mẫu không 'to'): Không thể đứng trực tiếp sau 'working hard' để chỉ mục đích.",
+          "B": "✅ **to promote** (động từ nguyên mẫu có 'to'): Được sử dụng để diễn tả mục đích hoặc lý do của hành động 'working hard'. Cụm 'working hard to do something' (làm việc chăm chỉ để làm gì đó) là cấu trúc chuẩn.",
+          "C": "**promoted** (quá khứ đơn/quá khứ phân từ): Có nghĩa là 'đã quảng bá' hoặc 'được quảng bá'. Không phù hợp với ngữ cảnh 'is working hard' (đang làm việc chăm chỉ).",
+          "D": "**were promoting** (quá khứ tiếp diễn): Có nghĩa là 'đang quảng bá' trong quá khứ. Không phù hợp với thì hiện tại tiếp diễn của 'is working hard'."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. to promote",
+        "sentence_explanation": "💬 Câu này diễn tả mục đích của việc nhóm tiếp thị làm việc chăm chỉ. Động từ nguyên mẫu có 'to' (infinitive of purpose) là lựa chọn đúng để chỉ mục đích.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Nhóm tiếp thị của Springly Energy đang làm việc chăm chỉ để quảng bá các sản phẩm mới nhất của chúng tôi.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **marketing team** (cụm danh từ): đội ngũ tiếp thị.\n- **promote** (động từ): quảng bá, khuyến mãi.",
+        "grammar_notes": "👉 Cấu trúc: **verb + hard + to + base form verb (infinitive of purpose)** (làm việc chăm chỉ để làm gì)."
+      },
+      "en": {
+        "summary": "The phrase 'working hard' is followed by an infinitive with 'to' to express the purpose of the action. 'To promote' correctly indicates that the team is working hard *in order to promote* their products."
+      }
+    }
+  },
+  {
+    "id": 104,
+    "question": "The job advertisement lists several ------- needed to be considered for an interview.",
+    "options": {
+      "A": "specialists",
+      "B": "qualifications",
+      "C": "engagements",
+      "D": "assortments"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**specialists** (danh từ): các chuyên gia. Là người, không phải thứ được yêu cầu để xem xét cho một cuộc phỏng vấn.",
+          "B": "✅ **qualifications** (danh từ): trình độ chuyên môn, bằng cấp, kinh nghiệm. Đây là những yếu tố cần thiết để được xem xét cho một cuộc phỏng vấn, phù hợp với ngữ cảnh 'needed to be considered'.",
+          "C": "**engagements** (danh từ): các cuộc hẹn, sự cam kết. Không phù hợp với ngữ cảnh tuyển dụng này.",
+          "D": "**assortments** (danh từ): các loại, sự đa dạng. Không liên quan đến yêu cầu cho một cuộc phỏng vấn."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. qualifications",
+        "sentence_explanation": "💬 Câu này nói về những gì mà một quảng cáo việc làm liệt kê là cần thiết để được xem xét cho một cuộc phỏng vấn. 'Qualifications' (trình độ chuyên môn) là từ phù hợp nhất để mô tả các yêu cầu này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Quảng cáo việc làm liệt kê một số yêu cầu cần thiết để được xem xét phỏng vấn.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **job advertisement** (cụm danh từ): quảng cáo việc làm.\n- **qualifications** (danh từ số nhiều): bằng cấp, trình độ chuyên môn, các kỹ năng cần thiết.\n- **consider for an interview** (cụm động từ): xem xét cho một cuộc phỏng vấn.",
+        "grammar_notes": "👉 Câu cần một danh từ số nhiều phù hợp với 'several' và ý nghĩa của ngữ cảnh tuyển dụng."
+      },
+      "en": {
+        "summary": "The blank requires a plural noun that represents the criteria or requirements for a job interview. 'Qualifications' (skills, experience, education) is the most appropriate noun in this context, indicating what is 'needed to be considered' for the interview."
+      }
+    }
+  },
+  {
+    "id": 105,
+    "question": "When the contract is signed and received, it will become ------- immediately.",
+    "options": {
+      "A": "effective",
+      "B": "effect",
+      "C": "effected",
+      "D": "effectively"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **effective** (tính từ): có nghĩa là 'có hiệu lực', 'có tác dụng'. Động từ 'become' là một linking verb (động từ nối), cần một tính từ theo sau để mô tả trạng thái của chủ ngữ. 'Become effective' (trở nên có hiệu lực) là cấu trúc chuẩn.",
+          "B": "**effect** (danh từ): có nghĩa là 'hiệu quả', 'ảnh hưởng'. Không thể đứng trực tiếp sau 'become' để mô tả trạng thái.",
+          "C": "**effected** (quá khứ phân từ của động từ 'effect'): có nghĩa là 'đã tạo ra', 'đã thực hiện'. Không phù hợp ở đây.",
+          "D": "**effectively** (trạng từ): có nghĩa là 'một cách hiệu quả'. Trạng từ không thể đứng trực tiếp sau linking verb 'become' để mô tả chủ ngữ."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. effective",
+        "sentence_explanation": "💬 Câu này diễn tả rằng hợp đồng sẽ bắt đầu có hiệu lực ngay lập tức sau khi được ký và nhận. 'Become effective' là cụm từ chính xác để nói về việc một cái gì đó bắt đầu có hiệu lực.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Khi hợp đồng được ký và nhận, nó sẽ có hiệu lực ngay lập tức.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **contract** (danh từ): hợp đồng.\n- **signed** (quá khứ phân từ): được ký kết.\n- **received** (quá khứ phân từ): được nhận.\n- **effective** (tính từ): có hiệu lực, có tác dụng.\n- **immediately** (trạng từ): ngay lập tức.",
+        "grammar_notes": "👉 Động từ nối (linking verb) **become** luôn được theo sau bởi một **tính từ** để mô tả trạng thái của chủ ngữ."
+      },
+      "en": {
+        "summary": "'Become' is a linking verb, which should be followed by an adjective to describe the state of the subject. 'Effective' is an adjective meaning 'having an effect; in operation or in force,' which perfectly fits the context of a contract starting to be valid. 'Effect' is a noun, 'effected' is a verb, and 'effectively' is an adverb, none of which are suitable here."
+      }
+    }
+  },
+  {
+    "id": 106,
+    "question": "It is unlikely that a policy change could have ------- the financial challenge that the construction company faced.",
+    "options": {
+      "A": "shared",
+      "B": "banned",
+      "C": "forbidden",
+      "D": "prevented"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**shared** (quá khứ phân từ của 'share'): có nghĩa là 'đã chia sẻ'. Không phù hợp với việc giải quyết một thách thức tài chính.",
+          "B": "**banned** (quá khứ phân từ của 'ban'): có nghĩa là 'đã cấm'. Không thể 'cấm' một thách thức.",
+          "C": "**forbidden** (quá khứ phân từ của 'forbid'): có nghĩa là 'đã cấm'. Tương tự 'banned', không phù hợp.",
+          "D": "✅ **prevented** (quá khứ phân từ của 'prevent'): có nghĩa là 'đã ngăn chặn', 'đã phòng ngừa'. 'Prevented the financial challenge' nghĩa là ngăn chặn thách thức tài chính, phù hợp với ngữ cảnh."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. prevented",
+        "sentence_explanation": "💬 Câu này nói về khả năng một thay đổi chính sách có thể làm gì đối với 'thách thức tài chính' mà công ty đối mặt. 'Prevented' (ngăn chặn) là từ có nghĩa phù hợp nhất.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Không có khả năng một thay đổi chính sách có thể ngăn chặn thách thức tài chính mà công ty xây dựng phải đối mặt.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **unlikely** (tính từ): không có khả năng xảy ra.\n- **policy change** (cụm danh từ): thay đổi chính sách.\n- **financial challenge** (cụm danh từ): thách thức tài chính.\n- **construction company** (cụm danh từ): công ty xây dựng.\n- **prevent** (động từ): ngăn chặn, phòng ngừa.",
+        "grammar_notes": "👉 Cấu trúc: **could have + past participle** (thì hoàn thành của động từ khuyết thiếu, diễn tả khả năng trong quá khứ)."
+      },
+      "en": {
+        "summary": "The sentence uses the modal perfect structure 'could have + past participle'. The policy change would either mitigate or stop the financial challenge. 'Prevented' means 'stopped from happening or existing,' which is the most logical action for a policy change regarding a challenge. 'Shared,' 'banned,' and 'forbidden' do not make sense in this context."
+      }
+    }
+    },
+  {
+    "id": 107,
+    "question": "Barsan Photo is ------- that their latest printer will not be available before the start of the third quarter.",
+    "options": {
+      "A": "acknowledge",
+      "B": "acknowledges",
+      "C": "acknowledging",
+      "D": "acknowledgement"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**acknowledge** (động từ nguyên mẫu): Không đứng trực tiếp sau 'is'.",
+          "B": "**acknowledges** (động từ thì hiện tại đơn, ngôi thứ ba số ít): Cũng không đứng trực tiếp sau 'is' để tạo thành một cấu trúc ngữ pháp có nghĩa trong câu này.",
+          "C": "✅ **acknowledging** (hiện tại phân từ/danh động từ): Khi đứng sau 'is', nó tạo thành thì hiện tại tiếp diễn ('is acknowledging') hoặc có thể được hiểu là một tính từ ('is acknowledging' - đang công nhận/thừa nhận). Trong trường hợp này, 'is acknowledging' có nghĩa là Barsan Photo đang tuyên bố hoặc thừa nhận một sự thật.",
+          "D": "**acknowledgement** (danh từ): có nghĩa là 'sự công nhận', 'sự thừa nhận'. Không thể đứng sau 'is' và trước một mệnh đề 'that...' để diễn tả hành động."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. acknowledging",
+        "sentence_explanation": "💬 Câu này sử dụng thì hiện tại tiếp diễn 'is acknowledging' để diễn tả hành động đang diễn ra của Barsan Photo, đó là việc công nhận/thừa nhận rằng máy in mới nhất của họ sẽ không có sẵn.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Barsan Photo công nhận rằng máy in mới nhất của họ sẽ không có sẵn trước khi bắt đầu quý thứ ba.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **acknowledge** (động từ): công nhận, thừa nhận, xác nhận.\n- **available** (tính từ): có sẵn, khả dụng.\n- **third quarter** (cụm danh từ): quý thứ ba.",
+        "grammar_notes": "👉 Cấu trúc: **be + V-ing** (thì hiện tại tiếp diễn), diễn tả một hành động đang xảy ra hoặc một trạng thái mang tính liên tục. Hoặc V-ing đóng vai trò là tính từ."
+      },
+      "en": {
+        "summary": "The sentence requires a verb form to complete the structure 'Barsan Photo is ------- that...'. 'Is acknowledging' forms the present continuous tense, meaning Barsan Photo is currently in the process of admitting or making known the fact about their printer. 'Acknowledge' is a base verb, 'acknowledges' is a simple present verb, and 'acknowledgement' is a noun, none of which fit grammatically after 'is' to convey the ongoing action."
+      }
+    }
+  },
+  {
+    "id": 108,
+    "question": "Thanks to the new system we installed, all lights and other devices turn on ------- when you enter the office.",
+    "options": {
+      "A": "heavily",
+      "B": "seriously",
+      "C": "automatically",
+      "D": "furiously"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**heavily** (trạng từ): một cách nặng nề, dữ dội. Không phù hợp với việc bật đèn.",
+          "B": "**seriously** (trạng từ): một cách nghiêm túc. Không phù hợp.",
+          "C": "✅ **automatically** (trạng từ): một cách tự động. Điều này rất phù hợp với ngữ cảnh 'new system' (hệ thống mới) đã được cài đặt, ngụ ý các thiết bị hoạt động mà không cần sự can thiệp của con người.",
+          "D": "**furiously** (trạng từ): một cách giận dữ, điên cuồng. Không phù hợp."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. automatically",
+        "sentence_explanation": "💬 Câu này mô tả cách các thiết bị và đèn bật khi có người vào văn phòng, nhờ vào một hệ thống mới. 'Automatically' (tự động) là trạng từ hợp lý nhất để diễn tả hành động này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Nhờ có hệ thống mới mà chúng tôi đã lắp đặt, tất cả đèn và các thiết bị khác sẽ tự động bật khi bạn vào văn phòng.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **thanks to** (cụm giới từ): nhờ vào.\n- **installed** (động từ quá khứ phân từ): đã cài đặt.\n- **turn on** (cụm động từ): bật.\n- **automatically** (trạng từ): một cách tự động.",
+        "grammar_notes": "👉 Câu cần một **trạng từ** để bổ nghĩa cho động từ 'turn on'."
+      },
+      "en": {
+        "summary": "The sentence describes how lights and devices operate with a 'new system.' 'Automatically' is an adverb meaning 'without human intervention,' which is the most logical way for a new system to activate devices upon entry. The other adverbs do not fit the context."
+      }
+    }
+  },
+  {
+    "id": 109,
+    "question": "------- the high demand for apartments, the study says single detached homes will be the most popular dwelling in five years.",
+    "options": {
+      "A": "Despite",
+      "B": "Apparently",
+      "C": "As expected",
+      "D": "In contrast"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **Despite** (giới từ): có nghĩa là 'mặc dù', được dùng để giới thiệu một mệnh đề hoặc cụm danh từ diễn tả sự đối lập hoặc không mong đợi. Ở đây, nó đứng trước cụm danh từ 'the high demand for apartments' và tạo ra sự tương phản với kết quả dự kiến (nhà riêng lẻ phổ biến hơn).",
+          "B": "**Apparently** (trạng từ): có nghĩa là 'rõ ràng là', 'dường như là'. Không dùng để kết nối hai ý trái ngược theo cách này.",
+          "C": "**As expected** (cụm trạng từ): có nghĩa là 'như mong đợi'. Diễn tả sự phù hợp, không phải sự đối lập.",
+          "D": "**In contrast** (cụm trạng từ): có nghĩa là 'ngược lại'. Dùng để giới thiệu một ý trái ngược, nhưng thường đứng một mình hoặc đi kèm 'to/with' nếu đi với danh từ ('In contrast to X,...'). Nếu dùng 'In contrast, the study says...' thì được, nhưng 'In contrast the high demand...' không đúng ngữ pháp."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. Despite",
+        "sentence_explanation": "💬 Câu này cho thấy một sự tương phản: mặc dù nhu cầu căn hộ cao, nghiên cứu lại chỉ ra rằng nhà riêng lẻ mới là loại hình nhà ở phổ biến nhất. 'Despite' là giới từ phù hợp nhất để diễn đạt sự tương phản này với một cụm danh từ.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Mặc dù nhu cầu căn hộ cao, nghiên cứu cho biết nhà riêng lẻ sẽ là loại hình nhà ở phổ biến nhất trong năm năm tới.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **high demand for** (cụm danh từ): nhu cầu cao về.\n- **apartment** (danh từ): căn hộ.\n- **single detached home** (cụm danh từ): nhà riêng lẻ.\n- **dwelling** (danh từ): chỗ ở, nơi cư trú.",
+        "grammar_notes": "👉 **Despite / In spite of + Noun Phrase / V-ing** là cấu trúc dùng để diễn tả sự đối lập."
+      },
+      "en": {
+        "summary": "The sentence presents a contrast: high demand for apartments, but single detached homes will be more popular. 'Despite' is a preposition used to introduce a noun phrase (like 'the high demand for apartments') that shows a contrast to the main clause. 'Apparently,' 'as expected,' and 'in contrast' do not fit grammatically or semantically in this context to introduce the contrasting noun phrase."
+      }
+    }
+  },
+  {
+    "id": 110,
+    "question": "The process for estimating our yearly expenses is -------, so we can start planning staffing for next year.",
+    "options": {
+      "A": "careless",
+      "B": "full",
+      "C": "entire",
+      "D": "complete"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**careless** (tính từ): bất cẩn. Không phù hợp với việc 'start planning' (bắt đầu lập kế hoạch), vì một quá trình bất cẩn sẽ không cho phép lập kế hoạch.",
+          "B": "**full** (tính từ): đầy đủ. Thường dùng cho vật chứa hoặc không gian, ít dùng cho 'process' theo nghĩa hoàn thành.",
+          "C": "**entire** (tính từ): toàn bộ. Cũng dùng để chỉ tổng thể, không phải trạng thái hoàn thành của một quá trình.",
+          "D": "✅ **complete** (tính từ): hoàn chỉnh, hoàn thành. Diễn tả rằng quá trình đã kết thúc và sẵn sàng cho bước tiếp theo (lập kế hoạch nhân sự), phù hợp với 'so we can start planning'."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. complete",
+        "sentence_explanation": "💬 Câu này muốn nói rằng quy trình ước tính chi phí hàng năm đã hoàn tất, do đó công ty có thể bắt đầu lên kế hoạch nhân sự cho năm tới. 'Complete' là tính từ phù hợp nhất để diễn tả sự hoàn thành của một quy trình.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Quy trình ước tính chi phí hàng năm của chúng tôi đã hoàn tất, vì vậy chúng tôi có thể bắt đầu lên kế hoạch nhân sự cho năm tới.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **estimating** (danh động từ): việc ước tính.\n- **yearly expenses** (cụm danh từ): chi phí hàng năm.\n- **staffing** (danh từ): việc tuyển dụng/sắp xếp nhân sự.",
+        "grammar_notes": "👉 Động từ nối 'is' theo sau bởi một tính từ mô tả trạng thái của chủ ngữ 'process'."
+      },
+      "en": {
+        "summary": "The sentence implies that because the process is finished, the next step (planning staffing) can begin. 'Complete' as an adjective means 'having all the necessary or appropriate parts; finished,' which perfectly describes a process that is ready for the next phase. The other options do not convey this sense of completion or readiness."
+      }
+    }
+  },
+  {
+    "id": 111,
+    "question": "As of June 26, only one ------- had called to request space at the trade show.",
+    "options": {
+      "A": "exhibitor",
+      "B": "exhibit",
+      "C": "exhibition",
+      "D": "exhibiting"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **exhibitor** (danh từ): người hoặc công ty trưng bày sản phẩm tại triển lãm. Đây là một danh từ chỉ người/đơn vị, phù hợp với ngữ cảnh 'had called to request space' (đã gọi điện yêu cầu không gian).",
+          "B": "**exhibit** (danh từ): vật trưng bày, cuộc triển lãm nhỏ. Là vật, không phải người gọi điện.",
+          "C": "**exhibition** (danh từ): cuộc triển lãm, sự trưng bày. Là sự kiện, không phải người gọi điện.",
+          "D": "**exhibiting** (hiện tại phân từ/danh động từ): việc trưng bày. Không phải danh từ chỉ người/đơn vị."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. exhibitor",
+        "sentence_explanation": "💬 Câu này muốn nói rằng chỉ có một người hoặc một đơn vị tham gia trưng bày đã gọi điện để yêu cầu không gian tại triển lãm. 'Exhibitor' là danh từ chỉ người/đơn vị phù hợp với ngữ cảnh này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Tính đến ngày 26 tháng 6, chỉ có một nhà triển lãm đã gọi điện để yêu cầu không gian tại triển lãm thương mại.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **as of** (cụm giới từ): kể từ, tính đến.\n- **request space** (cụm động từ): yêu cầu không gian.\n- **trade show** (cụm danh từ): triển lãm thương mại, hội chợ thương mại.",
+        "grammar_notes": "👉 Câu cần một **danh từ đếm được số ít** (do có 'only one') chỉ người/tổ chức thực hiện hành động 'called to request space'."
+      },
+      "en": {
+        "summary": "The sentence requires a singular countable noun following 'only one' that refers to a person or entity making a request for space at a trade show. 'Exhibitor' is a noun meaning 'a person or organization that displays goods at a trade fair,' which perfectly fits the context of someone calling to reserve space. 'Exhibit' and 'exhibition' are related nouns but refer to the display itself or the event, not the individual or company participating. 'Exhibiting' is a gerund/present participle."
+      }
+    }
+  },
+  {
+    "id": 112,
+    "question": "To keep costs ------- an established budget, the owner decided to reduce the size of the garage to be constructed.",
+    "options": {
+      "A": "into",
+      "B": "over",
+      "C": "within",
+      "D": "beside"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**into** (giới từ): vào trong, biến thành. Không phù hợp với ngữ cảnh 'keep costs'.",
+          "B": "**over** (giới từ): vượt quá. 'Keep costs over a budget' có nghĩa là giữ chi phí vượt quá ngân sách, trái ngược với ý nghĩa của câu (giảm kích thước gara để giảm chi phí).",
+          "C": "✅ **within** (giới từ): trong phạm vi, trong giới hạn. 'Keep costs within a budget' (giữ chi phí trong ngân sách) là một cụm từ thông dụng và phù hợp với ý nghĩa giảm chi phí để tuân thủ ngân sách.",
+          "D": "**beside** (giới từ): bên cạnh. Không phù hợp."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. within",
+        "sentence_explanation": "💬 Câu này nói về việc chủ sở hữu giảm kích thước gara để giữ chi phí không vượt quá ngân sách đã định. 'Keep costs within a budget' là cụm từ chính xác để diễn tả việc duy trì chi phí trong giới hạn cho phép.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Để giữ chi phí trong ngân sách đã định, chủ sở hữu quyết định giảm kích thước gara sẽ được xây dựng.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **established budget** (cụm danh từ): ngân sách đã định.\n- **reduce the size** (cụm động từ): giảm kích thước.\n- **constructed** (quá khứ phân từ): được xây dựng.",
+        "grammar_notes": "👉 **keep something + giới từ + limit/boundary** là cấu trúc phổ biến để diễn tả việc giữ cái gì đó trong phạm vi hoặc giới hạn."
+      },
+      "en": {
+        "summary": "The context implies that the owner reduced the garage size to control costs. The phrase 'keep costs within a budget' means to maintain spending inside the allowed limits, which perfectly fits the action of reducing the garage size. 'Over' would mean exceeding the budget, which is the opposite of the intended meaning. The other prepositions are not semantically appropriate."
+      }
+    }
+  },
+  {
+    "id": 113,
+    "question": "The outdoor sales event was a great success ------- the cold and rainy weather.",
+    "options": {
+      "A": "in spite of",
+      "B": "provided that",
+      "C": "although",
+      "D": "unless"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **in spite of** (cụm giới từ): có nghĩa là 'mặc dù', 'bất chấp'. Cụm này được theo sau bởi một danh từ hoặc cụm danh từ (ở đây là 'the cold and rainy weather'), diễn tả một sự tương phản. Sự kiện thành công MẶC DÙ thời tiết xấu.",
+          "B": "**provided that** (liên từ): có nghĩa là 'với điều kiện là', 'miễn là'. Dùng để giới thiệu một điều kiện, yêu cầu một mệnh đề theo sau.",
+          "C": "**although** (liên từ): có nghĩa là 'mặc dù'. Dùng để giới thiệu một mệnh đề đầy đủ (subject + verb), không phải cụm danh từ.",
+          "D": "**unless** (liên từ): có nghĩa là 'trừ khi'. Dùng để giới thiệu một điều kiện phủ định, yêu cầu một mệnh đề theo sau."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. in spite of",
+        "sentence_explanation": "💬 Câu này muốn diễn tả sự tương phản giữa thời tiết xấu và sự thành công của sự kiện bán hàng ngoài trời. 'In spite of' là cụm giới từ phù hợp nhất để giới thiệu cụm danh từ 'the cold and rainy weather' và thể hiện sự tương phản này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Sự kiện bán hàng ngoài trời đã thành công rực rỡ bất chấp thời tiết lạnh và mưa.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **outdoor sales event** (cụm danh từ): sự kiện bán hàng ngoài trời.\n- **great success** (cụm danh từ): thành công lớn.\n- **cold and rainy weather** (cụm danh từ): thời tiết lạnh và mưa.",
+        "grammar_notes": "👉 Để thể hiện sự tương phản với một **cụm danh từ**, ta dùng **in spite of** hoặc **despite**."
+      },
+      "en": {
+        "summary": "The sentence shows a contrast: bad weather conditions did not prevent the outdoor sales event from being a great success. 'In spite of' is a prepositional phrase meaning 'despite' and is correctly followed by a noun phrase ('the cold and rainy weather') to express this contrast. 'Provided that,' 'although,' and 'unless' are conjunctions that require a full clause, not a noun phrase."
+      }
+    }
+  },
+  {
+    "id": 114,
+    "question": "No ------- of Mr. Hanson's book would be complete without mentioning his insightful analysis of the world of business blogs.",
+    "options": {
+      "A": "finish",
+      "B": "summary",
+      "C": "composition",
+      "D": "organization"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**finish** (danh từ): sự kết thúc. Không phù hợp với việc 'mentioning his insightful analysis' (nhắc đến phân tích sâu sắc).",
+          "B": "✅ **summary** (danh từ): bản tóm tắt, phần tổng kết. Việc tóm tắt hoặc đánh giá một cuốn sách thường bao gồm việc nhắc đến các phân tích quan trọng. 'No summary of... would be complete without...' là một cấu trúc có nghĩa hoàn chỉnh.",
+          "C": "**composition** (danh từ): tác phẩm, thành phần, cấu trúc. Mặc dù là một tác phẩm, nhưng không phải là thứ mà việc nhắc đến một phân tích sẽ làm cho nó 'hoàn chỉnh'.",
+          "D": "**organization** (danh từ): sự tổ chức, cấu trúc. Tương tự 'composition', không phù hợp ở đây."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. summary",
+        "sentence_explanation": "💬 Câu này muốn nói rằng một bản tóm tắt hoặc đánh giá cuốn sách của ông Hanson sẽ không đầy đủ nếu không đề cập đến phân tích sâu sắc của ông về blog kinh doanh. 'Summary' là từ phù hợp nhất trong ngữ cảnh này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Không bản tóm tắt nào về cuốn sách của ông Hanson sẽ hoàn chỉnh nếu không nhắc đến phân tích sâu sắc của ông về thế giới blog kinh doanh.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **insightful analysis** (cụm danh từ): phân tích sâu sắc.\n- **business blogs** (cụm danh từ): các blog kinh doanh.",
+        "grammar_notes": "👉 Câu cần một **danh từ** đứng sau 'No' và trước 'of Mr. Hanson's book' để hoàn thành nghĩa."
+      },
+      "en": {
+        "summary": "The sentence discusses how an 'insightful analysis' should be mentioned when discussing Mr. Hanson's book. A 'summary' (a brief statement of the main points) or a review of a book would typically include such an analysis to be considered 'complete.' 'Finish,' 'composition,' and 'organization' do not fit the context of discussing the content of a book in this way."
+      }
+    }
+  },
+  {
+    "id": 115,
+    "question": "Updating the product line that buyers have complained about will send an obvious ------- to our valued customers.",
+    "options": {
+      "A": "messaging",
+      "B": "messenger",
+      "C": "message",
+      "D": "messaged"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**messaging** (danh động từ): việc gửi tin nhắn. Không phải thứ được 'gửi' như một tín hiệu rõ ràng.",
+          "B": "**messenger** (danh từ): người đưa tin. Không phải thứ được 'gửi' bởi việc cập nhật sản phẩm.",
+          "C": "✅ **message** (danh từ): thông điệp, tín hiệu. Hành động cập nhật sản phẩm để giải quyết khiếu nại sẽ gửi một 'thông điệp' rõ ràng về sự quan tâm của công ty đến khách hàng.",
+          "D": "**messaged** (động từ quá khứ): đã nhắn tin. Không phù hợp ngữ pháp sau 'an obvious'."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. message",
+        "sentence_explanation": "💬 Việc cập nhật dòng sản phẩm mà khách hàng đã phàn nàn sẽ gửi một tín hiệu hoặc thông điệp rõ ràng tới khách hàng rằng công ty lắng nghe và quan tâm. 'Message' là danh từ phù hợp nhất.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Việc cập nhật dòng sản phẩm mà người mua đã phàn nàn sẽ gửi một thông điệp rõ ràng đến các khách hàng thân thiết của chúng tôi.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **update** (động từ): cập nhật.\n- **product line** (cụm danh từ): dòng sản phẩm.\n- **complain about** (cụm động từ): phàn nàn về.\n- **obvious** (tính từ): rõ ràng, hiển nhiên.\n- **valued customers** (cụm danh từ): khách hàng thân thiết/quan trọng.",
+        "grammar_notes": "👉 Cấu trúc: **send an + adjective + noun + to + recipient**."
+      },
+      "en": {
+        "summary": "The sentence needs a noun to complete the phrase 'send an obvious -------'. The action of updating the product line in response to complaints sends a clear communication or signal to customers. 'Message' is the correct noun meaning 'a piece of information or a communication,' which fits the context of conveying a signal of care to customers. The other options are either incorrect word forms or semantically unsuitable."
+      }
+    }
+  },
+  {
+    "id": 116,
+    "question": "The Internet will ------- be a crucial part of the economy for the foreseeable future.",
+    "options": {
+      "A": "concisely",
+      "B": "perfectly",
+      "C": "currently",
+      "D": "undoubtedly"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**concisely** (trạng từ): một cách súc tích, ngắn gọn. Không phù hợp để mô tả mức độ quan trọng.",
+          "B": "**perfectly** (trạng từ): một cách hoàn hảo. Không phù hợp với ý nghĩa của 'crucial part'.",
+          "C": "**currently** (trạng từ): hiện tại. Mặc dù có thể đúng về mặt ngữ pháp, nhưng câu này đang nói về 'foreseeable future' (tương lai gần), và 'undoubtedly' (chắc chắn, không nghi ngờ gì) nhấn mạnh hơn vào sự chắc chắn trong tương lai.",
+          "D": "✅ **undoubtedly** (trạng từ): không nghi ngờ gì, chắc chắn. Trạng từ này nhấn mạnh sự chắc chắn về việc Internet sẽ là một phần quan trọng của nền kinh tế trong tương lai, phù hợp với 'will be' và 'for the foreseeable future'."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. undoubtedly",
+        "sentence_explanation": "💬 Câu này diễn tả một sự thật hiển nhiên và chắc chắn về vai trò của Internet trong tương lai. 'Undoubtedly' (chắc chắn, không nghi ngờ gì) là trạng từ phù hợp nhất để nhấn mạnh điều này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Internet chắc chắn sẽ là một phần quan trọng của nền kinh tế trong tương lai gần.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **crucial part** (cụm danh từ): phần quan trọng, cốt yếu.\n- **economy** (danh từ): nền kinh tế.\n- **foreseeable future** (cụm danh từ): tương lai gần, tương lai có thể dự đoán được.",
+        "grammar_notes": "👉 Câu cần một **trạng từ** để bổ nghĩa cho động từ 'be' và tính từ 'crucial', đồng thời thể hiện mức độ chắc chắn của sự việc."
+      },
+      "en": {
+        "summary": "The sentence expresses a strong certainty about the Internet's future role. 'Undoubtedly' is an adverb meaning 'without doubt; certainly,' which perfectly conveys this strong conviction. 'Currently' would refer to the present, while 'concisely' and 'perfectly' do not fit the semantic context of describing the certainty of a future development."
+      }
+    }
+  },
+  {
+    "id": 117,
+    "question": "The management team required little ------- before deciding to promote Ms. Yang.",
+    "options": {
+      "A": "deliberation",
+      "B": "deliberate",
+      "C": "deliberated",
+      "D": "deliberately"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **deliberation** (danh từ): sự cân nhắc kỹ lưỡng, sự bàn bạc. 'Little deliberation' có nghĩa là ít cân nhắc, phù hợp với ngữ cảnh nhóm quản lý nhanh chóng quyết định thăng chức.",
+          "B": "**deliberate** (tính từ/động từ): có nghĩa là 'có chủ ý', 'cân nhắc kỹ lưỡng'. Không phải danh từ để đứng sau 'little'.",
+          "C": "**deliberated** (quá khứ đơn/quá khứ phân từ của 'deliberate'): đã cân nhắc. Không phải danh từ.",
+          "D": "**deliberately** (trạng từ): một cách có chủ ý, cố ý. Không phải danh từ."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. deliberation",
+        "sentence_explanation": "💬 Câu này muốn nói rằng nhóm quản lý không cần nhiều thời gian để cân nhắc trước khi quyết định thăng chức cho cô Yang. 'Deliberation' là danh từ phù hợp nhất để diễn tả quá trình cân nhắc.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Nhóm quản lý không cần cân nhắc nhiều trước khi quyết định thăng chức cho cô Yang.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **management team** (cụm danh từ): nhóm quản lý.\n- **require** (động từ): yêu cầu, cần.\n- **promote** (động từ): thăng chức, đề bạt.",
+        "grammar_notes": "👉 **little + uncountable noun** là cấu trúc dùng để chỉ số lượng ít (không nhiều). 'Deliberation' là một danh từ không đếm được trong ngữ cảnh này."
+      },
+      "en": {
+        "summary": "The word 'little' functions as a determiner for an uncountable noun. 'Deliberation' is an uncountable noun meaning 'long and careful consideration or discussion,' which fits the context of making a decision about a promotion. The other options are an adjective/verb, a past tense verb, and an adverb, none of which can follow 'little' in this way."
+      }
+    }
+  },
+  {
+    "id": 118,
+    "question": "The human resources office is adopting a more ------- policy that would give employees additional vacation days.",
+    "options": {
+      "A": "generous",
+      "B": "collaborative",
+      "C": "severe",
+      "D": "regional"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **generous** (tính từ): rộng lượng, hào phóng. Một chính sách 'generous' sẽ mang lại nhiều lợi ích hơn, như thêm ngày nghỉ phép, phù hợp với nội dung 'give employees additional vacation days'.",
+          "B": "**collaborative** (tính từ): hợp tác. Không liên quan đến việc cấp thêm ngày nghỉ phép.",
+          "C": "**severe** (tính từ): nghiêm khắc, khắc nghiệt. Trái ngược với việc cấp thêm ngày nghỉ phép.",
+          "D": "**regional** (tính từ): thuộc về khu vực. Không phù hợp với mô tả chính sách về ngày nghỉ phép."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. generous",
+        "sentence_explanation": "💬 Văn phòng nhân sự đang áp dụng một chính sách mới mang lại thêm ngày nghỉ phép cho nhân viên. Một chính sách 'generous' (hào phóng) là từ phù hợp nhất để mô tả điều này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Văn phòng nhân sự đang áp dụng một chính sách hào phóng hơn, sẽ cấp thêm ngày nghỉ phép cho nhân viên.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **human resources office** (cụm danh từ): phòng nhân sự.\n- **adopt** (động từ): áp dụng, thông qua.\n- **policy** (danh từ): chính sách.\n- **additional vacation days** (cụm danh từ): thêm ngày nghỉ phép.",
+        "grammar_notes": "👉 Cấu trúc: **a more + adjective + noun**. Tính từ phải bổ nghĩa cho danh từ 'policy' và phù hợp với ý nghĩa của mệnh đề quan hệ 'that would give employees additional vacation days'."
+      },
+      "en": {
+        "summary": "The policy provides 'additional vacation days,' which is a benefit. 'Generous' is an adjective meaning 'giving or provided in a liberal or openhanded way,' which perfectly describes a policy that offers more benefits. 'Collaborative,' 'severe,' and 'regional' do not fit the context of increasing vacation days."
+      }
+    }
+  },
+  {
+    "id": 119,
+    "question": "Mr. Greaves will speak to our suppliers about ------- handling of the transportation situation.",
+    "options": {
+      "A": "they",
+      "B": "their",
+      "C": "them",
+      "D": "these"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**they** (đại từ chủ ngữ): Không đứng trước danh từ/danh động từ.",
+          "B": "✅ **their** (tính từ sở hữu): Bổ nghĩa cho danh từ 'handling' (việc xử lý), chỉ ra rằng đây là 'việc xử lý CỦA HỌ' (của các nhà cung cấp).",
+          "C": "**them** (đại từ tân ngữ): Không đứng trước danh từ/danh động từ.",
+          "D": "**these** (đại từ/tính từ chỉ định): Những cái này. Không phù hợp để chỉ quyền sở hữu/người thực hiện hành động 'handling' trong ngữ cảnh này."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. their",
+        "sentence_explanation": "💬 Câu này muốn nói rằng ông Greaves sẽ nói chuyện với các nhà cung cấp về *cách họ xử lý* tình hình vận chuyển. 'Their' là tính từ sở hữu cần thiết để bổ nghĩa cho danh động từ 'handling', chỉ rõ rằng đó là sự xử lý của các nhà cung cấp.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Ông Greaves sẽ nói chuyện với các nhà cung cấp của chúng tôi về việc họ xử lý tình hình vận chuyển.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **suppliers** (danh từ): nhà cung cấp.\n- **handling** (danh từ/danh động từ): việc xử lý.\n- **transportation situation** (cụm danh từ): tình hình vận chuyển.",
+        "grammar_notes": "👉 **Possessive Adjective + Gerund/Noun**: Cấu trúc này dùng để chỉ ra chủ thể của hành động hoặc sự sở hữu. Trong câu này, 'their' chỉ ra 'suppliers' là chủ thể của 'handling'."
+      },
+      "en": {
+        "summary": "The blank precedes the gerund 'handling,' which functions as a noun here. A possessive adjective is required to specify *whose* handling is being discussed. 'Their' is the possessive adjective for 'suppliers' and correctly modifies 'handling' to mean 'the handling performed by them.' The other options are pronouns or demonstratives that do not fit grammatically before a gerund acting as a noun to indicate possession or agent."
+      }
+    }
+  },
+  {
+    "id": 120,
+    "question": "This is only a preliminary list of job candidates, so interviewers should ------- the possibility of last-minute additions.",
+    "options": {
+      "A": "wait",
+      "B": "decide",
+      "C": "expect",
+      "D": "figure"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**wait** (động từ): chờ đợi. Không phù hợp với 'the possibility of last-minute additions' (khả năng bổ sung vào phút chót).",
+          "B": "**decide** (động từ): quyết định. Không phù hợp với 'possibility'.",
+          "C": "✅ **expect** (động từ): mong đợi, dự kiến. Khi danh sách chỉ là sơ bộ, những người phỏng vấn nên 'mong đợi' hoặc 'dự kiến' có khả năng bổ sung vào phút chót. Cụm 'expect the possibility of something' là phù hợp.",
+          "D": "**figure** (động từ): tính toán, hình dung. 'Figure the possibility' không phải là cách diễn đạt tự nhiên."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. expect",
+        "sentence_explanation": "💬 Vì đây chỉ là danh sách ứng viên sơ bộ, người phỏng vấn nên dự kiến rằng có thể có những bổ sung vào phút chót. 'Expect' (mong đợi, dự kiến) là động từ phù hợp nhất trong ngữ cảnh này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Đây chỉ là danh sách sơ bộ các ứng viên, vì vậy những người phỏng vấn nên lường trước khả năng có thêm người vào phút chót.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **preliminary list** (cụm danh từ): danh sách sơ bộ.\n- **job candidates** (cụm danh từ): ứng viên việc làm.\n- **interviewers** (danh từ): người phỏng vấn.\n- **last-minute additions** (cụm danh từ): những bổ sung vào phút chót.",
+        "grammar_notes": "👉 Động từ 'should' theo sau bởi **động từ nguyên mẫu** phù hợp với ý nghĩa của câu."
+      },
+      "en": {
+        "summary": "Since the list is 'preliminary,' interviewers should anticipate or be prepared for potential changes. 'Expect' means 'regard as likely to happen,' which perfectly fits the idea of anticipating the 'possibility of last-minute additions.' 'Wait,' 'decide,' and 'figure' do not convey the appropriate meaning of anticipation in this context."
+      }
+    }
+  },
+  {
+    "id": 121,
+    "question": "Market conditions were ------- enough last year for us to make several new acquisitions.",
+    "options": {
+      "A": "favor",
+      "B": "favorite",
+      "C": "favorably",
+      "D": "favorable"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**favor** (danh từ/động từ): sự ưu ái/ưu ái. Không phù hợp với cấu trúc 'were ... enough'.",
+          "B": "**favorite** (tính từ/danh từ): yêu thích nhất. Không mô tả điều kiện thị trường theo nghĩa có lợi.",
+          "C": "**favorably** (trạng từ): một cách thuận lợi. Trạng từ không thể đứng sau 'were' (động từ nối) để mô tả chủ ngữ 'market conditions'.",
+          "D": "✅ **favorable** (tính từ): thuận lợi, có lợi. 'Favorable enough' có nghĩa là 'đủ thuận lợi', mô tả chính xác điều kiện thị trường giúp thực hiện các vụ mua lại mới."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. favorable",
+        "sentence_explanation": "💬 Câu này muốn nói rằng điều kiện thị trường năm ngoái đủ thuận lợi để công ty thực hiện nhiều vụ mua lại mới. Cấu trúc 'be + adjective + enough' là chính xác về ngữ pháp, và 'favorable' (thuận lợi) là tính từ phù hợp về nghĩa.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Điều kiện thị trường năm ngoái đủ thuận lợi để chúng tôi thực hiện một số vụ mua lại mới.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **market conditions** (cụm danh từ): điều kiện thị trường.\n- **acquisition** (danh từ): vụ mua lại, sự thâu tóm.",
+        "grammar_notes": "👉 Cấu trúc: **be + adjective + enough + for + someone/something + to do something**."
+      },
+      "en": {
+        "summary": "The structure 'were ------- enough' requires an adjective to describe 'market conditions.' 'Favorable' is an adjective meaning 'showing approval' or 'advantageous,' which perfectly fits the context of conditions allowing for new acquisitions. 'Favor' is a noun/verb, 'favorite' is an adjective meaning 'preferred,' and 'favorably' is an adverb, none of which are grammatically or semantically suitable here."
+      }
+    }
+  },
+  {
+    "id": 122,
+    "question": "Web advertising is smart in the sense that it can be highly specific and target a market ------- great accuracy.",
+    "options": {
+      "A": "near",
+      "B": "during",
+      "C": "between",
+      "D": "with"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**near** (giới từ): gần. Không dùng để diễn tả phương thức.",
+          "B": "**during** (giới từ): trong suốt. Dùng để chỉ thời gian.",
+          "C": "**between** (giới từ): giữa. Dùng để chỉ vị trí giữa hai vật hoặc sự lựa chọn.",
+          "D": "✅ **with** (giới từ): với, bằng. 'With great accuracy' là một cụm từ cố định, có nghĩa là 'với độ chính xác cao', diễn tả phương thức thực hiện hành động 'target a market'."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. with",
+        "sentence_explanation": "💬 Câu này mô tả cách quảng cáo trực tuyến có thể nhắm mục tiêu thị trường. Cụm 'with great accuracy' (với độ chính xác cao) là cách diễn đạt đúng để chỉ phương thức thực hiện hành động.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Quảng cáo trực tuyến thông minh ở chỗ nó có thể rất cụ thể và nhắm mục tiêu thị trường với độ chính xác cao.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **highly specific** (cụm tính từ): rất cụ thể.\n- **target a market** (cụm động từ): nhắm mục tiêu vào thị trường.\n- **great accuracy** (cụm danh từ): độ chính xác cao.",
+        "grammar_notes": "👉 Giới từ **with** thường được dùng để diễn tả **phương thức** hoặc **công cụ** thực hiện hành động (e.g., 'with care', 'with a hammer')."
+      },
+      "en": {
+        "summary": "The blank needs a preposition to form an adverbial phrase modifying 'target a market.' 'With great accuracy' is a common and idiomatic phrase meaning 'in a very precise way.' The other prepositions do not fit this context of describing the manner of targeting."
+      }
+    }
+  },
+  {
+    "id": 123,
+    "question": "The library director requests that staff obtain ------- in instructional technology to better support the library's educational programs.",
+    "options": {
+      "A": "certification",
+      "B": "certified",
+      "C": "certifiable",
+      "D": "certifier"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "✅ **certification** (danh từ): chứng nhận, giấy chứng nhận. 'Obtain certification' có nghĩa là 'có được chứng nhận', phù hợp với ngữ cảnh nhân viên cần có bằng cấp hoặc chứng nhận trong một lĩnh vực cụ thể.",
+          "B": "**certified** (tính từ/quá khứ phân từ): được chứng nhận. Không thể đứng sau 'obtain' như một danh từ.",
+          "C": "**certifiable** (tính từ): có thể được chứng nhận. Không phải danh từ.",
+          "D": "**certifier** (danh từ): người/tổ chức cấp chứng nhận. Không phải thứ mà nhân viên 'obtain' (có được). Nhân viên được chứng nhận chứ không phải 'có được' người chứng nhận."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. certification",
+        "sentence_explanation": "💬 Câu này nói về việc giám đốc thư viện yêu cầu nhân viên phải có được một chứng nhận trong công nghệ giảng dạy để hỗ trợ tốt hơn cho các chương trình giáo dục của thư viện. 'Certification' là danh từ phù hợp nhất.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Giám đốc thư viện yêu cầu nhân viên phải có được chứng nhận về công nghệ giảng dạy để hỗ trợ tốt hơn các chương trình giáo dục của thư viện.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **library director** (cụm danh từ): giám đốc thư viện.\n- **obtain** (động từ): có được, giành được.\n- **instructional technology** (cụm danh từ): công nghệ giảng dạy.\n- **educational programs** (cụm danh từ): các chương trình giáo dục.",
+        "grammar_notes": "👉 Động từ **obtain** cần một **danh từ** làm tân ngữ."
+      },
+      "en": {
+        "summary": "The verb 'obtain' requires a noun as its object. 'Certification' is a noun referring to the process of certifying or the document received, which is what staff would acquire to demonstrate their proficiency in instructional technology. 'Certified' is an adjective, 'certifiable' is an adjective, and 'certifier' is a noun for a person/entity that certifies, none of which fit grammatically or semantically after 'obtain' in this context."
+      }
+    }
+  },
+  {
+    "id": 124,
+    "question": "------- existing products, which are designed for people with technical expertise, this new program should appeal to a wider audience.",
+    "options": {
+      "A": "Before",
+      "B": "Instead of",
+      "C": "Unlike",
+      "D": "While"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**Before** (giới từ/liên từ): trước khi. Dùng để chỉ thời gian, không phù hợp với ngữ cảnh so sánh đặc điểm sản phẩm.",
+          "B": "**Instead of** (cụm giới từ): thay vì. Dùng để chỉ sự thay thế, không nhấn mạnh sự khác biệt về đặc điểm sản phẩm.",
+          "C": "✅ **Unlike** (giới từ): không giống như, trái ngược với. Giới thiệu một sự so sánh và tương phản giữa 'existing products' (sản phẩm hiện có dành cho người có chuyên môn kỹ thuật) và 'this new program' (chương trình mới thu hút khán giả rộng hơn).",
+          "D": "**While** (liên từ): trong khi, mặc dù. Dùng để giới thiệu một mệnh đề đầy đủ (subject + verb), không phải cụm danh từ."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. Unlike",
+        "sentence_explanation": "💬 Câu này so sánh hai loại sản phẩm: sản phẩm hiện có (dành cho người có chuyên môn kỹ thuật) và chương trình mới (thu hút khán giả rộng hơn). 'Unlike' là giới từ phù hợp nhất để diễn tả sự tương phản về đối tượng mục tiêu của hai loại sản phẩm này.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Không giống như các sản phẩm hiện có, vốn được thiết kế cho những người có chuyên môn kỹ thuật, chương trình mới này nên thu hút một lượng khán giả rộng hơn.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **existing products** (cụm danh từ): các sản phẩm hiện có.\n- **technical expertise** (cụm danh từ): chuyên môn kỹ thuật.\n- **appeal to** (cụm động từ): thu hút, hấp dẫn.\n- **wider audience** (cụm danh từ): lượng khán giả rộng hơn.",
+        "grammar_notes": "👉 Giới từ **Unlike** được dùng để so sánh hai danh từ hoặc cụm danh từ và nhấn mạnh sự khác biệt của chúng."
+      },
+      "en": {
+        "summary": "The sentence contrasts 'existing products' (for technical expertise) with 'this new program' (appealing to a wider audience). 'Unlike' is a preposition meaning 'in contrast to' or 'different from,' which perfectly sets up this comparison and highlights the difference in target audience. 'Before' is temporal, 'instead of' suggests replacement, and 'while' requires a clause."
+      }
+    }
+  },
+  {
+    "id": 125,
+    "question": "Some functions of our Web team are to identify problems with applications and then ------- fixes.",
+    "options": {
+      "A": "priority",
+      "B": "prioritize",
+      "C": "prioritized",
+      "D": "prioritization"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**priority** (danh từ): sự ưu tiên. Không thể đứng sau 'then' để tạo thành một hành động song song với 'to identify'.",
+          "B": "✅ **prioritize** (động từ nguyên mẫu): ưu tiên. Cấu trúc 'to identify... and then to prioritize...' là cấu trúc song song, trong đó 'to' được hiểu ngầm trước 'prioritize'. Hành động này có nghĩa là sắp xếp các biện pháp khắc phục theo thứ tự quan trọng.",
+          "C": "**prioritized** (quá khứ đơn/quá khứ phân từ): đã ưu tiên. Không phù hợp với cấu trúc song song 'to identify'.",
+          "D": "**prioritization** (danh từ): sự ưu tiên. Tương tự 'priority', không phù hợp."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. prioritize",
+        "sentence_explanation": "💬 Câu này liệt kê các chức năng của nhóm Web, bao gồm 'identify problems' (xác định vấn đề) và 'prioritize fixes' (ưu tiên các biện pháp khắc phục). Cấu trúc song song yêu cầu một động từ nguyên mẫu sau 'then', được hiểu ngầm là 'to prioritize'.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Một số chức năng của nhóm Web của chúng tôi là xác định các vấn đề với ứng dụng và sau đó ưu tiên các biện pháp khắc phục.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **functions** (danh từ): chức năng.\n- **applications** (danh từ): ứng dụng.\n- **fixes** (danh từ): các biện pháp khắc phục, sửa chữa.\n- **prioritize** (động từ): ưu tiên, sắp xếp theo thứ tự ưu tiên.",
+        "grammar_notes": "👉 **Parallelism (Cấu trúc song song)**: Khi có nhiều hành động được liệt kê, chúng cần có cùng một cấu trúc ngữ pháp. Ở đây là 'to identify' và 'then (to) prioritize'."
+      },
+      "en": {
+        "summary": "The sentence presents two functions of the Web team using parallel structure: 'to identify problems' and 'then ------- fixes.' This parallelism requires an infinitive verb (with 'to' being implied) to match 'to identify.' 'Prioritize' is the correct base verb meaning 'to determine the order for dealing with things according to their relative importance,' which fits the context of managing fixes. The other options are nouns or a past participle and do not maintain the parallel structure."
+      }
+    }
+  },
+  {
+    "id": 126,
+    "question": "This partnership ------- a great opportunity for us at Stolant Tech to broaden our inventory of available software.",
+    "options": {
+      "A": "corresponds",
+      "B": "represents",
+      "C": "appreciates",
+      "D": "intends"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**corresponds** (động từ): tương ứng. Thường đi với 'to' ('corresponds to'). Không phù hợp với nghĩa của 'a great opportunity'.",
+          "B": "✅ **represents** (động từ): đại diện cho, là, thể hiện. 'This partnership represents a great opportunity' có nghĩa là 'quan hệ đối tác này là một cơ hội lớn' hoặc 'thể hiện một cơ hội lớn', hoàn toàn phù hợp về nghĩa.",
+          "C": "**appreciates** (động từ): đánh giá cao, trân trọng. Quan hệ đối tác không thể 'đánh giá cao' một cơ hội.",
+          "D": "**intends** (động từ): dự định, có ý định. Chủ ngữ 'This partnership' không thể 'dự định'."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. represents",
+        "sentence_explanation": "💬 Câu này muốn nói rằng quan hệ đối tác này chính là một cơ hội lớn để mở rộng kho phần mềm. 'Represents' (thể hiện, là) là động từ phù hợp nhất để nối chủ ngữ 'partnership' với 'opportunity'.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Mối quan hệ đối tác này mang đến một cơ hội lớn cho chúng tôi tại Stolant Tech để mở rộng kho phần mềm hiện có.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **partnership** (danh từ): quan hệ đối tác.\n- **broaden** (động từ): mở rộng.\n- **inventory** (danh từ): kho hàng, danh mục hàng hóa.\n- **available software** (cụm danh từ): phần mềm có sẵn.",
+        "grammar_notes": "👉 Câu cần một **động từ** số ít (chia theo chủ ngữ 'This partnership') để kết nối chủ ngữ với tân ngữ 'a great opportunity'."
+      },
+      "en": {
+        "summary": "The sentence needs a singular verb that connects 'This partnership' to 'a great opportunity.' 'Represents' means 'to constitute or be a specimen of,' which accurately describes how the partnership embodies or is an opportunity. 'Corresponds' typically needs 'to,' 'appreciates' implies valuing (which a partnership cannot do), and 'intends' implies a purpose (which a partnership cannot have as a subject)."
+      }
+    }
+  },
+  {
+    "id": 127,
+    "question": "We will need to delay the start of the advertising campaign because the relevant contracts have only been ------- completed.",
+    "options": {
+      "A": "part",
+      "B": "parted",
+      "C": "partial",
+      "D": "partially"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**part** (danh từ): một phần. Không phù hợp với cấu trúc 'been ... completed'.",
+          "B": "**parted** (quá khứ phân từ của 'part' - chia tách): đã chia tách. Không liên quan đến việc hoàn thành hợp đồng.",
+          "C": "**partial** (tính từ): một phần, không hoàn chỉnh. Tính từ không thể trực tiếp bổ nghĩa cho quá khứ phân từ 'completed' sau 'been'.",
+          "D": "✅ **partially** (trạng từ): một phần, không hoàn toàn. Trạng từ này bổ nghĩa cho động từ 'completed', diễn tả rằng các hợp đồng mới chỉ được hoàn thành một phần, do đó cần phải trì hoãn chiến dịch."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. partially",
+        "sentence_explanation": "💬 Câu này đưa ra lý do phải trì hoãn chiến dịch quảng cáo là vì các hợp đồng liên quan mới chỉ được hoàn thành một phần. 'Partially' (một phần) là trạng từ chính xác để bổ nghĩa cho 'completed'.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Chúng tôi sẽ cần trì hoãn việc khởi động chiến dịch quảng cáo vì các hợp đồng liên quan mới chỉ được hoàn thành một phần.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **delay** (động từ): trì hoãn.\n- **advertising campaign** (cụm danh từ): chiến dịch quảng cáo.\n- **relevant contracts** (cụm danh từ): các hợp đồng liên quan.\n- **completed** (quá khứ phân từ): đã hoàn thành.",
+        "grammar_notes": "👉 Câu cần một **trạng từ** để bổ nghĩa cho quá khứ phân từ 'completed' trong cấu trúc bị động."
+      },
+      "en": {
+        "summary": "The blank requires an adverb to modify the past participle 'completed.' The reason for the delay is that the contracts are not fully completed. 'Partially' is an adverb meaning 'in part; to a limited extent,' which correctly describes the incomplete state of the contracts. 'Part' is a noun, 'parted' is a past participle of 'part' (to separate), and 'partial' is an adjective, none of which fit grammatically here."
+      }
+    }
+  },
+  {
+    "id": 128,
+    "question": "------- much of the accounting staff will be on vacation next week, the ones remaining in the office will be very busy.",
+    "options": {
+      "A": "Until",
+      "B": "Except for",
+      "C": "Because",
+      "D": "Due to"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**Until** (liên từ/giới từ): cho đến khi. Dùng để chỉ thời gian, không diễn tả nguyên nhân.",
+          "B": "**Except for** (cụm giới từ): ngoại trừ. Dùng để loại trừ, thường theo sau là danh từ/cụm danh từ. Không giới thiệu một mệnh đề nguyên nhân.",
+          "C": "✅ **Because** (liên từ): bởi vì. Dùng để giới thiệu một mệnh đề chỉ nguyên nhân. Mệnh đề 'much of the accounting staff will be on vacation next week' là một mệnh đề hoàn chỉnh, do đó 'Because' là lựa chọn đúng.",
+          "D": "**Due to** (cụm giới từ): do, bởi vì. Dùng để giới thiệu một cụm danh từ, không phải một mệnh đề đầy đủ. Ví dụ: 'Due to the fact that...' hoặc 'Due to the staff's vacation...'."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. Because",
+        "sentence_explanation": "💬 Câu này giải thích lý do tại sao những nhân viên còn lại sẽ rất bận rộn: bởi vì phần lớn nhân viên kế toán sẽ đi nghỉ. 'Because' là liên từ phù hợp để giới thiệu mệnh đề chỉ nguyên nhân.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Bởi vì phần lớn nhân viên kế toán sẽ đi nghỉ vào tuần tới, những người còn lại trong văn phòng sẽ rất bận rộn.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **accounting staff** (cụm danh từ): đội ngũ kế toán.\n- **on vacation** (cụm giới từ): đi nghỉ mát.\n- **remaining** (tính từ): còn lại.",
+        "grammar_notes": "👉 **Because + Clause (S + V)** là cấu trúc dùng để diễn tả nguyên nhân."
+      },
+      "en": {
+        "summary": "The first part of the sentence ('much of the accounting staff will be on vacation next week') is a full clause providing the reason for the consequence in the second clause. 'Because' is a subordinating conjunction used to introduce a clause of reason, perfectly fitting this grammatical structure and meaning. 'Until' is a time conjunction, 'except for' is a prepositional phrase requiring a noun, and 'due to' is a prepositional phrase requiring a noun."
+      }
+    }
+  },
+  {
+    "id": 129,
+    "question": "------- sending multiple e-mails to share ideas and reach a decision, the team leader called a one-hour meeting to discuss the issue.",
+    "options": {
+      "A": "As a result",
+      "B": "In order to",
+      "C": "The same as",
+      "D": "Rather than"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**As a result** (cụm trạng từ): kết quả là. Dùng để diễn tả hậu quả, không phải sự thay thế.",
+          "B": "**In order to** (cụm giới từ): để mà. Dùng để chỉ mục đích, theo sau là động từ nguyên mẫu. Không diễn tả sự thay thế giữa hai hành động.",
+          "C": "**The same as** (cụm giới từ): giống như. Dùng để so sánh sự tương đồng.",
+          "D": "✅ **Rather than** (liên từ/giới từ): thay vì. Dùng để giới thiệu một lựa chọn thay thế hoặc sự ưu tiên. Cụm 'Rather than + V-ing' là cấu trúc chính xác để diễn tả việc thay vì làm hành động này, thì làm hành động khác."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. Rather than",
+        "sentence_explanation": "💬 Câu này muốn nói rằng thay vì gửi nhiều email, trưởng nhóm đã quyết định tổ chức một cuộc họp. 'Rather than' là cách diễn đạt đúng để chỉ ra một sự lựa chọn thay thế.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Thay vì gửi nhiều email để chia sẻ ý tưởng và đưa ra quyết định, trưởng nhóm đã triệu tập một cuộc họp kéo dài một giờ để thảo luận về vấn đề này.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **multiple e-mails** (cụm danh từ): nhiều email.\n- **share ideas** (cụm động từ): chia sẻ ý tưởng.\n- **reach a decision** (cụm động từ): đạt được quyết định.\n- **team leader** (cụm danh từ): trưởng nhóm.\n- **discuss the issue** (cụm động từ): thảo luận vấn đề.",
+        "grammar_notes": "👉 **Rather than + Gerund (V-ing)** là cấu trúc được dùng để thể hiện sự lựa chọn thay thế, 'thay vì làm điều gì đó'."
+      },
+      "en": {
+        "summary": "The sentence describes an alternative action taken by the team leader: calling a meeting instead of sending emails. 'Rather than' is a conjunction/prepositional phrase that means 'instead of' or 'in preference to,' and it can be followed by a gerund. This perfectly conveys the intended meaning of choosing one action over another. The other options introduce a result, purpose, or comparison, which are not suitable here."
+      }
+    }
+  },
+  {
+    "id": 130,
+    "question": "Applicants for the position of flight attendant at Joyous Airlines need to ------- a calm sense of authority at all times.",
+    "options": {
+      "A": "estimate",
+      "B": "appear",
+      "C": "involve",
+      "D": "project"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "**estimate** (động từ): ước tính. Không phù hợp với 'a calm sense of authority'.",
+          "B": "**appear** (động từ): xuất hiện, dường như. Mặc dù có thể 'appear calm', nhưng không thể 'appear a sense of authority'.",
+          "C": "**involve** (động từ): liên quan, bao gồm. Không phù hợp với việc thể hiện phẩm chất.",
+          "D": "✅ **project** (động từ): thể hiện, truyền tải (một hình ảnh, phẩm chất). 'Project a calm sense of authority' có nghĩa là 'truyền tải/thể hiện một sự điềm tĩnh và có uy quyền', rất phù hợp với yêu cầu của một tiếp viên hàng không."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. project",
+        "sentence_explanation": "💬 Câu này nói về phẩm chất mà ứng viên tiếp viên hàng không cần thể hiện. 'Project a sense of authority' là cụm từ chính xác để diễn tả việc thể hiện hoặc truyền tải một hình ảnh hoặc phẩm chất nào đó.",
+        "translation": "Dịch toàn câu sang tiếng Việt: Ứng viên cho vị trí tiếp viên hàng không tại Joyous Airlines cần thể hiện sự điềm tĩnh và có uy quyền mọi lúc.",
+        "vocab_notes": "📘 Ghi nhớ:\n- **applicant** (danh từ): ứng viên.\n- **flight attendant** (cụm danh từ): tiếp viên hàng không.\n- **calm sense of authority** (cụm danh từ): sự điềm tĩnh và có uy quyền.\n- **at all times** (cụm trạng từ): mọi lúc.",
+        "grammar_notes": "👉 Động từ 'need to' theo sau bởi **động từ nguyên mẫu** phù hợp với ngữ cảnh."
+      },
+      "en": {
+        "summary": "The sentence describes a necessary quality for flight attendant applicants. 'Project' means 'to present or promote (a particular image, quality, etc.),' which is suitable for conveying 'a calm sense of authority.' The other verbs ('estimate,' 'appear,' 'involve') do not fit the meaning of displaying or emanating a certain characteristic."
+      }
+    }
+  }
+]

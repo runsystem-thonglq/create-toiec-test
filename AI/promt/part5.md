@@ -13,39 +13,37 @@ hoặc
 
 ---
 
-YÊU CẦU XUẤT DỮ LIỆU DẠNG JSON, KHÔNG CÓ VĂN BẢN THỪA.  
+YÊU CẦU XUẤT DỮ LIỆU DẠNG JSON, ĐẢM BẢO CÓ THỂ PARSE RA ĐƯỢC,KHÔNG CÓ VĂN BẢN THỪA.  
 Mỗi câu hỏi là một object có cấu trúc:
 
-```json
 [
-  {
-    "id": 101,
-    "question": "Ms. Budrow was promoted after ------- group recorded the highest revenue growth for the year.",
-    "options": {
-      "A": "her",
-      "B": "hers",
-      "C": "herself",
-      "D": "she"
-    },
-    "answer": "A",
-    "explanation": {
-      "vi": {
-        "option_analysis": {
-          "A": "Giải thích chi tiết từng lựa chọn: nghĩa, loại từ, lý do đúng/sai.",
-          "B": "...",
-          "C": "...",
-          "D": "..."
-        },
-        "correct_answer": "✅ Đáp án đúng: A. her",
-        "sentence_explanation": "💬 Giải thích câu hoàn chỉnh bằng tiếng Việt.",
-        "translation": "Dịch toàn câu sang tiếng Việt.",
-        "vocab_notes": "📘 Ghi nhớ: Giải thích ngắn gọn các từ vựng chính (từ loại, nghĩa, ví dụ).",
-        "grammar_notes": "👉 Nêu rõ điểm ngữ pháp hoặc cấu trúc ngữ pháp chính giúp chọn đúng đáp án."
-      },
-      "en": {
-        "summary": "English explanation of why the correct answer fits grammatically and semantically."
-      }
-    }
-  }
+{
+"id": 101,
+"question": "Ms. Budrow was promoted after ------- group recorded the highest revenue growth for the year.",
+"options": {
+"A": "her",
+"B": "hers",
+"C": "herself",
+"D": "she"
+},
+"answer": "A",
+"explanation": {
+"vi": {
+"option_analysis": {
+"A": "Giải thích chi tiết từng lựa chọn: nghĩa, loại từ, lý do đúng/sai.",
+"B": "...",
+"C": "...",
+"D": "..."
+},
+"correct_answer": "✅ Đáp án đúng: A. her",
+"sentence_explanation": "💬 Giải thích câu hoàn chỉnh bằng tiếng Việt.",
+"translation": "Dịch toàn câu sang tiếng Việt.",
+"vocab_notes": "📘 Ghi nhớ: Giải thích ngắn gọn các từ vựng chính (từ loại, nghĩa, ví dụ).",
+"grammar_notes": "👉 Nêu rõ điểm ngữ pháp hoặc cấu trúc ngữ pháp chính giúp chọn đúng đáp án."
+},
+"en": {
+"summary": "English explanation of why the correct answer fits grammatically and semantically."
+}
+}
+}
 ]
-```

@@ -40,6 +40,12 @@ export async function POST(req: NextRequest) {
     const parseJson = (text: string) => {
       const m = text.match(/```json[\s\S]*?```/i);
       const t = m ? m[0].replace(/```json|```/g, "").trim() : text;
+      // console.log("t", t);
+      // // write to file
+      // fs.writeFileSync(
+      //   `${Date.now()}_${title.replace(/[^a-z0-9-_]+/gi, "_")}.json`,
+      //   t
+      // );
       return JSON.parse(t);
     };
 

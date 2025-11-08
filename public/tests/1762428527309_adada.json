@@ -1,0 +1,2010 @@
+[
+  {
+    "part": 5,
+    "id": 101,
+    "question": "Video game designers need a broad _______ of computer programming.",
+    "options": {
+      "A": "knowledge",
+      "B": "known",
+      "C": "knowing",
+      "D": "know"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là một danh từ, có nghĩa là 'kiến thức'. Cụm từ 'a broad knowledge of' là một cấu trúc phổ biến và chính xác, có nghĩa là 'kiến thức rộng về'.",
+          "B": "Là tính từ hoặc phân từ quá khứ, có nghĩa là 'được biết đến'. Không phù hợp về mặt ngữ pháp sau 'a broad'.",
+          "C": "Là danh động từ hoặc tính từ, có nghĩa là 'sự hiểu biết' hoặc 'hiểu biết'. Mặc dù có thể là danh từ, nhưng 'a broad knowing of' không phải là cách diễn đạt tự nhiên và phổ biến như 'knowledge'.",
+          "D": "Là động từ nguyên thể, có nghĩa là 'biết'. Không phù hợp về mặt ngữ pháp sau 'a broad'."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. knowledge",
+        "sentence_explanation": "Câu này yêu cầu một danh từ để hoàn thành cụm 'a broad _______ of'. 'Knowledge' là danh từ phù hợp nhất để diễn tả 'kiến thức rộng' mà các nhà thiết kế trò chơi điện tử cần có về lập trình máy tính.",
+        "translation": "Các nhà thiết kế trò chơi điện tử cần có kiến thức rộng về lập trình máy tính.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **knowledge** (n): kiến thức, sự hiểu biết. \n- **broad** (adj): rộng, bao quát.",
+        "grammar_notes": "👉 Cụm từ 'a broad [noun] of' yêu cầu một danh từ đứng sau tính từ 'broad' để chỉ một phạm vi hoặc số lượng lớn của một sự vật, hiện tượng."
+      },
+      "en": {
+        "summary": "The sentence requires a noun to complete the phrase 'a broad _______ of'. 'Knowledge' (A) is the correct noun that signifies extensive understanding, fitting the context of what designers need regarding computer programming. Options (B), (C), and (D) are grammatically or semantically unsuitable."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 102,
+    "question": "Concerning the item that was lost in transit, we will take responsibility for _______.",
+    "options": {
+      "A": "it",
+      "B": "its",
+      "C": "its own",
+      "D": "itself"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là đại từ tân ngữ (object pronoun), dùng để thay thế cho danh từ 'the item' (vật thể) và đóng vai trò tân ngữ của giới từ 'for'. 'Take responsibility for it' là cấu trúc đúng.",
+          "B": "Là tính từ sở hữu hoặc đại từ sở hữu. Tính từ sở hữu (its) cần theo sau bởi một danh từ (ví dụ: its color). Đại từ sở hữu (its) có nghĩa là 'thứ của nó' nhưng không phù hợp trong cấu trúc này.",
+          "C": "Là cụm từ nhấn mạnh sự sở hữu. Không phù hợp làm tân ngữ trực tiếp của giới từ 'for' trong ngữ cảnh này.",
+          "D": "Là đại từ phản thân hoặc đại từ nhấn mạnh. 'Itself' được dùng khi chủ ngữ và tân ngữ là cùng một đối tượng (reflexive) hoặc để nhấn mạnh. Trong câu này, chủ ngữ là 'we' và tân ngữ là 'the item', nên không phải phản thân. Nó cũng không dùng để nhấn mạnh trong cấu trúc này."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. it",
+        "sentence_explanation": "Câu này yêu cầu một đại từ tân ngữ để chỉ 'the item' (vật phẩm) và làm tân ngữ cho giới từ 'for'. 'It' là lựa chọn chính xác để hoàn thành cấu trúc 'take responsibility for it' (chịu trách nhiệm về nó).",
+        "translation": "Liên quan đến vật phẩm bị thất lạc trong quá trình vận chuyển, chúng tôi sẽ chịu trách nhiệm về nó.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **in transit**: đang được vận chuyển, trên đường vận chuyển.\n- **take responsibility for**: chịu trách nhiệm về.",
+        "grammar_notes": "👉 Sau giới từ (for), ta dùng đại từ tân ngữ (object pronoun). 'It' là đại từ tân ngữ cho 'the item'."
+      },
+      "en": {
+        "summary": "The sentence requires an object pronoun after the preposition 'for' to refer back to 'the item'. 'It' (A) is the correct object pronoun. 'Its' (B) is possessive, 'its own' (C) emphasizes possession, and 'itself' (D) is reflexive/intensive and doesn't fit the grammatical context here."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 103,
+    "question": "The Springly Energy marketing team is working hard _______ our latest products.",
+    "options": {
+      "A": "promote",
+      "B": "to promote",
+      "C": "promoted",
+      "D": "were promoting"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là động từ nguyên thể. Không thể đứng trực tiếp sau 'working hard' để diễn tả mục đích hoặc hành động liên tục.",
+          "B": "Là thể nguyên mẫu có 'to' (infinitive of purpose). Cấu trúc 'work hard to do something' (làm việc chăm chỉ để làm gì) chính xác về ngữ pháp và ý nghĩa, diễn tả mục đích của việc làm việc chăm chỉ.",
+          "C": "Là phân từ quá khứ hoặc thì quá khứ đơn. Không phù hợp về mặt ngữ pháp trong cấu trúc này.",
+          "D": "Là thì quá khứ tiếp diễn. Không thể kết hợp với 'is working hard' để tạo thành một câu hợp lý."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. to promote",
+        "sentence_explanation": "Câu này cần một động từ ở dạng phù hợp để diễn tả mục đích của việc 'working hard' (làm việc chăm chỉ). Cấu trúc 'to + verb' (infinitive) thường được dùng để chỉ mục đích, nên 'to promote' (để quảng bá) là lựa chọn chính xác.",
+        "translation": "Đội tiếp thị của Springly Energy đang làm việc chăm chỉ để quảng bá các sản phẩm mới nhất của chúng tôi.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **marketing team**: đội tiếp thị.\n- **promote** (v): quảng bá, thúc đẩy.",
+        "grammar_notes": "👉 Infinitive of purpose: Dùng 'to + verb' để diễn tả mục đích của một hành động. (e.g., He studies hard *to pass* the exam)."
+      },
+      "en": {
+        "summary": "The sentence requires an infinitive of purpose to explain why the marketing team is working hard. 'To promote' (B) correctly expresses the purpose of their hard work, meaning 'in order to promote'. The other options are grammatically incorrect in this context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 104,
+    "question": "The job advertisement lists several _______ needed to be considered for an interview.",
+    "options": {
+      "A": "specialists",
+      "B": "qualifications",
+      "C": "engagements",
+      "D": "assortments"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ số nhiều, có nghĩa là 'chuyên gia'. Quảng cáo việc làm thường liệt kê các yêu cầu về phẩm chất hoặc kỹ năng, không phải bản thân các chuyên gia.",
+          "B": "Là danh từ số nhiều, có nghĩa là 'phẩm chất', 'bằng cấp', 'kinh nghiệm'. Đây là những yếu tố cần thiết để được xem xét cho một cuộc phỏng vấn, hoàn toàn phù hợp với ngữ cảnh.",
+          "C": "Là danh từ số nhiều, có nghĩa là 'cuộc hẹn', 'sự cam kết' hoặc 'sự tham gia'. Không phù hợp trong ngữ cảnh các yêu cầu để phỏng vấn.",
+          "D": "Là danh từ số nhiều, có nghĩa là 'các loại', 'các bộ sưu tập'. Không liên quan đến yêu cầu công việc."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. qualifications",
+        "sentence_explanation": "Câu này yêu cầu một danh từ số nhiều để chỉ những thứ cần thiết để được xem xét cho một cuộc phỏng vấn. 'Qualifications' (bằng cấp, phẩm chất, kinh nghiệm) là từ phù hợp nhất, vì quảng cáo việc làm thường liệt kê các yêu cầu này.",
+        "translation": "Quảng cáo việc làm liệt kê một số bằng cấp cần thiết để được xem xét cho một cuộc phỏng vấn.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **job advertisement**: quảng cáo việc làm.\n- **qualifications** (n): bằng cấp, phẩm chất, trình độ.",
+        "grammar_notes": "👉 'Several' (một vài) đòi hỏi theo sau là một danh từ đếm được số nhiều. 'Qualifications' phù hợp cả về ngữ pháp và ý nghĩa."
+      },
+      "en": {
+        "summary": "The blank requires a plural noun that refers to the requirements for being considered for an interview. 'Qualifications' (B) is the most appropriate word, as job advertisements typically list the skills, experience, or degrees needed for a position. The other options do not fit the context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 105,
+    "question": "When the contract is signed and received, it will become _______ immediately.",
+    "options": {
+      "A": "effective",
+      "B": "effect",
+      "C": "effected",
+      "D": "effectively"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là tính từ, có nghĩa là 'có hiệu lực', 'hiệu quả'. Cụm từ 'become effective' là thành ngữ phổ biến, có nghĩa là 'bắt đầu có hiệu lực'.",
+          "B": "Là danh từ, có nghĩa là 'hiệu quả', 'kết quả'. 'Become effect' là không đúng ngữ pháp.",
+          "C": "Là phân từ quá khứ của động từ 'effect' (thực hiện, gây ra). Có nghĩa là 'đã được thực hiện'. 'Become effected' không phải là thành ngữ chuẩn để chỉ việc hợp đồng có hiệu lực.",
+          "D": "Là trạng từ, có nghĩa là 'một cách hiệu quả'. 'Become effectively' là không đúng ngữ pháp vì 'become' cần theo sau bởi một tính từ mô tả chủ ngữ."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. effective",
+        "sentence_explanation": "Động từ 'become' là một linking verb (động từ nối), thường được theo sau bởi một tính từ để mô tả trạng thái mới của chủ ngữ. 'Effective' là tính từ phù hợp, tạo thành cụm 'become effective' (có hiệu lực), miêu tả trạng thái của hợp đồng sau khi được ký và nhận.",
+        "translation": "Khi hợp đồng được ký và nhận, nó sẽ có hiệu lực ngay lập tức.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **contract** (n): hợp đồng.\n- **effective** (adj): có hiệu lực, hiệu quả.",
+        "grammar_notes": "👉 Động từ 'become' là một linking verb, thường được theo sau bởi một tính từ để mô tả chủ ngữ (subject complement)."
+      },
+      "en": {
+        "summary": "The verb 'become' is a linking verb that should be followed by an adjective describing the subject. 'Effective' (A) is the correct adjective, forming the common idiom 'become effective,' meaning to come into force or operation. The other options are grammatically incorrect or semantically unsuitable."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 106,
+    "question": "It is unlikely that a policy change could have _______ the financial challenge that the construction company faced.",
+    "options": {
+      "A": "shared",
+      "B": "banned",
+      "C": "forbidden",
+      "D": "prevented"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là quá khứ phân từ của 'share' (chia sẻ). Không phù hợp với 'financial challenge'.",
+          "B": "Là quá khứ phân từ của 'ban' (cấm). Không phù hợp với 'financial challenge'.",
+          "C": "Là quá khứ phân từ của 'forbid' (cấm). Không phù hợp với 'financial challenge'.",
+          "D": "Là quá khứ phân từ của 'prevent' (ngăn chặn). 'Prevented the financial challenge' có nghĩa là 'ngăn chặn thách thức tài chính', hoàn toàn phù hợp với ngữ cảnh là một thay đổi chính sách có thể đã giúp công ty tránh được khó khăn tài chính."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. prevented",
+        "sentence_explanation": "Cấu trúc 'could have + past participle' được dùng để nói về một khả năng trong quá khứ không xảy ra. Từ cần điền phải là quá khứ phân từ của một động từ phù hợp với ngữ cảnh 'a policy change' và 'financial challenge'. 'Prevented' (ngăn chặn) là lựa chọn hợp lý nhất, ám chỉ rằng sự thay đổi chính sách có thể đã ngăn chặn được thách thức tài chính.",
+        "translation": "Không chắc rằng một sự thay đổi chính sách có thể đã ngăn chặn được thách thức tài chính mà công ty xây dựng đã phải đối mặt.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **policy change**: sự thay đổi chính sách.\n- **financial challenge**: thách thức tài chính.\n- **prevent** (v): ngăn chặn, phòng ngừa.",
+        "grammar_notes": "👉 Cấu trúc 'could have + V3/ed' diễn tả một khả năng có thể đã xảy ra trong quá khứ nhưng thực tế không xảy ra."
+      },
+      "en": {
+        "summary": "The sentence requires a past participle to complete the phrase 'could have _______ the financial challenge'. 'Prevented' (D) means to stop something from happening, which logically fits the context where a policy change might have averted a financial difficulty. The other options do not make sense semantically with 'financial challenge'."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 107,
+    "question": "Barsan Photo is _______ that their latest printer will not be available before the start of the third quarter.",
+    "options": {
+      "A": "acknowledge",
+      "B": "acknowledges",
+      "C": "acknowledging",
+      "D": "acknowledgement"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là động từ nguyên thể. Không đúng ngữ pháp sau 'is'.",
+          "B": "Là động từ chia ở thì hiện tại đơn ngôi thứ ba số ít. Không đúng ngữ pháp sau 'is'.",
+          "C": "Là phân từ hiện tại (V-ing). Cấu trúc 'is acknowledging' tạo thành thì hiện tại tiếp diễn, diễn tả hành động đang diễn ra (Barsan Photo đang thừa nhận/công nhận). Đây là lựa chọn đúng về ngữ pháp và ý nghĩa.",
+          "D": "Là danh từ, có nghĩa là 'sự thừa nhận', 'sự công nhận'. 'Is acknowledgement' là không đúng ngữ pháp để diễn tả hành động của chủ thể."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. acknowledging",
+        "sentence_explanation": "Để hoàn thành câu với cấu trúc 'chủ ngữ + to be + V-ing' (thì hiện tại tiếp diễn) hoặc 'chủ ngữ + to be + adjective', chúng ta cần một phân từ hiện tại. 'Acknowledging' (đang thừa nhận) là lựa chọn chính xác, diễn tả việc Barsan Photo đang thừa nhận rằng sản phẩm của họ sẽ không có sẵn.",
+        "translation": "Barsan Photo thừa nhận rằng máy in mới nhất của họ sẽ không có sẵn trước khi bắt đầu quý thứ ba.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **acknowledge** (v): thừa nhận, công nhận.\n- **available** (adj): có sẵn.\n- **third quarter**: quý thứ ba (trong năm tài chính).",
+        "grammar_notes": "👉 Cấu trúc thì hiện tại tiếp diễn: 'be + V-ing'. Ngoài ra, 'be + V-ing' cũng có thể diễn tả một hành động đang được thực hiện bởi chủ ngữ."
+      },
+      "en": {
+        "summary": "The sentence uses the structure 'Barsan Photo is _______ that...'. To form the present continuous tense, a present participle (verb-ing) is required. 'Acknowledging' (C) correctly completes the verb phrase 'is acknowledging,' meaning Barsan Photo is currently admitting or recognizing something. The other options are grammatically incorrect in this context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 108,
+    "question": "Thanks to the new system we installed, all lights and other devices turn on _______ when you enter the office.",
+    "options": {
+      "A": " heavily",
+      "B": "seriously",
+      "C": "automatically",
+      "D": "furiously"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là trạng từ, có nghĩa là 'nặng nề', 'nhiều'. Không phù hợp để mô tả cách đèn và thiết bị bật lên.",
+          "B": "Là trạng từ, có nghĩa là 'nghiêm túc', 'trầm trọng'. Không phù hợp.",
+          "C": "Là trạng từ, có nghĩa là 'tự động'. Điều này hoàn toàn phù hợp với ngữ cảnh 'a new system' (một hệ thống mới) được cài đặt để điều khiển đèn và thiết bị mà không cần sự can thiệp của con người.",
+          "D": "Là trạng từ, có nghĩa là 'một cách giận dữ', 'dữ dội'. Không phù hợp."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. automatically",
+        "sentence_explanation": "Câu này cần một trạng từ để bổ nghĩa cho động từ 'turn on' (bật lên), mô tả cách các thiết bị và đèn được bật. Với việc có một 'new system' (hệ thống mới), việc bật 'automatically' (tự động) là hợp lý nhất khi ai đó bước vào văn phòng.",
+        "translation": "Nhờ hệ thống mới mà chúng tôi đã cài đặt, tất cả đèn và các thiết bị khác tự động bật lên khi bạn vào văn phòng.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **device** (n): thiết bị.\n- **install** (v): cài đặt.\n- **automatically** (adv): một cách tự động.",
+        "grammar_notes": "👉 Trạng từ bổ nghĩa cho động từ 'turn on', mô tả phương thức hoặc cách thức hành động diễn ra."
+      },
+      "en": {
+        "summary": "The sentence requires an adverb to modify the verb phrase 'turn on'. Given that a 'new system' was installed, 'automatically' (C) is the most logical choice to describe how the lights and devices activate when someone enters the office, implying automation. The other adverbs do not fit the context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 109,
+    "question": "_______ the high demand for apartments, the study says single detached homes will be the most popular dwelling in five years.",
+    "options": {
+      "A": "Despite",
+      "B": "Apparently",
+      "C": "As expected",
+      "D": "In contrast"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là giới từ, có nghĩa là 'mặc dù', 'bất chấp'. Thường được theo sau bởi một danh từ hoặc cụm danh từ. Nó diễn tả sự tương phản hoặc nhượng bộ, phù hợp với ý nghĩa của câu: thành công bất chấp thời tiết xấu.",
+          "B": "Là trạng từ, có nghĩa là 'có vẻ như', 'dường như'. Thường đứng đầu câu hoặc giữa câu để bổ nghĩa cho cả câu hoặc động từ. Không thể đứng trước một cụm danh từ để diễn tả sự đối lập.",
+          "C": "Là cụm trạng ngữ, có nghĩa là 'như mong đợi'. Cũng không thể đứng trước một cụm danh từ để diễn tả sự đối lập.",
+          "D": "Là cụm trạng ngữ, có nghĩa là 'ngược lại'. Thường đi kèm với 'to' (in contrast to) khi so sánh hai đối tượng hoặc đứng độc lập để chuyển ý đối lập giữa hai câu."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. Despite",
+        "sentence_explanation": "Câu này diễn tả một sự tương phản giữa 'the high demand for apartments' (nhu cầu cao về căn hộ) và 'single detached homes will be the most popular' (nhà biệt lập sẽ phổ biến nhất). 'Despite' là giới từ phù hợp nhất để thể hiện sự nhượng bộ, rằng bất chấp một điều gì đó, một điều khác vẫn xảy ra.",
+        "translation": "Bất chấp nhu cầu cao về căn hộ, nghiên cứu cho biết nhà biệt lập sẽ là loại hình nhà ở phổ biến nhất trong năm năm tới.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **demand for**: nhu cầu về.\n- **apartment** (n): căn hộ.\n- **single detached home**: nhà biệt lập, nhà riêng lẻ.\n- **dwelling** (n): nơi ở, chỗ ở.",
+        "grammar_notes": "👉 'Despite' là một giới từ, theo sau bởi một danh từ hoặc cụm danh từ (hoặc V-ing) để diễn tả sự nhượng bộ. (Tương tự như 'in spite of')."
+      },
+      "en": {
+        "summary": "The sentence expresses a contrast between the high demand for apartments and the prediction that single detached homes will be most popular. 'Despite' (A) is a preposition that correctly introduces a noun phrase to show concession or contrast ('in spite of'). The other options are either adverbs or require a different grammatical structure."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 110,
+    "question": "The process for estimating our yearly expenses is _______, so we can start planning staffing for next year.",
+    "options": {
+      "A": "careless",
+      "B": "full",
+      "C": "entire",
+      "D": "complete"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là tính từ, có nghĩa là 'bất cẩn'. Không phù hợp với ngữ cảnh 'có thể bắt đầu lập kế hoạch'.",
+          "B": "Là tính từ, có nghĩa là 'đầy đủ', 'đầy'. 'The process is full' nghe không tự nhiên.",
+          "C": "Là tính từ, có nghĩa là 'toàn bộ'. Thường dùng trước danh từ (e.g., the entire process). 'The process is entire' không phải là cách diễn đạt phổ biến để chỉ sự hoàn thành.",
+          "D": "Là tính từ, có nghĩa là 'hoàn thành', 'đầy đủ'. 'The process is complete' có nghĩa là quá trình đã kết thúc, do đó có thể chuyển sang bước tiếp theo là lập kế hoạch nhân sự. Điều này hoàn toàn hợp lý về mặt logic."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. complete",
+        "sentence_explanation": "Câu này mô tả trạng thái của 'the process for estimating our yearly expenses' (quá trình ước tính chi phí hàng năm). Kết quả là 'so we can start planning staffing' (vì vậy chúng tôi có thể bắt đầu lập kế hoạch nhân sự). Điều này ngụ ý rằng quá trình phải được 'complete' (hoàn thành) thì mới có thể chuyển sang bước tiếp theo.",
+        "translation": "Quá trình ước tính chi phí hàng năm của chúng tôi đã hoàn tất, vì vậy chúng tôi có thể bắt đầu lập kế hoạch nhân sự cho năm tới.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **estimate** (v): ước tính.\n- **expenses** (n): chi phí.\n- **staffing** (n): việc bố trí nhân sự, nhân lực.",
+        "grammar_notes": "👉 Tính từ 'complete' được dùng làm bổ ngữ chủ ngữ sau động từ 'is' để mô tả trạng thái hoàn thành của 'the process'."
+      },
+      "en": {
+        "summary": "The sentence describes the state of a process, implying it's finished, which allows for the next step (planning staffing). 'Complete' (D) is the correct adjective, meaning 'finished' or 'having all necessary parts.' The phrase 'the process is complete' logically leads to the subsequent action. Other options are semantically or grammatically inappropriate."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 111,
+    "question": "As of June 26, only one _______ had called to request space at the trade show.",
+    "options": {
+      "A": "exhibitor",
+      "B": "exhibit",
+      "C": "exhibition",
+      "D": "exhibiting"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ, có nghĩa là 'nhà triển lãm', 'người/công ty trưng bày'. Đây là người hoặc tổ chức sẽ gọi điện để yêu cầu không gian tại triển lãm thương mại, hoàn toàn phù hợp với ngữ cảnh.",
+          "B": "Là danh từ hoặc động từ, có nghĩa là 'vật trưng bày' (n) hoặc 'trưng bày' (v). 'One exhibit had called' là vô lý vì vật trưng bày không thể gọi điện.",
+          "C": "Là danh từ, có nghĩa là 'cuộc triển lãm', 'trưng bày'. 'One exhibition had called' cũng vô lý vì cuộc triển lãm không thể gọi điện.",
+          "D": "Là danh động từ hoặc phân từ hiện tại. Không phù hợp làm danh từ chỉ người thực hiện hành động 'called'."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. exhibitor",
+        "sentence_explanation": "Câu này cần một danh từ số ít để chỉ người hoặc tổ chức thực hiện hành động 'had called to request space' (đã gọi để yêu cầu không gian). 'Exhibitor' (nhà triển lãm) là danh từ chính xác trong ngữ cảnh của một 'trade show' (triển lãm thương mại).",
+        "translation": "Tính đến ngày 26 tháng 6, chỉ có một nhà triển lãm đã gọi điện để yêu cầu không gian tại triển lãm thương mại.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **as of**: tính đến ngày/thời điểm.\n- **trade show**: triển lãm thương mại.\n- **exhibitor** (n): nhà triển lãm, người/công ty trưng bày.",
+        "grammar_notes": "👉 Sau 'only one' là một danh từ số ít đếm được, chỉ người hoặc vật thực hiện hành động được mô tả."
+      },
+      "en": {
+        "summary": "The sentence requires a singular noun referring to a person or entity that would call to request space at a trade show. 'Exhibitor' (A) means a person or company displaying goods at a trade show, which perfectly fits the context of someone making a request. The other options are grammatically or semantically incorrect."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 112,
+    "question": "To keep costs _______ an established budget, the owner decided to reduce the size of the garage to be constructed.",
+    "options": {
+      "A": "into",
+      "B": "over",
+      "C": "within",
+      "D": "beside"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là giới từ, có nghĩa là 'vào trong'. 'Keep costs into budget' là không đúng ngữ pháp.",
+          "B": "Là giới từ, có nghĩa là 'vượt quá'. 'Keep costs over budget' có nghĩa là 'để chi phí vượt ngân sách', điều này mâu thuẫn với việc 'giảm kích thước nhà để xe'.",
+          "C": "Là giới từ, có nghĩa là 'trong giới hạn của', 'không vượt quá'. 'Keep costs within budget' (giữ chi phí trong phạm vi ngân sách) là cách diễn đạt chính xác và phù hợp với hành động giảm kích thước để tiết kiệm chi phí.",
+          "D": "Là giới từ, có nghĩa là 'bên cạnh'. Không phù hợp trong ngữ cảnh này."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. within",
+        "sentence_explanation": "Câu này diễn tả mục đích của việc 'reduce the size of the garage' (giảm kích thước nhà để xe), đó là để 'keep costs' (giữ chi phí). Giới từ 'within' (trong phạm vi) là phù hợp nhất để thể hiện việc giữ chi phí không vượt quá 'an established budget' (ngân sách đã định).",
+        "translation": "Để giữ chi phí trong phạm vi ngân sách đã định, chủ sở hữu quyết định giảm kích thước nhà để xe sẽ được xây dựng.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **established budget**: ngân sách đã được thiết lập.\n- **reduce the size**: giảm kích thước.\n- **within budget**: trong ngân sách.",
+        "grammar_notes": "👉 Giới từ 'within' được dùng để chỉ sự giới hạn, phạm vi mà một điều gì đó cần tuân thủ."
+      },
+      "en": {
+        "summary": "The sentence describes the goal of reducing the garage size: to control costs relative to a budget. 'Within' (C) is the correct preposition, meaning 'inside the limits of.' 'Keep costs within budget' aligns perfectly with the action of reducing size to manage expenses. The other prepositions are semantically incorrect."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 113,
+    "question": "The outdoor sales event was a great success _______ the cold and rainy weather.",
+    "options": {
+      "A": "in spite of",
+      "B": "provided that",
+      "C": "although",
+      "D": "unless"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là cụm giới từ, có nghĩa là 'mặc dù', 'bất chấp'. Thường được theo sau bởi một danh từ hoặc cụm danh từ (trong trường hợp này là 'the cold and rainy weather'). Nó diễn tả sự nhượng bộ, rằng sự kiện vẫn thành công mặc dù thời tiết xấu.",
+          "B": "Là liên từ, có nghĩa là 'với điều kiện là', 'nếu như'. Thường được theo sau bởi một mệnh đề hoàn chỉnh (chủ ngữ + động từ).",
+          "C": "Là liên từ, có nghĩa là 'mặc dù', 'cho dù'. Thường được theo sau bởi một mệnh đề hoàn chỉnh.",
+          "D": "Là liên từ, có nghĩa là 'trừ khi', 'nếu không'. Thường được theo sau bởi một mệnh đề hoàn chỉnh."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. in spite of",
+        "sentence_explanation": "Câu này diễn tả một sự tương phản giữa 'a great success' (thành công lớn) và 'the cold and rainy weather' (thời tiết lạnh và mưa). Cụm giới từ 'in spite of' (bất chấp) là lựa chọn chính xác để giới thiệu một cụm danh từ diễn tả điều kiện đối lập.",
+        "translation": "Sự kiện bán hàng ngoài trời đã thành công lớn bất chấp thời tiết lạnh và mưa.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **outdoor sales event**: sự kiện bán hàng ngoài trời.\n- **in spite of**: bất chấp, mặc dù (followed by a noun/noun phrase/V-ing).\n- **although**: mặc dù (followed by a clause).",
+        "grammar_notes": "👉 'In spite of' là một giới từ kép, dùng để nối một cụm danh từ thể hiện sự tương phản với phần còn lại của câu."
+      },
+      "en": {
+        "summary": "The sentence presents a contrast: the event was a great success despite adverse weather. 'In spite of' (A) is the correct prepositional phrase to introduce a noun phrase ('the cold and rainy weather') and express this concession. 'Provided that,' 'although,' and 'unless' are conjunctions that require a clause, making them grammatically unsuitable here."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 114,
+    "question": "No _______ of Mr. Hanson's book would be complete without mentioning his insightful analysis of the world of business blogs.",
+    "options": {
+      "A": "finish",
+      "B": "summary",
+      "C": "composition",
+      "D": "organization"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ, có nghĩa là 'sự kết thúc', 'phần cuối'. Không phù hợp với việc 'đề cập đến phân tích chuyên sâu'.",
+          "B": "Là danh từ, có nghĩa là 'bản tóm tắt', 'bài tóm lược'. Một bản tóm tắt thường bao gồm các phân tích hoặc điểm chính. Do đó, 'no summary of the book would be complete without mentioning his insightful analysis' là hợp lý nhất.",
+          "C": "Là danh từ, có nghĩa là 'cấu trúc', 'bố cục' hoặc 'tác phẩm'. 'No composition of the book' không phải là cách diễn đạt thông thường trong ngữ cảnh này.",
+          "D": "Là danh từ, có nghĩa là 'sự tổ chức', 'cấu trúc'. Mặc dù liên quan đến sách, nhưng 'no organization of the book would be complete without mentioning analysis' ít trực tiếp hơn so với 'summary'."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. summary",
+        "sentence_explanation": "Câu này nói về một phần của cuốn sách sẽ không hoàn chỉnh nếu không đề cập đến 'insightful analysis' (phân tích sâu sắc) của tác giả. 'Summary' (bản tóm tắt) là danh từ phù hợp nhất, vì một bản tóm tắt hay đánh giá sách thường bao gồm các phân tích và nhận xét về nội dung.",
+        "translation": "Không bản tóm tắt nào về cuốn sách của ông Hanson sẽ hoàn chỉnh nếu không đề cập đến phân tích sâu sắc của ông về thế giới blog kinh doanh.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **insightful analysis**: phân tích sâu sắc.\n- **business blogs**: các blog kinh doanh.\n- **summary** (n): bản tóm tắt, tóm lược.",
+        "grammar_notes": "👉 'No' đi kèm với một danh từ số ít đếm được (trong trường hợp này là 'summary') hoặc danh từ không đếm được."
+      },
+      "en": {
+        "summary": "The sentence discusses a description of Mr. Hanson's book that would be incomplete without mentioning his analysis. 'Summary' (B) is the most fitting noun, as a summary or review of a book often includes analytical points. The other options are not semantically appropriate in this context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 115,
+    "question": "Updating the product line that buyers have complained about will send an obvious _______ to our valued customers.",
+    "options": {
+      "A": "messaging",
+      "B": "messenger",
+      "C": "message",
+      "D": "messaged"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ (hoặc danh động từ), có nghĩa là 'việc nhắn tin', 'hệ thống nhắn tin'. 'Send an obvious messaging' không tự nhiên.",
+          "B": "Là danh từ, có nghĩa là 'người đưa tin'. Không phù hợp với việc 'cập nhật dòng sản phẩm' là hành động gửi đi thông tin.",
+          "C": "Là danh từ, có nghĩa là 'thông điệp'. Cụm từ 'send a message' (gửi một thông điệp) là một thành ngữ phổ biến và chính xác, phù hợp với ngữ cảnh muốn truyền tải ý nghĩa rằng công ty lắng nghe phản hồi của khách hàng.",
+          "D": "Là động từ ở dạng quá khứ phân từ. Không phù hợp về mặt ngữ pháp."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. message",
+        "sentence_explanation": "Câu này cần một danh từ để hoàn thành cụm 'send an obvious _______'. 'Message' (thông điệp) là danh từ phù hợp nhất, tạo thành cụm 'send an obvious message' (gửi một thông điệp rõ ràng), thể hiện rằng việc cập nhật sản phẩm là một thông điệp phản hồi tới khách hàng.",
+        "translation": "Việc cập nhật dòng sản phẩm mà khách hàng đã phàn nàn sẽ gửi một thông điệp rõ ràng đến những khách hàng quý giá của chúng tôi.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **product line**: dòng sản phẩm.\n- **complain about**: phàn nàn về.\n- **valued customers**: khách hàng quý giá.\n- **message** (n): thông điệp.",
+        "grammar_notes": "👉 Cấu trúc 'send a message' là một thành ngữ thông dụng, trong đó 'message' đóng vai trò là tân ngữ trực tiếp."
+      },
+      "en": {
+        "summary": "The sentence requires a noun to complete the idiom 'send an obvious _______'. 'Message' (C) is the correct noun, forming the common phrase 'send an obvious message,' which implies that updating the product line communicates a clear signal to customers. The other options are grammatically or semantically incorrect."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 116,
+    "question": "The Internet will _______ be a crucial part of the economy for the foreseeable future.",
+    "options": {
+      "A": "concisely",
+      "B": "perfectly",
+      "C": "currently",
+      "D": "undoubtedly"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là trạng từ, có nghĩa là 'ngắn gọn'. Không phù hợp để mô tả vai trò của Internet.",
+          "B": "Là trạng từ, có nghĩa là 'hoàn hảo'. Mặc dù có thể là một ý nghĩa tích cực, nhưng 'perfectly crucial' không phải là sự kết hợp từ phổ biến.",
+          "C": "Là trạng từ, có nghĩa là 'hiện tại'. Mặc dù Internet hiện tại đã quan trọng, nhưng câu này đang nói về vai trò 'for the foreseeable future' (trong tương lai gần), nên 'currently' không phải là trạng từ diễn tả sự chắc chắn trong tương lai.",
+          "D": "Là trạng từ, có nghĩa là 'chắc chắn', 'không nghi ngờ gì'. Điều này phù hợp để nhấn mạnh sự chắc chắn về vai trò quan trọng của Internet trong tương lai."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. undoubtedly",
+        "sentence_explanation": "Câu này dự đoán về vai trò của Internet trong tương lai. Để diễn tả mức độ chắc chắn cao của dự đoán này, chúng ta cần một trạng từ có nghĩa là 'chắc chắn'. 'Undoubtedly' (không nghi ngờ gì nữa) là trạng từ phù hợp nhất, bổ nghĩa cho động từ 'be'.",
+        "translation": "Internet chắc chắn sẽ là một phần quan trọng của nền kinh tế trong tương lai gần.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **crucial** (adj): cực kỳ quan trọng.\n- **economy** (n): nền kinh tế.\n- **for the foreseeable future**: trong tương lai gần, trong một tương lai có thể dự đoán được.\n- **undoubtedly** (adv): chắc chắn, không nghi ngờ gì.",
+        "grammar_notes": "👉 Trạng từ 'undoubtedly' bổ nghĩa cho động từ 'will be' để diễn tả sự chắc chắn của một sự việc hoặc dự đoán."
+      },
+      "en": {
+        "summary": "The sentence expresses a strong certainty about the Internet's future role. 'Undoubtedly' (D) is the correct adverb to modify 'will be a crucial part,' conveying that there is no doubt about this prediction. The other adverbs do not fit the meaning of strong certainty in this context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 117,
+    "question": "The management team required little _______ before deciding to promote Ms. Yang.",
+    "options": {
+      "A": "deliberation",
+      "B": "deliberate",
+      "C": "deliberated",
+      "D": "deliberately"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ, có nghĩa là 'sự cân nhắc kỹ lưỡng', 'sự thảo luận kỹ'. 'Little deliberation' có nghĩa là 'ít sự cân nhắc', tức là quyết định được đưa ra nhanh chóng, phù hợp với ngữ cảnh.",
+          "B": "Là tính từ hoặc động từ, có nghĩa là 'có chủ ý' (adj) hoặc 'cân nhắc kỹ lưỡng' (v). Không phù hợp sau 'little'.",
+          "C": "Là quá khứ đơn hoặc quá khứ phân từ của động từ 'deliberate'. Không phù hợp về mặt ngữ pháp.",
+          "D": "Là trạng từ, có nghĩa là 'một cách cố ý', 'một cách có chủ ý'. Không phù hợp làm danh từ."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. deliberation",
+        "sentence_explanation": "Từ 'little' ở đây là một từ hạn định chỉ số lượng ít (không đếm được), và nó cần theo sau bởi một danh từ. 'Deliberation' (sự cân nhắc) là danh từ phù hợp nhất, ám chỉ rằng nhóm quản lý đã không mất nhiều thời gian để cân nhắc trước khi quyết định thăng chức cho cô Yang.",
+        "translation": "Đội ngũ quản lý đã cần rất ít sự cân nhắc trước khi quyết định thăng chức cho cô Yang.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **management team**: đội ngũ quản lý.\n- **promote** (v): thăng chức.\n- **deliberation** (n): sự cân nhắc, sự thảo luận kỹ lưỡng.",
+        "grammar_notes": "👉 'Little' (trong ý nghĩa 'rất ít') thường đi kèm với danh từ không đếm được. 'Deliberation' là danh từ không đếm được."
+      },
+      "en": {
+        "summary": "The blank follows 'little,' which acts as a determiner requiring a noun. 'Deliberation' (A) is the correct noun, meaning 'long and careful consideration.' 'Little deliberation' implies that the decision to promote Ms. Yang was made quickly, fitting the sentence's context. The other options are incorrect parts of speech."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 118,
+    "question": "The human resources office is adopting a more _______ policy that would give employees additional vacation days.",
+    "options": {
+      "A": "generous",
+      "B": "collaborative",
+      "C": "severe",
+      "D": "regional"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là tính từ, có nghĩa là 'rộng rãi', 'hào phóng'. Một chính sách 'generous' (hào phóng) sẽ là chính sách cấp thêm ngày nghỉ phép, điều này hoàn toàn phù hợp với ngữ cảnh.",
+          "B": "Là tính từ, có nghĩa là 'hợp tác'. Mặc dù các chính sách có thể được xây dựng trên tinh thần hợp tác, nhưng việc 'cho thêm ngày nghỉ phép' bản thân nó thể hiện sự hào phóng chứ không phải hợp tác.",
+          "C": "Là tính từ, có nghĩa là 'nghiêm khắc', 'khắc nghiệt'. Điều này mâu thuẫn với việc 'cho thêm ngày nghỉ phép'.",
+          "D": "Là tính từ, có nghĩa là 'thuộc về khu vực'. Không liên quan đến việc cấp thêm ngày nghỉ phép."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. generous",
+        "sentence_explanation": "Câu này mô tả một 'policy' (chính sách) mà 'would give employees additional vacation days' (sẽ cấp thêm ngày nghỉ phép cho nhân viên). Một chính sách như vậy được coi là 'generous' (hào phóng).",
+        "translation": "Văn phòng nhân sự đang áp dụng một chính sách hào phóng hơn, sẽ cấp thêm ngày nghỉ phép cho nhân viên.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **human resources office**: phòng nhân sự.\n- **adopt** (v): áp dụng, thông qua.\n- **policy** (n): chính sách.\n- **additional vacation days**: thêm ngày nghỉ phép.\n- **generous** (adj): hào phóng, rộng rãi.",
+        "grammar_notes": "👉 Tính từ 'generous' bổ nghĩa cho danh từ 'policy', mô tả đặc tính của chính sách đó."
+      },
+      "en": {
+        "summary": "The blank requires an adjective to describe a 'policy' that grants 'additional vacation days.' 'Generous' (A) is the most suitable adjective, as giving more vacation days is an act of generosity. The other options do not fit the positive nature of the policy's outcome."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 119,
+    "question": "Mr. Greaves will speak to our suppliers about _______ handling of the transportation situation.",
+    "options": {
+      "A": "they",
+      "B": "their",
+      "C": "them",
+      "D": "these"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là đại từ chủ ngữ. Không thể đứng trước một danh từ như 'handling' để chỉ sở hữu.",
+          "B": "Là tính từ sở hữu, có nghĩa là 'của họ'. Được dùng để bổ nghĩa cho danh từ 'handling' (việc xử lý) và chỉ ra rằng việc xử lý đó thuộc về 'suppliers' (nhà cung cấp).",
+          "C": "Là đại từ tân ngữ. Không thể đứng trước một danh từ như 'handling' để chỉ sở hữu.",
+          "D": "Là đại từ chỉ định hoặc tính từ chỉ định. 'These handling' là không đúng ngữ pháp."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. their",
+        "sentence_explanation": "Từ cần điền đứng trước danh từ 'handling' (việc xử lý) và cần chỉ ra 'ai' là chủ thể của hành động xử lý đó. 'Their' là tính từ sở hữu phù hợp, ám chỉ rằng ông Greaves sẽ nói về 'việc xử lý' của các nhà cung cấp đối với tình hình vận chuyển.",
+        "translation": "Ông Greaves sẽ nói chuyện với các nhà cung cấp của chúng tôi về việc xử lý tình hình vận chuyển của họ.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **suppliers** (n): nhà cung cấp.\n- **handling** (n): việc xử lý.\n- **transportation situation**: tình hình vận chuyển.",
+        "grammar_notes": "👉 Tính từ sở hữu (possessive adjective) như 'their' đứng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ. (e.g., *their* car, *their* decision)."
+      },
+      "en": {
+        "summary": "The blank precedes the noun 'handling' and requires a possessive adjective to indicate whose handling is being discussed. 'Their' (B) is the correct possessive adjective, signifying that the handling belongs to 'our suppliers'. The other options are grammatically incorrect in this position."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 120,
+    "question": "This is only a preliminary list of job candidates, so interviewers should _______ the possibility of last-minute additions.",
+    "options": {
+      "A": "wait",
+      "B": "decide",
+      "C": "expect",
+      "D": "figure"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là động từ, có nghĩa là 'đợi'. 'Wait the possibility' là không đúng ngữ pháp.",
+          "B": "Là động từ, có nghĩa là 'quyết định'. 'Decide the possibility' là không đúng ngữ pháp.",
+          "C": "Là động từ, có nghĩa là 'mong đợi', 'dự kiến'. 'Expect the possibility' (mong đợi khả năng) là cách diễn đạt phù hợp, vì danh sách là 'sơ bộ' nên có thể có thêm ứng viên vào phút chót.",
+          "D": "Là động từ, có nghĩa là 'nghĩ rằng', 'tính toán'. 'Figure the possibility' ít tự nhiên hơn 'expect the possibility' trong ngữ cảnh này."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. expect",
+        "sentence_explanation": "Câu này cho biết danh sách ứng viên là 'preliminary' (sơ bộ), tức là chưa cuối cùng. Do đó, người phỏng vấn nên 'expect' (mong đợi, dự kiến) khả năng có những bổ sung vào phút chót. 'Expect' là động từ phù hợp nhất về ý nghĩa.",
+        "translation": "Đây chỉ là danh sách sơ bộ các ứng viên cho vị trí, vì vậy người phỏng vấn nên dự kiến khả năng có thêm người vào phút chót.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **preliminary list**: danh sách sơ bộ.\n- **job candidates**: ứng viên cho công việc.\n- **last-minute additions**: bổ sung vào phút chót.\n- **expect** (v): mong đợi, dự kiến.",
+        "grammar_notes": "👉 Động từ 'expect' thường được dùng với danh từ hoặc cụm danh từ làm tân ngữ để diễn tả sự dự đoán một điều gì đó sẽ xảy ra."
+      },
+      "en": {
+        "summary": "The sentence indicates that the list of candidates is 'preliminary,' meaning it's not final. Therefore, interviewers should anticipate or 'expect' (C) the possibility of more additions. 'Expect' semantically fits the context of anticipating future events. The other options are grammatically or semantically unsuitable."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 121,
+    "question": "Market conditions were _______ last year for us to make several new acquisitions.",
+    "options": {
+      "A": "favor",
+      "B": "favorite",
+      "C": "favorably",
+      "D": "favorable"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ hoặc động từ, có nghĩa là 'sự ưu ái', 'ủng hộ'. Không phù hợp về mặt ngữ pháp sau 'were' để mô tả 'conditions'.",
+          "B": "Là tính từ, có nghĩa là 'được yêu thích nhất'. Không phù hợp với ngữ cảnh 'điều kiện thị trường cho phép mua lại'.",
+          "C": "Là trạng từ, có nghĩa là 'một cách thuận lợi'. 'Conditions were favorably' là không hoàn chỉnh hoặc không tự nhiên; trạng từ bổ nghĩa cho động từ, nhưng ở đây 'were' là linking verb cần một tính từ bổ nghĩa cho chủ ngữ.",
+          "D": "Là tính từ, có nghĩa là 'thuận lợi', 'có lợi'. 'Market conditions were favorable' có nghĩa là 'điều kiện thị trường thuận lợi', điều này giải thích tại sao công ty có thể thực hiện các vụ mua lại mới."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. favorable",
+        "sentence_explanation": "Động từ 'were' là một linking verb, nên nó cần một tính từ để mô tả chủ ngữ 'Market conditions' (điều kiện thị trường). 'Favorable' (thuận lợi) là tính từ phù hợp nhất, cho biết điều kiện thị trường đã tốt, tạo điều kiện cho các vụ mua lại mới.",
+        "translation": "Điều kiện thị trường năm ngoái thuận lợi cho chúng tôi thực hiện một số vụ mua lại mới.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **market conditions**: điều kiện thị trường.\n- **acquisitions** (n): các vụ mua lại, thâu tóm.\n- **favorable** (adj): thuận lợi, có lợi.",
+        "grammar_notes": "👉 Linking verbs (như 'to be') được theo sau bởi tính từ (subject complement) để mô tả chủ ngữ."
+      },
+      "en": {
+        "summary": "The verb 'were' is a linking verb, requiring an adjective to describe the subject 'Market conditions'. 'Favorable' (D) is the correct adjective, meaning 'advantageous' or 'suitable,' which explains why new acquisitions could be made. 'Favorably' (C) is an adverb and would not directly describe the conditions themselves."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 122,
+    "question": "Web advertising is smart in the sense that it can be highly specific and target a market _______ great accuracy.",
+    "options": {
+      "A": "near",
+      "B": "during",
+      "C": "between",
+      "D": "with"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là giới từ, có nghĩa là 'gần'. Không phù hợp để mô tả cách thức nhắm mục tiêu thị trường.",
+          "B": "Là giới từ, có nghĩa là 'trong suốt'. Chỉ thời gian, không phù hợp.",
+          "C": "Là giới từ, có nghĩa là 'giữa'. Chỉ vị trí hoặc sự lựa chọn giữa hai đối tượng, không phù hợp.",
+          "D": "Là giới từ, có nghĩa là 'với' (bằng cách, cùng với). Cụm 'with great accuracy' là thành ngữ phổ biến, có nghĩa là 'với độ chính xác cao', hoàn toàn phù hợp để mô tả cách thức quảng cáo nhắm mục tiêu thị trường."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. with",
+        "sentence_explanation": "Câu này cần một giới từ để chỉ phương thức hoặc cách thức mà quảng cáo nhắm mục tiêu thị trường. Cụm 'with great accuracy' (với độ chính xác cao) là một thành ngữ chuẩn trong tiếng Anh, diễn tả phương thức thực hiện hành động 'target a market'.",
+        "translation": "Quảng cáo trên web thông minh ở chỗ nó có thể rất cụ thể và nhắm mục tiêu thị trường với độ chính xác cao.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **web advertising**: quảng cáo trên web.\n- **specific** (adj): cụ thể.\n- **target a market**: nhắm mục tiêu thị trường.\n- **accuracy** (n): độ chính xác.\n- **with great accuracy**: với độ chính xác cao.",
+        "grammar_notes": "👉 Giới từ 'with' thường được dùng để chỉ phương tiện, công cụ hoặc cách thức thực hiện hành động. (e.g., cut *with* a knife, speak *with* confidence)."
+      },
+      "en": {
+        "summary": "The sentence needs a preposition to express the manner in which the market is targeted. 'With' (D) is the correct preposition, forming the common idiom 'with great accuracy,' which describes a high degree of precision. The other prepositions do not fit the semantic context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 123,
+    "question": "The library director requests that staff obtain _______ in instructional technology to better support the library's educational programs.",
+    "options": {
+      "A": "certification",
+      "B": "certified",
+      "C": "certifiable",
+      "D": "certifier"
+    },
+    "answer": "A",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ, có nghĩa là 'chứng nhận', 'giấy chứng nhận'. 'Obtain certification' (nhận được chứng nhận) là cụm từ chính xác và hợp lý trong ngữ cảnh nhân viên cần có trình độ trong công nghệ giảng dạy.",
+          "B": "Là tính từ hoặc phân từ quá khứ, có nghĩa là 'đã được chứng nhận'. Không thể đứng sau 'obtain' để làm tân ngữ trực tiếp (cần một danh từ).",
+          "C": "Là tính từ, có nghĩa là 'có thể được chứng nhận'. Không phù hợp về mặt ngữ pháp.",
+          "D": "Là danh từ, có nghĩa là 'người/tổ chức cấp chứng nhận'. Không phù hợp, vì nhân viên nhận chứng nhận chứ không phải nhận 'người cấp chứng nhận'."
+        },
+        "correct_answer": "✅ Đáp án đúng: A. certification",
+        "sentence_explanation": "Động từ 'obtain' (nhận được) cần theo sau bởi một danh từ làm tân ngữ. 'Certification' (chứng nhận) là danh từ phù hợp nhất, chỉ ra rằng nhân viên cần đạt được một chứng nhận trong lĩnh vực công nghệ giảng dạy để hỗ trợ tốt hơn các chương trình của thư viện.",
+        "translation": "Giám đốc thư viện yêu cầu nhân viên đạt được chứng nhận về công nghệ giảng dạy để hỗ trợ tốt hơn các chương trình giáo dục của thư viện.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **library director**: giám đốc thư viện.\n- **instructional technology**: công nghệ giảng dạy.\n- **educational programs**: chương trình giáo dục.\n- **certification** (n): chứng nhận.",
+        "grammar_notes": "👉 Sau động từ chuyển tiếp (transitive verb) 'obtain' là một danh từ làm tân ngữ trực tiếp."
+      },
+      "en": {
+        "summary": "The verb 'obtain' requires a noun as its direct object. 'Certification' (A) is the correct noun, referring to the official document or process of being certified. It logically fits the context of staff acquiring a qualification in instructional technology. The other options are incorrect parts of speech or do not fit the meaning."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 124,
+    "question": "_______ existing products, which are designed for people with technical expertise, this new program should appeal to a wider audience.",
+    "options": {
+      "A": "Before",
+      "B": "Instead of",
+      "C": "Unlike",
+      "D": "While"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là giới từ/liên từ, có nghĩa là 'trước khi'. Chỉ thời gian, không phù hợp để so sánh.",
+          "B": "Là cụm giới từ, có nghĩa là 'thay vì'. Diễn tả sự thay thế hoặc lựa chọn. Mặc dù nó thể hiện sự khác biệt, nhưng 'instead of existing products' có thể ngụ ý thay thế chứ không phải so sánh trực tiếp các đặc điểm của hai loại sản phẩm.",
+          "C": "Là giới từ, có nghĩa là 'không giống như', 'khác với'. Được dùng để so sánh hai đối tượng và nhấn mạnh sự khác biệt. 'Unlike existing products' (không giống như các sản phẩm hiện có) hoàn toàn phù hợp để làm nổi bật sự khác biệt về đối tượng khán giả mà chương trình mới hướng tới.",
+          "D": "Là liên từ, có nghĩa là 'trong khi'. Thường được theo sau bởi một mệnh đề hoàn chỉnh (chủ ngữ + động từ)."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. Unlike",
+        "sentence_explanation": "Câu này đang so sánh hai loại sản phẩm: 'existing products' (sản phẩm hiện có) dành cho người có chuyên môn kỹ thuật, và 'this new program' (chương trình mới) sẽ thu hút 'a wider audience' (đối tượng rộng hơn). 'Unlike' (không giống như) là giới từ phù hợp nhất để chỉ sự tương phản và khác biệt này.",
+        "translation": "Không giống như các sản phẩm hiện có, vốn được thiết kế cho những người có chuyên môn kỹ thuật, chương trình mới này nên thu hút một đối tượng rộng hơn.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **existing products**: các sản phẩm hiện có.\n- **technical expertise**: chuyên môn kỹ thuật.\n- **appeal to**: thu hút, hấp dẫn.\n- **wider audience**: đối tượng khán giả rộng hơn.\n- **unlike** (prep): không giống như, khác với.",
+        "grammar_notes": "👉 'Unlike' là một giới từ, theo sau bởi một danh từ hoặc cụm danh từ để so sánh và nhấn mạnh sự khác biệt."
+      },
+      "en": {
+        "summary": "The sentence draws a contrast between 'existing products' (for technical experts) and 'this new program' (for a wider audience). 'Unlike' (C) is the correct preposition to introduce a noun phrase and highlight this dissimilarity. The other options are either conjunctions requiring a clause or prepositions that don't fit the precise comparative meaning."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 125,
+    "question": "Some functions of our Web team are to identify problems with applications and then _______ fixes.",
+    "options": {
+      "A": "priority",
+      "B": "prioritize",
+      "C": "prioritized",
+      "D": "prioritization"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ, có nghĩa là 'sự ưu tiên'. Không phù hợp làm động từ.",
+          "B": "Là động từ nguyên thể. Cấu trúc song song 'to identify... and then [to] prioritize...' là chính xác. 'Prioritize fixes' (ưu tiên các bản sửa lỗi) là một hành động hợp lý sau khi xác định vấn đề.",
+          "C": "Là quá khứ đơn hoặc quá khứ phân từ. Không phù hợp trong cấu trúc song song này (cần dạng nguyên thể).",
+          "D": "Là danh từ, có nghĩa là 'sự ưu tiên hóa'. Không phù hợp làm động từ."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. prioritize",
+        "sentence_explanation": "Trong cấu trúc song song 'to identify problems... and then _______ fixes', chúng ta cần một động từ nguyên thể để duy trì sự song song với 'to identify'. 'Prioritize' (ưu tiên) là động từ phù hợp nhất, mô tả hành động mà nhóm web sẽ làm với các bản sửa lỗi sau khi xác định vấn đề.",
+        "translation": "Một số chức năng của nhóm Web của chúng tôi là xác định các vấn đề với ứng dụng và sau đó ưu tiên các bản sửa lỗi.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **functions** (n): chức năng.\n- **applications** (n): ứng dụng.\n- **fixes** (n): bản sửa lỗi, sự sửa chữa.\n- **prioritize** (v): ưu tiên, sắp xếp theo thứ tự ưu tiên.",
+        "grammar_notes": "👉 Cấu trúc song song: Khi liệt kê các hành động với 'and then', các dạng động từ phải nhất quán. Ở đây, 'to identify' và 'to prioritize' (hoặc chỉ 'prioritize' khi 'to' được hiểu ngầm) duy trì cấu trúc này."
+      },
+      "en": {
+        "summary": "The sentence uses parallel structure: 'to identify problems... and then _______ fixes.' This requires a base verb to maintain parallelism with 'identify.' 'Prioritize' (B) is the correct verb, meaning to arrange fixes in order of importance, which is a logical follow-up to identifying problems. The other options are incorrect parts of speech."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 126,
+    "question": "This partnership _______ a great opportunity for us at Stolant Tech to broaden our inventory of available software.",
+    "options": {
+      "A": "corresponds",
+      "B": "represents",
+      "C": "appreciates",
+      "D": "intends"
+    },
+    "answer": "B",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là động từ, có nghĩa là 'tương ứng', 'phù hợp'. Thường đi kèm với giới từ 'to' hoặc 'with'. 'Partnership corresponds opportunity' là không đúng ngữ pháp.",
+          "B": "Là động từ, có nghĩa là 'đại diện cho', 'biểu trưng cho', 'là'. 'This partnership represents a great opportunity' có nghĩa là sự hợp tác này chính là (hay thể hiện) một cơ hội lớn, hoàn toàn phù hợp với ý nghĩa của câu.",
+          "C": "Là động từ, có nghĩa là 'đánh giá cao', 'trân trọng'. 'Partnership appreciates opportunity' là vô lý vì một 'partnership' (sự hợp tác) không thể 'trân trọng' một cơ hội; con người mới làm điều đó.",
+          "D": "Là động từ, có nghĩa là 'có ý định'. 'Partnership intends opportunity' là vô lý vì sự hợp tác không thể 'có ý định'."
+        },
+        "correct_answer": "✅ Đáp án đúng: B. represents",
+        "sentence_explanation": "Câu này cần một động từ mô tả mối quan hệ giữa 'This partnership' (sự hợp tác này) và 'a great opportunity' (một cơ hội lớn). 'Represents' (đại diện cho, là) là động từ phù hợp nhất, diễn tả rằng sự hợp tác này chính là cơ hội để Stolant Tech mở rộng kho phần mềm của mình.",
+        "translation": "Sự hợp tác này đại diện cho một cơ hội lớn để chúng tôi tại Stolant Tech mở rộng kho phần mềm có sẵn của mình.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **partnership** (n): sự hợp tác.\n- **broaden** (v): mở rộng.\n- **inventory** (n): kho hàng, danh mục hàng hóa.\n- **available software**: phần mềm có sẵn.\n- **represents** (v): đại diện, là, biểu trưng.",
+        "grammar_notes": "👉 Động từ 'represents' được dùng để liên kết chủ ngữ 'This partnership' với 'a great opportunity', diễn tả mối quan hệ đồng nhất hoặc biểu trưng."
+      },
+      "en": {
+        "summary": "The sentence requires a verb that describes what the 'partnership' is in relation to 'a great opportunity'. 'Represents' (B) is the most suitable verb, meaning the partnership 'is' or 'stands for' this opportunity to expand software inventory. The other verbs are semantically illogical in this context."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 127,
+    "question": "We will need to delay the start of the advertising campaign because the relevant contracts have only been _______ completed.",
+    "options": {
+      "A": "part",
+      "B": "parted",
+      "C": "partial",
+      "D": "partially"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là danh từ hoặc động từ. Không phù hợp bổ nghĩa cho động từ 'completed'.",
+          "B": "Là quá khứ đơn hoặc quá khứ phân từ của 'part' (chia tách). Không liên quan đến nghĩa.",
+          "C": "Là tính từ, có nghĩa là 'một phần', 'chưa hoàn chỉnh'. Mặc dù ý nghĩa gần đúng, nhưng nó là tính từ và không thể trực tiếp bổ nghĩa cho động từ 'completed'.",
+          "D": "Là trạng từ, có nghĩa là 'một phần', 'chưa hoàn chỉnh'. 'Partially completed' (hoàn thành một phần) là cụm từ chính xác và hợp lý, giải thích lý do phải 'delay' (trì hoãn) chiến dịch quảng cáo."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. partially",
+        "sentence_explanation": "Câu này cần một trạng từ để bổ nghĩa cho động từ 'completed' (hoàn thành), mô tả mức độ hoàn thành. Với việc phải 'delay' (trì hoãn) chiến dịch, điều đó có nghĩa là các hợp đồng chỉ mới 'partially completed' (hoàn thành một phần).",
+        "translation": "Chúng tôi sẽ cần trì hoãn việc bắt đầu chiến dịch quảng cáo vì các hợp đồng liên quan mới chỉ được hoàn thành một phần.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **delay** (v): trì hoãn.\n- **advertising campaign**: chiến dịch quảng cáo.\n- **relevant contracts**: các hợp đồng liên quan.\n- **partially** (adv): một phần, chưa hoàn chỉnh.",
+        "grammar_notes": "👉 Trạng từ 'partially' bổ nghĩa cho quá khứ phân từ 'completed', diễn tả mức độ hoàn thành của hành động."
+      },
+      "en": {
+        "summary": "The blank requires an adverb to modify the past participle 'completed'. The context of delaying the campaign implies that the contracts are not fully completed. 'Partially' (D) is the correct adverb, meaning 'to some extent' or 'not completely,' which logically explains the delay. The other options are incorrect parts of speech or semantically unsuitable."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 128,
+    "question": "_______ much of the accounting staff will be on vacation next week, the ones remaining in the office will be very busy.",
+    "options": {
+      "A": "Until",
+      "B": "Except for",
+      "C": "Because",
+      "D": "Due to"
+    },
+    "answer": "C",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là liên từ hoặc giới từ, có nghĩa là 'cho đến khi'. Chỉ thời gian, không diễn tả nguyên nhân.",
+          "B": "Là cụm giới từ, có nghĩa là 'ngoại trừ'. Không diễn tả nguyên nhân cho sự bận rộn.",
+          "C": "Là liên từ phụ thuộc, có nghĩa là 'bởi vì'. Dùng để giới thiệu một mệnh đề chỉ nguyên nhân. 'Because much of the accounting staff will be on vacation' là một mệnh đề nguyên nhân hoàn chỉnh, phù hợp với việc những người còn lại sẽ bận rộn.",
+          "D": "Là cụm giới từ, có nghĩa là 'do', 'bởi vì'. Thường được theo sau bởi một danh từ hoặc cụm danh từ (hoặc V-ing), không phải một mệnh đề hoàn chỉnh."
+        },
+        "correct_answer": "✅ Đáp án đúng: C. Because",
+        "sentence_explanation": "Câu này có hai mệnh đề, mệnh đề đầu tiên giải thích lý do cho mệnh đề thứ hai. Mệnh đề 'much of the accounting staff will be on vacation next week' là nguyên nhân dẫn đến việc 'the ones remaining in the office will be very busy'. Liên từ 'Because' (bởi vì) là lựa chọn chính xác để nối hai mệnh đề này.",
+        "translation": "Bởi vì nhiều nhân viên kế toán sẽ đi nghỉ vào tuần tới, những người còn lại trong văn phòng sẽ rất bận rộn.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **accounting staff**: nhân viên kế toán.\n- **on vacation**: đi nghỉ mát.\n- **busy** (adj): bận rộn.\n- **because** (conj): bởi vì (theo sau bởi một mệnh đề).",
+        "grammar_notes": "👉 'Because' là một liên từ phụ thuộc, dùng để giới thiệu mệnh đề chỉ nguyên nhân. Mệnh đề này phải có đủ chủ ngữ và động từ."
+      },
+      "en": {
+        "summary": "The sentence presents a cause-and-effect relationship: staff on vacation is the cause for the remaining staff being busy. 'Because' (C) is the correct subordinating conjunction to introduce a clause stating the reason. 'Due to' (D) requires a noun phrase, while 'Until' (A) indicates time and 'Except for' (B) expresses exclusion."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 129,
+    "question": "_______ sending multiple e-mails to share ideas and reach a decision, the team leader called a one-hour meeting to discuss the issue.",
+    "options": {
+      "A": "As a result",
+      "B": "In order to",
+      "C": "The same as",
+      "D": "Rather than"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là cụm trạng ngữ, có nghĩa là 'kết quả là'. Không phù hợp đứng trước một danh động từ để diễn tả lựa chọn.",
+          "B": "Là cụm trạng ngữ, có nghĩa là 'để mà'. Dùng để diễn tả mục đích, nhưng cần theo sau bởi động từ nguyên thể (to + verb). 'In order to sending' là sai ngữ pháp.",
+          "C": "Là cụm từ so sánh, có nghĩa là 'giống như'. Không phù hợp để diễn tả sự lựa chọn giữa hai phương án.",
+          "D": "Là cụm giới từ, có nghĩa là 'thay vì'. Dùng để giới thiệu một lựa chọn bị từ chối hoặc phương án thay thế. Nó có thể theo sau bởi một danh động từ (V-ing), phù hợp với 'sending multiple e-mails'."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. Rather than",
+        "sentence_explanation": "Câu này diễn tả việc người trưởng nhóm đã chọn 'called a one-hour meeting' (gọi một cuộc họp một giờ) thay vì 'sending multiple e-mails' (gửi nhiều email). 'Rather than' (thay vì) là cụm từ chính xác để thể hiện sự lựa chọn giữa hai hành động.",
+        "translation": "Thay vì gửi nhiều email để chia sẻ ý tưởng và đưa ra quyết định, trưởng nhóm đã gọi một cuộc họp kéo dài một giờ để thảo luận vấn đề.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **multiple e-mails**: nhiều email.\n- **reach a decision**: đạt được quyết định.\n- **team leader**: trưởng nhóm.\n- **one-hour meeting**: cuộc họp một giờ.\n- **rather than**: thay vì (theo sau bởi V-ing hoặc động từ nguyên thể không 'to').",
+        "grammar_notes": "👉 'Rather than' có thể được theo sau bởi một danh động từ (gerund) hoặc một động từ nguyên thể (base form) khi so sánh hai hành động."
+      },
+      "en": {
+        "summary": "The sentence describes the team leader choosing one action (calling a meeting) over another (sending emails). 'Rather than' (D) is the correct phrase to introduce the alternative action that was not taken. It can be followed by a gerund ('sending'), which fits the sentence structure perfectly. The other options are grammatically or semantically incorrect."
+      }
+    }
+  },
+  {
+    "part": 5,
+    "id": 130,
+    "question": "Applicants for the position of flight attendant at Joyous Airlines need to _______ a calm sense of authority at all times.",
+    "options": {
+      "A": "estimate",
+      "B": "appear",
+      "C": "involve",
+      "D": "project"
+    },
+    "answer": "D",
+    "explanation": {
+      "vi": {
+        "option_analysis": {
+          "A": "Là động từ, có nghĩa là 'ước tính'. Không phù hợp với 'a calm sense of authority'.",
+          "B": "Là động từ, có nghĩa là 'có vẻ', 'xuất hiện'. Mặc dù có thể 'appear calm', nhưng 'appear a calm sense of authority' là không đúng ngữ pháp. Cần 'appear to have' hoặc 'appear X' (X là tính từ).",
+          "C": "Là động từ, có nghĩa là 'liên quan', 'bao gồm'. Không phù hợp.",
+          "D": "Là động từ, có nghĩa là 'phô ra', 'truyền đạt', 'tạo ấn tượng'. 'Project a calm sense of authority' (truyền đạt một thái độ bình tĩnh và có uy quyền) là cách diễn đạt chính xác về việc thể hiện phẩm chất cần thiết của một tiếp viên hàng không."
+        },
+        "correct_answer": "✅ Đáp án đúng: D. project",
+        "sentence_explanation": "Câu này yêu cầu một động từ mô tả hành động thể hiện 'a calm sense of authority' (thái độ bình tĩnh và có uy quyền). 'Project' (truyền đạt, thể hiện ra bên ngoài) là động từ phù hợp nhất, đặc biệt trong ngữ cảnh công việc cần giao tiếp và quản lý hành khách như tiếp viên hàng không.",
+        "translation": "Các ứng viên cho vị trí tiếp viên hàng không tại Joyous Airlines cần thể hiện thái độ bình tĩnh và có uy quyền mọi lúc.",
+        "vocab_notes": "📘 Ghi nhớ: \n- **applicant** (n): ứng viên.\n- **flight attendant**: tiếp viên hàng không.\n- **calm sense of authority**: thái độ bình tĩnh và có uy quyền.\n- **project** (v): thể hiện, truyền đạt, tạo ấn tượng.",
+        "grammar_notes": "👉 Động từ 'project' thường được dùng để chỉ việc thể hiện một hình ảnh, cảm giác, hoặc phẩm chất nào đó ra bên ngoài."
+      },
+      "en": {
+        "summary": "The blank requires a verb that describes how applicants should convey 'a calm sense of authority.' 'Project' (D) is the most suitable verb, meaning to present or convey an image or impression. It fits perfectly in the context of flight attendants needing to demonstrate such qualities. The other options are grammatically or semantically unsuitable."
+      }
+    }
+  },
+  {
+    "part": 6,
+    "passage_id": 1,
+    "title": "Darway City Park Project Updates",
+    "context": "Darway City Park management strives to keep all visitor trails _____(131) while improvement projects are underway. Currently, crews are trimming vegetation around directional signs along the park's Woodmor bike path, so cyclists should ride carefully in this area. Note that _____(132) possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then. New informational signs that highlight specific features of the surrounding natural environment will also be installed along sections of the trail. _____(133). This phase of the project will be completed next month, and there is expected to be little _____(134) to park users as it progresses. The city's Department of Parks makes every effort to avoid trail closures and detours during work projects.",
+    "questions": [
+      {
+        "id": 131,
+        "question": "Darway City Park management strives to keep all visitor trails _____(131) while improvement projects are underway.",
+        "options": {
+          "A": "open",
+          "B": "noticeable",
+          "C": "practical",
+          "D": "genuine"
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'open' (mở, không bị cản trở) là tính từ phù hợp nhất để mô tả trạng thái của các lối đi mà ban quản lý muốn duy trì. Cụm 'keep trails open' là cách diễn đạt phổ biến để giữ cho đường đi không bị chặn.",
+              "B": "Đáp án 'noticeable' (đáng chú ý) không phù hợp về mặt ngữ nghĩa trong ngữ cảnh này.",
+              "C": "Đáp án 'practical' (thực tế, thiết thực) không đúng với ý muốn giữ lối đi thông thoáng.",
+              "D": "Đáp án 'genuine' (chân thật, đích thực) không liên quan đến việc duy trì trạng thái của lối đi."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. open",
+            "sentence_explanation": "Ban quản lý Công viên Darway City cố gắng giữ cho tất cả các lối đi dành cho du khách luôn mở trong khi các dự án cải tạo đang được tiến hành.",
+            "translation": "Ban quản lý Công viên Darway City cố gắng giữ cho tất cả các lối đi dành cho du khách luôn mở trong khi các dự án cải tạo đang được tiến hành.",
+            "vocab_notes": "📘 Ghi nhớ:\n- strive (v): cố gắng, nỗ lực\n- underway (adj): đang diễn ra, đang tiến hành\n- open (adj): mở, không bị đóng/cản trở",
+            "grammar_notes": "👉 Cấu trúc 'keep + Noun + Adjective' (giữ cho cái gì ở trạng thái nào đó) là điểm ngữ pháp chính ở đây. 'Open' là tính từ bổ nghĩa cho 'visitor trails'."
+          }
+        }
+      },
+      {
+        "id": 132,
+        "question": "Note that _____(132) possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then.",
+        "options": {
+          "A": "frequently",
+          "B": "considering",
+          "C": "whenever",
+          "D": "moreover"
+        },
+        "answer": "C",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'frequently' (thường xuyên) là trạng từ chỉ tần suất, không phù hợp để bắt đầu một cụm từ mang ý nghĩa điều kiện/thời gian như 'possible'.",
+              "B": "Đáp án 'considering' (xem xét) là một động từ dạng V-ing, không phù hợp để tạo mệnh đề trạng ngữ chỉ điều kiện/thời gian.",
+              "C": "Đáp án 'whenever' (bất cứ khi nào) là liên từ phụ thuộc, thường dùng trong cụm 'whenever possible' (bất cứ khi nào có thể), rất phù hợp với ngữ cảnh muốn thực hiện công việc vào thời điểm thuận lợi.",
+              "D": "Đáp án 'moreover' (hơn nữa) là trạng từ nối, dùng để bổ sung thông tin, không phù hợp ở vị trí này."
+            },
+            "correct_answer": "✅ Đáp án đúng: C. whenever",
+            "sentence_explanation": "Lưu ý rằng bất cứ khi nào có thể, công việc cải tạo được lên lịch diễn ra trong thời gian thấp điểm vì lúc đó ít người sử dụng công viên hơn.",
+            "translation": "Lưu ý rằng bất cứ khi nào có thể, công việc cải tạo được lên lịch diễn ra trong thời gian thấp điểm vì lúc đó ít người sử dụng công viên hơn.",
+            "vocab_notes": "📘 Ghi nhớ:\n- whenever (adv/conj): bất cứ khi nào\n- renovation work: công việc cải tạo, sửa chữa\n- scheduled (adj): được lên lịch trình\n- off-peak times: thời gian thấp điểm",
+            "grammar_notes": "👉 Cụm 'whenever possible' là một dạng rút gọn của 'whenever it is possible', có chức năng như một trạng ngữ chỉ thời gian hoặc điều kiện."
+          }
+        }
+      },
+      {
+        "id": 133,
+        "question": "New informational signs that highlight specific features of the surrounding natural environment will also be installed along sections of the trail. _____(133). This phase of the project will be completed next month, and there is expected to be little _____(134) to park users as it progresses.",
+        "options": {
+          "A": "They are intended to increase visitors' enjoyment of the park.",
+          "B": "They are designed to communicate these updated regulations.",
+          "C": "Visitors especially enjoy using the park café and other amenities.",
+          "D": "Planting new trees requires proper planning and site selection."
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Câu này giải thích mục đích của 'new informational signs' (biển thông tin mới) là để tăng cường sự thích thú của du khách đối với công viên, điều này hoàn toàn phù hợp với ngữ cảnh 'highlight specific features of the surrounding natural environment'.",
+              "B": "Đáp án 'updated regulations' (các quy định cập nhật) không được đề cập hay gợi ý trong câu trước về các biển thông tin.",
+              "C": "Đáp án 'park café and other amenities' (quán cà phê và tiện nghi khác của công viên) không liên quan đến việc lắp đặt biển thông tin.",
+              "D": "Đáp án 'Planting new trees' (trồng cây mới) là một hoạt động khác, không phải mục đích của các biển thông tin."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. They are intended to increase visitors' enjoyment of the park.",
+            "sentence_explanation": "Các biển thông tin mới làm nổi bật các đặc điểm cụ thể của môi trường tự nhiên xung quanh cũng sẽ được lắp đặt dọc theo các đoạn đường mòn. Chúng nhằm mục đích tăng cường sự thích thú của du khách đối với công viên.",
+            "translation": "Các biển thông tin mới làm nổi bật các đặc điểm cụ thể của môi trường tự nhiên xung quanh cũng sẽ được lắp đặt dọc theo các đoạn đường mòn. Chúng nhằm mục đích tăng cường sự thích thú của du khách đối với công viên.",
+            "vocab_notes": "📘 Ghi nhớ:\n- informational signs: biển báo thông tin\n- highlight (v): làm nổi bật\n- features (n): đặc điểm\n- surrounding natural environment: môi trường tự nhiên xung quanh\n- enjoyment (n): sự thích thú",
+            "grammar_notes": "👉 Câu được chọn phải có mối liên kết ngữ nghĩa rõ ràng với câu đứng trước, cụ thể là giải thích mục đích hoặc chức năng của 'informational signs'. Đại từ 'They' phải ám chỉ 'New informational signs'."
+          }
+        }
+      },
+      {
+        "id": 134,
+        "question": "This phase of the project will be completed next month, and there is expected to be little _____(134) to park users as it progresses.",
+        "options": {
+          "A": "supplement",
+          "B": "reduction",
+          "C": "implementation",
+          "D": "disruption"
+        },
+        "answer": "D",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'supplement' (sự bổ sung) không phù hợp về nghĩa. Việc thi công thường gây ra 'gián đoạn' chứ không phải 'bổ sung'.",
+              "B": "Đáp án 'reduction' (sự giảm bớt) không phù hợp.",
+              "C": "Đáp án 'implementation' (sự thực hiện) không phù hợp.",
+              "D": "Đáp án 'disruption' (sự gián đoạn, sự cản trở) là danh từ phù hợp nhất. Việc thi công các dự án có thể gây ra sự gián đoạn cho người dùng, và ban quản lý muốn giảm thiểu điều này ('little disruption')."
+            },
+            "correct_answer": "✅ Đáp án đúng: D. disruption",
+            "sentence_explanation": "Giai đoạn này của dự án sẽ hoàn thành vào tháng tới, và dự kiến sẽ có ít sự gián đoạn cho người dùng công viên khi nó tiến triển.",
+            "translation": "Giai đoạn này của dự án sẽ hoàn thành vào tháng tới, và dự kiến sẽ có ít sự gián đoạn cho người dùng công viên khi nó tiến triển.",
+            "vocab_notes": "📘 Ghi nhớ:\n- phase (n): giai đoạn\n- completed (adj): hoàn thành\n- expected (adj): được mong đợi\n- disruption (n): sự gián đoạn, sự cản trở\n- progress (v): tiến triển",
+            "grammar_notes": "👉 Cần một danh từ có ý nghĩa tiêu cực để đi với 'little' (ít) trong ngữ cảnh một dự án thi công đang diễn ra, ảnh hưởng đến người dùng công viên. 'Disruption' là lựa chọn chính xác nhất."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 2,
+    "title": "Enjoying local beaches",
+    "context": "We look forward to your visit to the Grand Hotel at Miracle Beach! The town council has recently passed an ordinance requiring that beachgoers pay for _____(135) to the local beaches. We know how important free beach entry has been for our guests. _____(136), we have arranged for beach passes to be available for you—free of charge. All you have to do is ask for the pass when you check in and return the pass when you check out.\n\nPlease be advised that municipal beach-patrol staff members will be walking along the beach _____(137) to check for passes such as the ones we are providing. _____(138). Make sure to get your pass and avoid the possible penalty.",
+    "questions": [
+      {
+        "id": 135,
+        "question": "The town council has recently passed an ordinance requiring that beachgoers pay for _____(135) to the local beaches.",
+        "options": {
+          "A": "accessing",
+          "B": "access",
+          "C": "accessory",
+          "D": "accessed"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'accessing' (đang truy cập) là danh động từ, mặc dù có thể đi sau giới từ nhưng cụm 'pay for accessing' không phải là cách diễn đạt phổ biến và tự nhiên ở đây.",
+              "B": "Đáp án 'access' (quyền truy cập, lối vào) là danh từ phù hợp nhất. Cụm 'pay for access' có nghĩa là trả tiền để được vào hoặc sử dụng.",
+              "C": "Đáp án 'accessory' (phụ kiện) không liên quan đến việc vào bãi biển.",
+              "D": "Đáp án 'accessed' (đã truy cập) là quá khứ phân từ, không đúng cấu trúc ngữ pháp sau giới từ 'for'."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. access",
+            "sentence_explanation": "Hội đồng thị trấn gần đây đã thông qua một sắc lệnh yêu cầu những người đi biển phải trả phí để được tiếp cận các bãi biển địa phương.",
+            "translation": "Hội đồng thị trấn gần đây đã thông qua một sắc lệnh yêu cầu những người đi biển phải trả phí để được tiếp cận các bãi biển địa phương.",
+            "vocab_notes": "📘 Ghi nhớ:\n- ordinance (n): sắc lệnh, quy định\n- beachgoer (n): người đi biển\n- pay for (v): trả tiền cho\n- access (n): quyền tiếp cận, lối vào",
+            "grammar_notes": "👉 Sau giới từ 'for', chúng ta cần một danh từ hoặc danh động từ. 'Access' ở đây đóng vai trò là danh từ, có nghĩa là 'quyền được vào/sử dụng'."
+          }
+        }
+      },
+      {
+        "id": 136,
+        "question": "We know how important free beach entry has been for our guests. _____(136), we have arranged for beach passes to be available for you—free of charge.",
+        "options": {
+          "A": "Nevertheless",
+          "B": "Otherwise",
+          "C": "However",
+          "D": "Therefore"
+        },
+        "answer": "D",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'Nevertheless' (tuy nhiên, dù vậy) chỉ sự tương phản, không phù hợp với mối quan hệ nhân quả ở đây.",
+              "B": "Đáp án 'Otherwise' (nếu không thì) chỉ hậu quả nếu điều kiện không được thỏa mãn, không phù hợp.",
+              "C": "Đáp án 'However' (tuy nhiên) cũng chỉ sự tương phản, không phải kết quả.",
+              "D": "Đáp án 'Therefore' (do đó, vì vậy) chỉ kết quả hoặc lý do. Vì việc vào cửa miễn phí quan trọng với khách hàng, *do đó* khách sạn đã sắp xếp vé miễn phí. Đây là mối quan hệ nhân quả hợp lý."
+            },
+            "correct_answer": "✅ Đáp án đúng: D. Therefore",
+            "sentence_explanation": "Chúng tôi biết việc vào cửa bãi biển miễn phí quan trọng như thế nào đối với khách của chúng tôi. Do đó, chúng tôi đã sắp xếp để vé vào bãi biển miễn phí có sẵn cho quý vị.",
+            "translation": "Chúng tôi biết việc vào cửa bãi biển miễn phí quan trọng như thế nào đối với khách của chúng tôi. Do đó, chúng tôi đã sắp xếp để vé vào bãi biển miễn phí có sẵn cho quý vị.",
+            "vocab_notes": "📘 Ghi nhớ:\n- beach entry: việc vào bãi biển\n- arrange for (v): sắp xếp cho\n- free of charge: miễn phí\n- therefore (adv): do đó, vì vậy",
+            "grammar_notes": "👉 Cần một trạng từ liên kết (conjunctive adverb) để chỉ ra mối quan hệ nguyên nhân – kết quả giữa hai câu."
+          }
+        }
+      },
+      {
+        "id": 137,
+        "question": "Please be advised that municipal beach-patrol staff members will be walking along the beach _____(137) to check for passes such as the ones we are providing.",
+        "options": {
+          "A": "regular",
+          "B": "regularly",
+          "C": "regulate",
+          "D": "regulation"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'regular' (thường xuyên, định kỳ) là tính từ, không thể bổ nghĩa trực tiếp cho động từ 'walking'.",
+              "B": "Đáp án 'regularly' (một cách thường xuyên, định kỳ) là trạng từ, phù hợp để bổ nghĩa cho động từ 'walking' (đi bộ thường xuyên/định kỳ).",
+              "C": "Đáp án 'regulate' (điều chỉnh, quy định) là động từ, không phù hợp về loại từ.",
+              "D": "Đáp án 'regulation' (quy định) là danh từ, không phù hợp."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. regularly",
+            "sentence_explanation": "Xin lưu ý rằng các nhân viên tuần tra bãi biển của thành phố sẽ đi bộ dọc bãi biển thường xuyên để kiểm tra các loại vé như chúng tôi đang cung cấp.",
+            "translation": "Xin lưu ý rằng các nhân viên tuần tra bãi biển của thành phố sẽ đi bộ dọc bãi biển thường xuyên để kiểm tra các loại vé như chúng tôi đang cung cấp.",
+            "vocab_notes": "📘 Ghi nhớ:\n- municipal (adj): thuộc thành phố, đô thị\n- beach-patrol staff: nhân viên tuần tra bãi biển\n- regularly (adv): thường xuyên, định kỳ\n- pass (n): vé, thẻ",
+            "grammar_notes": "👉 Cần một trạng từ để bổ nghĩa cho động từ 'walking', mô tả cách thức hành động diễn ra."
+          }
+        }
+      },
+      {
+        "id": 138,
+        "question": "Please be advised that municipal beach-patrol staff members will be walking along the beach regularly to check for passes such as the ones we are providing. _____(138). Make sure to get your pass and avoid the possible penalty.",
+        "options": {
+          "A": "Take all personal belongings with you when you leave the beach.",
+          "B": "Sadly, having to pay for the beach is a growing phenomenon nationwide.",
+          "C": "A fine will be imposed on anyone who has not secured passes for local beaches.",
+          "D": "We will also provide beach towels for any guest who asks for one."
+        },
+        "answer": "C",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án này nói về 'personal belongings' (tư trang cá nhân), không liên quan trực tiếp đến việc kiểm tra vé và hình phạt.",
+              "B": "Đáp án này đưa ra một nhận định chung về việc trả phí bãi biển nhưng không trực tiếp giải thích về 'penalty' mà câu sau nhắc đến.",
+              "C": "Câu này giải thích rõ 'penalty' (hình phạt) là gì – một khoản tiền phạt sẽ được áp dụng cho những người không có vé. Điều này liên kết chặt chẽ với câu sau 'Make sure to get your pass and avoid the possible penalty.'",
+              "D": "Đáp án này nói về 'beach towels' (khăn tắm biển), không liên quan đến chủ đề chính là vé và hình phạt."
+            },
+            "correct_answer": "✅ Đáp án đúng: C. A fine will be imposed on anyone who has not secured passes for local beaches.",
+            "sentence_explanation": "Xin lưu ý rằng các nhân viên tuần tra bãi biển của thành phố sẽ đi bộ dọc bãi biển thường xuyên để kiểm tra các loại vé như chúng tôi đang cung cấp. Một khoản tiền phạt sẽ được áp dụng cho bất kỳ ai chưa có vé vào các bãi biển địa phương. Hãy chắc chắn lấy vé của bạn và tránh những hình phạt có thể.",
+            "translation": "Xin lưu ý rằng các nhân viên tuần tra bãi biển của thành phố sẽ đi bộ dọc bãi biển thường xuyên để kiểm tra các loại vé như chúng tôi đang cung cấp. Một khoản tiền phạt sẽ được áp dụng cho bất kỳ ai chưa có vé vào các bãi biển địa phương. Hãy chắc chắn lấy vé của bạn và tránh những hình phạt có thể.",
+            "vocab_notes": "📘 Ghi nhớ:\n- penalty (n): hình phạt\n- impose (v): áp đặt\n- secure (v): có được, đảm bảo\n- fine (n): tiền phạt",
+            "grammar_notes": "👉 Cần chọn câu có nội dung giải thích hoặc bổ trợ cho ý nghĩa của 'possible penalty' được nhắc đến trong câu tiếp theo."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 3,
+    "title": "Workplace Improvements",
+    "context": "As part of our commitment to providing a comfortable environment for our employees, maintenance work will begin this week with the goal of _____(139) individual work spaces. The work will proceed in stages. First, new carpeting will be installed tomorrow in each office and cubicle.\n\nTo help ensure that this project _____(140) smoothly, please remove all personal items from the floor in your work area before you leave today. _____(141), open metal bookcases will be replaced later in the week with state-of-the-art, high-density plastic bookshelves with sliding doors. We are confident that these initiatives will improve the appearance of work spaces throughout the company. _____(142). Thank you in advance for your understanding and cooperation.",
+    "questions": [
+      {
+        "id": 139,
+        "question": "As part of our commitment to providing a comfortable environment for our employees, maintenance work will begin this week with the goal of _____(139) individual work spaces.",
+        "options": {
+          "A": "combining",
+          "B": "enhancing",
+          "C": "cleaning",
+          "D": "reassigning"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'combining' (kết hợp) không phù hợp với mục tiêu tạo ra môi trường làm việc 'comfortable' (thoải mái).",
+              "B": "Đáp án 'enhancing' (nâng cao, cải thiện) là danh động từ phù hợp nhất. Mục tiêu của công việc bảo trì là cải thiện và làm cho không gian làm việc tốt hơn.",
+              "C": "Đáp án 'cleaning' (dọn dẹp) có thể là một phần của bảo trì nhưng không phải là mục tiêu tổng thể của việc 'cải thiện môi trường thoải mái'.",
+              "D": "Đáp án 'reassigning' (phân công lại) không liên quan đến công việc bảo trì vật lý của không gian."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. enhancing",
+            "sentence_explanation": "Như một phần trong cam kết của chúng tôi nhằm cung cấp một môi trường thoải mái cho nhân viên, công việc bảo trì sẽ bắt đầu trong tuần này với mục tiêu nâng cao các không gian làm việc cá nhân.",
+            "translation": "Như một phần trong cam kết của chúng tôi nhằm cung cấp một môi trường thoải mái cho nhân viên, công việc bảo trì sẽ bắt đầu trong tuần này với mục tiêu nâng cao các không gian làm việc cá nhân.",
+            "vocab_notes": "📘 Ghi nhớ:\n- commitment (n): cam kết\n- comfortable environment: môi trường thoải mái\n- maintenance work: công việc bảo trì\n- goal (n): mục tiêu\n- enhance (v): nâng cao, cải thiện",
+            "grammar_notes": "👉 Cụm 'the goal of' thường theo sau bởi một danh từ hoặc một danh động từ (gerund) để chỉ mục đích của hành động."
+          }
+        }
+      },
+      {
+        "id": 140,
+        "question": "To help ensure that this project _____(140) smoothly, please remove all personal items from the floor in your work area before you leave today.",
+        "options": {
+          "A": "running",
+          "B": "runs",
+          "C": "ran",
+          "D": "to run"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'running' (V-ing) không phù hợp sau liên từ 'that' trong mệnh đề này, cần một động từ đã chia thì.",
+              "B": "Đáp án 'runs' là động từ thì hiện tại đơn, chia theo chủ ngữ số ít 'this project'. Đây là dạng động từ phù hợp trong mệnh đề danh ngữ sau 'ensure that' để diễn đạt một hành động dự kiến trong tương lai gần.",
+              "C": "Đáp án 'ran' (quá khứ đơn) không phù hợp vì dự án mới bắt đầu trong tuần này.",
+              "D": "Đáp án 'to run' (nguyên mẫu có 'to') không phù hợp ở đây, không tạo thành một mệnh đề hoàn chỉnh."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. runs",
+            "sentence_explanation": "Để giúp đảm bảo rằng dự án này diễn ra suôn sẻ, vui lòng di chuyển tất cả các vật dụng cá nhân khỏi sàn nhà trong khu vực làm việc của bạn trước khi bạn rời đi hôm nay.",
+            "translation": "Để giúp đảm bảo rằng dự án này diễn ra suôn sẻ, vui lòng di chuyển tất cả các vật dụng cá nhân khỏi sàn nhà trong khu vực làm việc của bạn trước khi bạn rời đi hôm nay.",
+            "vocab_notes": "📘 Ghi nhớ:\n- ensure (v): đảm bảo\n- smoothly (adv): một cách suôn sẻ\n- remove (v): di chuyển, loại bỏ",
+            "grammar_notes": "👉 Cấu trúc 'ensure that + S + V' yêu cầu động từ 'V' được chia thì phù hợp với chủ ngữ và ngữ cảnh. Ở đây là thì hiện tại đơn cho một sự kiện trong tương lai gần hoặc một mong muốn chung."
+          }
+        }
+      },
+      {
+        "id": 141,
+        "question": "To help ensure that this project runs smoothly, please remove all personal items from the floor in your work area before you leave today. _____(141), open metal bookcases will be replaced later in the week with state-of-the-art, high-density plastic bookshelves with sliding doors.",
+        "options": {
+          "A": "For example",
+          "B": "Normally",
+          "C": "Next",
+          "D": "In summary"
+        },
+        "answer": "C",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'For example' (ví dụ) dùng để đưa ra minh họa, không phù hợp để chỉ bước tiếp theo trong một trình tự công việc.",
+              "B": "Đáp án 'Normally' (thông thường) chỉ một thói quen hoặc tình trạng bình thường, không đúng với việc liệt kê các bước cụ thể.",
+              "C": "Đáp án 'Next' (tiếp theo) là trạng từ liên kết phù hợp nhất để chỉ bước kế tiếp trong một chuỗi các công việc ('First... Next...').",
+              "D": "Đáp án 'In summary' (tóm lại) dùng để tổng kết thông tin, không phải để nối các bước trong một quá trình."
+            },
+            "correct_answer": "✅ Đáp án đúng: C. Next",
+            "sentence_explanation": "...trước khi bạn rời đi hôm nay. Tiếp theo, các kệ sách kim loại mở sẽ được thay thế vào cuối tuần bằng kệ sách nhựa mật độ cao, hiện đại với cửa trượt.",
+            "translation": "...trước khi bạn rời đi hôm nay. Tiếp theo, các kệ sách kim loại mở sẽ được thay thế vào cuối tuần bằng kệ sách nhựa mật độ cao, hiện đại với cửa trượt.",
+            "vocab_notes": "📘 Ghi nhớ:\n- replaced (v): thay thế\n- state-of-the-art (adj): hiện đại nhất, tiên tiến nhất\n- high-density (adj): mật độ cao\n- sliding doors: cửa trượt\n- next (adv): tiếp theo",
+            "grammar_notes": "👉 Cần một trạng từ liên kết để chỉ trình tự thời gian, nối giữa các bước của dự án cải tạo. 'Next' là phù hợp nhất khi đã có 'First' ở câu trước đó."
+          }
+        }
+      },
+      {
+        "id": 142,
+        "question": "We are confident that these initiatives will improve the appearance of work spaces throughout the company. _____(142). Thank you in advance for your understanding and cooperation.",
+        "options": {
+          "A": "We regret any inconvenience these measures may cause this week.",
+          "B": "We are proud of the financial services we provide to our loyal customers.",
+          "C": "The metal bookshelves were installed only five years ago.",
+          "D": "Books are always welcome at local charities."
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Sau khi thông báo về các thay đổi và yêu cầu nhân viên hợp tác, việc bày tỏ sự tiếc nuối về những bất tiện có thể xảy ra là một lời nói lịch sự và cần thiết, đặc biệt khi theo sau là 'Thank you in advance for your understanding and cooperation.' (Cảm ơn trước vì sự thông cảm và hợp tác của bạn).",
+              "B": "Đáp án này nói về dịch vụ tài chính, không liên quan đến việc cải thiện nơi làm việc.",
+              "C": "Đáp án này cung cấp một thông tin chi tiết không phù hợp để đặt ở vị trí này trong tổng thể thông báo.",
+              "D": "Đáp án này hoàn toàn không liên quan đến nội dung chính của email."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. We regret any inconvenience these measures may cause this week.",
+            "sentence_explanation": "Chúng tôi tin rằng những sáng kiến này sẽ cải thiện diện mạo của các không gian làm việc trên toàn công ty. Chúng tôi rất tiếc về bất kỳ sự bất tiện nào mà các biện pháp này có thể gây ra trong tuần này. Cảm ơn trước vì sự thông cảm và hợp tác của quý vị.",
+            "translation": "Chúng tôi tin rằng những sáng kiến này sẽ cải thiện diện mạo của các không gian làm việc trên toàn công ty. Chúng tôi rất tiếc về bất kỳ sự bất tiện nào mà các biện pháp này có thể gây ra trong tuần này. Cảm ơn trước vì sự thông cảm và hợp tác của quý vị.",
+            "vocab_notes": "📘 Ghi nhớ:\n- confident (adj): tự tin\n- initiative (n): sáng kiến\n- improve (v): cải thiện\n- appearance (n): diện mạo\n- regret (v): hối tiếc, lấy làm tiếc\n- inconvenience (n): sự bất tiện\n- measure (n): biện pháp\n- in advance: trước",
+            "grammar_notes": "👉 Cần chọn câu có nội dung phù hợp về mặt ngữ cảnh và cảm xúc, thể hiện sự đồng cảm của người gửi thư với nhân viên trong quá trình cải tạo."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 4,
+    "title": "The Newly Renovated Clairmont Cinema",
+    "context": "BRISTOL (12 September)—After six months, the Clairmont Cinema has finally reopened. Since the owners were _____(143) about their plans, filmgoers were not sure what to expect when the doors opened last night. The biggest change is that there are now three theatres inside the complex instead of just one. _____(144). On the one hand, filmgoers now have access to more of the independent films that Clairmont Cinema has long been proud of offering. On the other hand, these films are showing on very small screens. _____(145), I felt like I was at home watching television. Still, the multiple offerings are fantastic, as is the new refreshment stand, so I encourage all film lovers to discover for _____(146) what the new Clairmont Cinema has to offer.",
+    "questions": [
+      {
+        "id": 143,
+        "question": "Since the owners were _____(143) about their plans, filmgoers were not sure what to expect when the doors opened last night.",
+        "options": {
+          "A": "vague",
+          "B": "flexible",
+          "C": "joyful",
+          "D": "encouraging"
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'vague' (mơ hồ, không rõ ràng) là tính từ phù hợp nhất. Vì chủ sở hữu mơ hồ về kế hoạch, người xem mới không chắc chắn nên mong đợi điều gì.",
+              "B": "Đáp án 'flexible' (linh hoạt) không phù hợp với ngữ cảnh 'không chắc chắn mong đợi điều gì'.",
+              "C": "Đáp án 'joyful' (vui mừng) không đúng với việc người xem không biết nên mong đợi gì.",
+              "D": "Đáp án 'encouraging' (khuyến khích) không phù hợp về nghĩa."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. vague",
+            "sentence_explanation": "Vì các chủ sở hữu khá mơ hồ về kế hoạch của họ, những người mê điện ảnh đã không chắc chắn nên mong đợi điều gì khi rạp mở cửa tối qua.",
+            "translation": "Vì các chủ sở hữu khá mơ hồ về kế hoạch của họ, những người mê điện ảnh đã không chắc chắn nên mong đợi điều gì khi rạp mở cửa tối qua.",
+            "vocab_notes": "📘 Ghi nhớ:\n- reopen (v): mở cửa trở lại\n- vague (adj): mơ hồ, không rõ ràng\n- filmgoer (n): người xem phim\n- expect (v): mong đợi",
+            "grammar_notes": "👉 Tính từ 'vague' thường đi với giới từ 'about' để diễn tả sự không rõ ràng về một vấn đề nào đó. Mối quan hệ nhân quả (Since...) cũng củng cố lựa chọn này."
+          }
+        }
+      },
+      {
+        "id": 144,
+        "question": "The biggest change is that there are now three theatres inside the complex instead of just one. _____(144). On the one hand, filmgoers now have access to more of the independent films that Clairmont Cinema has long been proud of offering. On the other hand, these films are showing on very small screens.",
+        "options": {
+          "A": "This has advantages and disadvantages.",
+          "B": "A large number of filmgoers came to the reopening.",
+          "C": "Big changes are often difficult but necessary.",
+          "D": "The owners will likely enjoy significant profits."
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Câu này rất phù hợp vì các câu tiếp theo sử dụng cấu trúc 'On the one hand...' và 'On the other hand...' để trình bày cả ưu điểm và nhược điểm của sự thay đổi lớn nhất (có ba rạp thay vì một).",
+              "B": "Đáp án này có thể đúng về mặt sự kiện nhưng không phải là câu giới thiệu phù hợp cho việc phân tích ưu nhược điểm.",
+              "C": "Câu này quá chung chung và không đi thẳng vào vấn đề của sự thay đổi cụ thể.",
+              "D": "Đáp án này dự đoán về lợi nhuận, không phải là câu giới thiệu về các khía cạnh của sự thay đổi."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. This has advantages and disadvantages.",
+            "sentence_explanation": "Thay đổi lớn nhất là hiện có ba rạp chiếu phim bên trong khu phức hợp thay vì chỉ một. Điều này có những ưu điểm và nhược điểm. Một mặt, những người xem phim giờ đây có thể tiếp cận nhiều bộ phim độc lập hơn mà Clairmont Cinema từ lâu đã tự hào cung cấp. Mặt khác, những bộ phim này đang chiếu trên màn hình rất nhỏ.",
+            "translation": "Thay đổi lớn nhất là hiện có ba rạp chiếu phim bên trong khu phức hợp thay vì chỉ một. Điều này có những ưu điểm và nhược điểm. Một mặt, những người xem phim giờ đây có thể tiếp cận nhiều bộ phim độc lập hơn mà Clairmont Cinema từ lâu đã tự hào cung cấp. Mặt khác, những bộ phim này đang chiếu trên màn hình rất nhỏ.",
+            "vocab_notes": "📘 Ghi nhớ:\n- complex (n): khu phức hợp\n- instead of: thay vì\n- independent films: phim độc lập\n- advantages (n): ưu điểm\n- disadvantages (n): nhược điểm",
+            "grammar_notes": "👉 Câu cần chèn phải là câu giới thiệu khái quát cho phần giải thích 'On the one hand... On the other hand...', một cấu trúc dùng để trình bày các mặt đối lập hoặc ưu/nhược điểm của một vấn đề."
+          }
+        }
+      },
+      {
+        "id": 145,
+        "question": "On the other hand, these films are showing on very small screens. _____(145), I felt like I was at home watching television.",
+        "options": {
+          "A": "Instead",
+          "B": "Regardless",
+          "C": "In conclusion",
+          "D": "In fact"
+        },
+        "answer": "D",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'Instead' (thay vào đó) dùng để đưa ra sự thay thế, không phù hợp.",
+              "B": "Đáp án 'Regardless' (bất kể) dùng để bỏ qua một điều gì đó đã nói, không phù hợp.",
+              "C": "Đáp án 'In conclusion' (tóm lại) dùng để kết luận, không phù hợp ở giữa đoạn văn.",
+              "D": "Đáp án 'In fact' (thực tế là) dùng để nhấn mạnh, bổ sung một sự thật hoặc một trải nghiệm cụ thể. Nó phù hợp để cường điệu hóa hoặc khẳng định thêm về cảm giác khi xem trên màn hình nhỏ."
+            },
+            "correct_answer": "✅ Đáp án đúng: D. In fact",
+            "sentence_explanation": "Mặt khác, những bộ phim này đang chiếu trên màn hình rất nhỏ. Thực tế, tôi cảm thấy như đang ở nhà xem TV vậy.",
+            "translation": "Mặt khác, những bộ phim này đang chiếu trên màn hình rất nhỏ. Thực tế, tôi cảm thấy như đang ở nhà xem TV vậy.",
+            "vocab_notes": "📘 Ghi nhớ:\n- screen (n): màn hình\n- in fact: thực tế là, trên thực tế",
+            "grammar_notes": "👉 Cần một trạng từ liên kết để nhấn mạnh hoặc làm rõ hơn ý đã nêu ở câu trước ('very small screens') bằng một so sánh cụ thể ('watching television')."
+          }
+        }
+      },
+      {
+        "id": 146,
+        "question": "Still, the multiple offerings are fantastic, as is the new refreshment stand, so I encourage all film lovers to discover for _____(146) what the new Clairmont Cinema has to offer.",
+        "options": {
+          "A": "them",
+          "B": "oneself",
+          "C": "themselves",
+          "D": "itself"
+        },
+        "answer": "C",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đáp án 'them' là đại từ tân ngữ, không phải đại từ phản thân. Cụm 'discover for them' không mang ý nghĩa 'tự mình khám phá'.",
+              "B": "Đáp án 'oneself' là đại từ phản thân chung chung, dùng khi chủ ngữ là 'one'. Chủ ngữ ở đây là 'all film lovers' (số nhiều).",
+              "C": "Đáp án 'themselves' là đại từ phản thân số nhiều, phù hợp với chủ ngữ 'all film lovers' (tất cả những người yêu điện ảnh). Cụm 'discover for themselves' có nghĩa là 'tự mình khám phá'.",
+              "D": "Đáp án 'itself' là đại từ phản thân số ít, dùng cho vật hoặc chủ ngữ số ít không phải người."
+            },
+            "correct_answer": "✅ Đáp án đúng: C. themselves",
+            "sentence_explanation": "Dù sao đi nữa, các ưu đãi đa dạng rất tuyệt vời, cũng như quầy giải khát mới, vì vậy tôi khuyến khích tất cả những người yêu điện ảnh tự mình khám phá những gì Clairmont Cinema mới có thể mang lại.",
+            "translation": "Dù sao đi nữa, các ưu đãi đa dạng rất tuyệt vời, cũng như quầy giải khát mới, vì vậy tôi khuyến khích tất cả những người yêu điện ảnh tự mình khám phá những gì Clairmont Cinema mới có thể mang lại.",
+            "vocab_notes": "📘 Ghi nhớ:\n- offering (n): sản phẩm/dịch vụ cung cấp\n- fantastic (adj): tuyệt vời\n- refreshment stand: quầy giải khát\n- encourage (v): khuyến khích\n- film lovers: những người yêu điện ảnh\n- discover for oneself/themselves: tự mình khám phá",
+            "grammar_notes": "👉 Cần một đại từ phản thân (reflexive pronoun) đi sau giới từ 'for' để bổ nghĩa cho động từ 'discover' và liên quan đến chủ ngữ 'all film lovers'. Vì 'all film lovers' là số nhiều, 'themselves' là lựa chọn đúng."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 1,
+    "title": "Community Garden Notice",
+    "context": "Dear Neighbor,\nNow that the long, cold winter is just behind us, we would love to invite you to help us improve the newly established Moon Township Community Garden. The township committee acquired the land where the community pool used to be located, and we hope to create on this land an area for families to come and enjoy the green space in our beautiful town. We will have volunteers on hand during the weekends for the remainder of the month to assist families with arranging and planting the flowers, shrubs, and trees of their choice. We hope you participate in decorating our beautiful community garden!\nSincerely,\nMoon Township Committee for Green Spaces",
+    "questions": [
+      {
+        "id": 147,
+        "question": "During which season of the year was the notice most likely written?",
+        "options": {
+          "A": "Winter",
+          "B": "Spring",
+          "C": "Summer",
+          "D": "Autumn"
+        }
+      },
+      {
+        "id": 148,
+        "question": "What are families encouraged to do?",
+        "options": {
+          "A": "Use a community pool",
+          "B": "Purchase flowers",
+          "C": "Vote for township committee members",
+          "D": "Help to plant a garden"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 2,
+    "title": "Sparkling Creek Coffeehouse & Grill Gift Certificate",
+    "context": "Sparkling Creek Coffeehouse & Grill\nGift Certificate\nPresented to: Natasha Tucker\nAmount: $75\nFrom: Hua Xie\nMessage: Thank you for your help with my article. You did a great job editing!\nAuthorized by: Jenny Lenox",
+    "questions": [
+      {
+        "id": 149,
+        "question": "Why was Ms. Tucker given a gift certificate?",
+        "options": {
+          "A": "To acknowledge good work at a restaurant",
+          "B": "To express gratitude for help that was provided",
+          "C": "To authorize a reward",
+          "D": "To repay a loan"
+        }
+      },
+      {
+        "id": 150,
+        "question": "Who most likely is Ms. Lenox?",
+        "options": {
+          "A": "An employee at a restaurant",
+          "B": "A friend of Ms. Tucker's",
+          "C": "An editor",
+          "D": "Ms. Xie's assistant"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 3,
+    "title": "New Employee Checklist",
+    "context": "Welcome E-mail\nWarmly welcome new staff to our team\nInclude dates for training sessions\nInclude daily training schedule (as attachment)\nProvide phone numbers of mentors\nCreate list of documents to bring\nOnboarding\nAnnounce start dates\nInclude information about social gathering to welcome new hires and allow them to meet company leaders\nContact the Technology Team to create e-mail accounts\nPrepare new ID badges and keys\nPrepare benefits packages (health insurance and retirement)\nPersonally meet new hires upon their arrival",
+    "questions": [
+      {
+        "id": 151,
+        "question": "What is the purpose of the checklist?",
+        "options": {
+          "A": "To announce a new e-mail system",
+          "B": "To prepare for new employees",
+          "C": "To assist people who are leaving a company",
+          "D": "To notify trainers of a schedule"
+        }
+      },
+      {
+        "id": 152,
+        "question": "What is one goal of the social gathering?",
+        "options": {
+          "A": "To meet managers",
+          "B": "To learn about benefits",
+          "C": "To receive identification documents",
+          "D": "To begin training exercises"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 4,
+    "title": "Miller File Location",
+    "context": "Lucy O'Malley (1:36 P.M.)\nI am at the office, but I can't find the Miller file anywhere.\nStanley Hamstead (1:37 P.M.)\nDid you check in the future projects file cabinet?\nLucy O'Malley (1:39 P.M.)\nNo luck. Any other ideas?\nStanley Hamstead (1:40 P.M.)\nI bet it is in Charles Wada's office. Check on his desk and let me know.\nLucy O'Malley (1:47 P.M.)\nGot it! How would you like me to get this to you?\nStanley Hamstead (1:48 P.M.)\nWould it be too much to ask you to deliver it? We need the original documents with signatures. Please get here as soon as you can.\nLucy O'Malley (1:50 P.M.)\nNot a problem. I'll take a taxi.",
+    "questions": [
+      {
+        "id": 153,
+        "question": "At 1:39 P.M., what does Ms. O'Malley most likely mean when she writes, “No luck”?",
+        "options": {
+          "A": "She does not support a future project.",
+          "B": "She is unsure where a coworker’s office is.",
+          "C": "She was unable to find something.",
+          "D": "She needs more instruction from Mr. Wada."
+        }
+      },
+      {
+        "id": 154,
+        "question": "What will Ms. O’Malley probably do next?",
+        "options": {
+          "A": "E-mail some documents",
+          "B": "Call a courier service",
+          "C": "Deliver some documents herself",
+          "D": "Contact Mr. Wada"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 5,
+    "title": "Fetler Airlines Tarmac Delay Contingency Plan",
+    "context": "Fetler Airlines Tarmac Delay Contingency Plan\nOnboard departure delays are situations we do our best to avoid. On rare occasions, weather, visibility, airport conditions, or other circumstances cause unavoidable ground delays. In these cases, if the delay lasts more than 60 minutes, we will provide complimentary snacks and beverages. If the delay continues for more than two hours (for domestic flights) or three hours (for international flights), the aircraft will return to the gate, and passengers can get off the plane. Passengers will receive notifications at the gate every 30 minutes regarding the status of the delay. These notifications will include the reasons for the delay and whether further amenities will be available such as meal or hotel vouchers.",
+    "questions": [
+      {
+        "id": 155,
+        "question": "What is the purpose of the notice?",
+        "options": {
+          "A": "To apologize for a flight delay",
+          "B": "To list in-flight beverage options",
+          "C": "To describe flight safety procedures",
+          "D": "To explain an airline policy"
+        }
+      },
+      {
+        "id": 156,
+        "question": "In what situation will passengers be provided free refreshments?",
+        "options": {
+          "A": "If the flight is delayed more than one hour",
+          "B": "If the flight is canceled due to poor visibility",
+          "C": "If the flight is more than two hours long",
+          "D": "If the plane temporarily returns to the gate"
+        }
+      },
+      {
+        "id": 157,
+        "question": "The word “status” in paragraph 1, line 7, is closest in meaning to",
+        "options": {
+          "A": "rank",
+          "B": "lateness",
+          "C": "condition",
+          "D": "supervisor"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 6,
+    "title": "Marigold City Council to Build New Sports Arena",
+    "context": "MARIGOLD CITY (11 May)—The Marigold City Council has received a draft of the plans to build a new sports arena in outer Marigold. The arena, which will host both sporting events and concerts, will be built on the site of the former Marigold Furniture Factory. The building has remained empty since Marigold Furniture moved production to another location over five years ago.\nThe arena's designers now need to send the construction plans to the city's planning commission for acceptance. Building can begin once the plans, and any revisions, are accepted. Construction is expected to start early next year and take approximately two years.",
+    "questions": [
+      {
+        "id": 158,
+        "question": "The word “draft” in paragraph 1, line 2, is closest in meaning to",
+        "options": {
+          "A": "wind",
+          "B": "cost",
+          "C": "version",
+          "D": "change"
+        }
+      },
+      {
+        "id": 159,
+        "question": "What will the new structure replace?",
+        "options": {
+          "A": "An empty lot",
+          "B": "A city park",
+          "C": "An unused building",
+          "D": "A shopping mall"
+        }
+      },
+      {
+        "id": 160,
+        "question": "According to the article, what is the next step in a process?",
+        "options": {
+          "A": "Construction of the new structure will begin.",
+          "B": "Plans will be presented for approval.",
+          "C": "The construction company will seek investors.",
+          "D": "Residents will vote on the plan."
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 7,
+    "title": "United Kingdom's Top-Selling Paint Just Got Better",
+    "context": "United Kingdom’s Top-Selling Paint Just Got Better\nMore Choices for Jasmine Leaf Paint\nJasmine Leaf Paint has been the number one selling house paint for the last five years in a row. — [1] —. But being the best seller is not enough for us. — [2] —. That’s why we are bringing you additional ways to make your home more beautiful!\nOur specially blended Blendex Formula interior paint and primer are prized for their stain resistance, excellent coverage, low-odour formula, ease of cleanup, and lifetime guarantee. In addition, we are now offering our paints in cans of five different sizes. And you can now get our paints in five beautiful finishes: flat, eggshell, satin, semigloss, and high gloss. — [3] —.\nIf you want rich, long-lasting, beautiful walls and ceilings inside your home, ask for Jasmine Leaf Paint at a quality paint store near you. — [4] —.",
+    "questions": [
+      {
+        "id": 161,
+        "question": "For whom is the advertisement primarily intended?",
+        "options": {
+          "A": "Landscapers",
+          "B": "Paint store owners",
+          "C": "Art students",
+          "D": "Homeowners"
+        }
+      },
+      {
+        "id": 162,
+        "question": "What is new about Jasmine Leaf Paint?",
+        "options": {
+          "A": "It is now stain resistant.",
+          "B": "It now features a lifetime guarantee.",
+          "C": "It is now thicker.",
+          "D": "It is now available in more sizes."
+        }
+      },
+      {
+        "id": 163,
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“This all means more convenient options for you.”",
+        "options": {
+          "A": "[1]",
+          "B": "[2]",
+          "C": "[3]",
+          "D": "[4]"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 8,
+    "title": "Itami Theater Appoints Interim Artistic Director",
+    "context": "FOR IMMEDIATE RELEASE\nContact: Lily Kwan, lkwan@itamitheater.com\nSEATTLE (April 10)—Following the recent announcement that Artistic Director Lucas Freeland has stepped down, the Itami Theater Board of Directors has appointed Xu Li as the interim artistic director. — [1] —. Ms. Li has been at Itami for ten years, serving as director of new play development.\nMs. Li has been pivotal in Itami’s artistic direction. — [2] —. She will continue to guide the play selection for next season. “I am honored that the board trusts me to carry forward the work that the entire team at Itami Theater has established,” said Ms. Li. “I am excited to work with our dedicated staff, everyone from stagehands to costume designers, to build a thrilling season next year.” In addition to overseeing the development of new plays for the theater, Ms. Li is a director. — [3] —. Later this season, she will direct Forest Creatures, written by the award-winning playwright May Nunes.\n“Ms. Li is a wise choice to serve as Itami’s interim artistic director,” says Executive Director John Stojanowski. “Her deep theatrical knowledge will help Itami Theater continue its artistic endeavors after the departure of Mr. Freeland and during the search for a permanent artistic director.” — [4] —. The board of directors is committed to taking its time in its search for a permanent artistic director. The board is pursuing candidates from across the country and expects the hiring process to take six to nine months.",
+    "questions": [
+      {
+        "id": 164,
+        "question": "What is suggested about the Itami Theater?",
+        "options": {
+          "A": "It focuses on new playwrights.",
+          "B": "It is searching for a new costume designer.",
+          "C": "It is building a second stage.",
+          "D": "It has operated for over ten years."
+        }
+      },
+      {
+        "id": 165,
+        "question": "What is indicated about Ms. Li?",
+        "options": {
+          "A": "She has written many plays.",
+          "B": "She is new to Itami Theater.",
+          "C": "She performs different roles in her current job.",
+          "D": "She is hiring new actors."
+        }
+      },
+      {
+        "id": 166,
+        "question": "What is indicated about the hiring process for a permanent artistic director?",
+        "options": {
+          "A": "It should be completed within nine months.",
+          "B": "Interviews will be conducted in six months.",
+          "C": "Only local job candidates will be considered.",
+          "D": "Successful candidates will have directing experience."
+        }
+      },
+      {
+        "id": 167,
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“She has directed the plays Summer and Fall and Love and Other Adventures in the Snow.”",
+        "options": {
+          "A": "[1]",
+          "B": "[2]",
+          "C": "[3]",
+          "D": "[4]"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 9,
+    "title": "Meeting Minutes—August 10",
+    "context": "Meeting Minutes—August 10\nIn attendance: Miguel Luna, Jennifer Lin, Amal Taylor, Vladimir Ikram, Nevena Ivanova\nAmal Taylor, the product manager, opened the meeting. She reported that our new line of herbal teas will be on local store shelves and in restaurants starting September 25. The initial launch includes three flavors: peppermint, lemon ginger, and hibiscus flower. More varieties are expected to be added next year.\nNext, Miguel Luna shared his prototypes of the tea boxes and discussed the sustainability of the materials used to produce them. The colorful designs received positive feedback from meeting attendees.\nAfter that, Jennifer Lin provided a brief overview of the marketing budget for the product launch. Funds are currently limited to one advertising campaign. For more detailed information about the marketing budget, contact Ms. Lin directly.\nFinally, Vladimir Ikram led a discussion about advertising options. Radio advertisements have been successful in the past and are cheaper than television. Digital advertisements were also considered. The final decision was to start with print advertisements in The Southtown Times.\nThe next meeting will be on August 17.",
+    "questions": [
+      {
+        "id": 168,
+        "question": "What does the company intend to do in the future?",
+        "options": {
+          "A": "Open a series of tea shops",
+          "B": "Expand its product line",
+          "C": "Develop beverages other than tea",
+          "D": "Replace the current tea varieties"
+        }
+      },
+      {
+        "id": 169,
+        "question": "Who most likely is Mr. Luna?",
+        "options": {
+          "A": "A shipping clerk",
+          "B": "A factory supervisor",
+          "C": "A store owner",
+          "D": "A packaging designer"
+        }
+      },
+      {
+        "id": 170,
+        "question": "Who can provide information about the marketing budget?",
+        "options": {
+          "A": "Ms. Lin",
+          "B": "Ms. Taylor",
+          "C": "Mr. Ikram",
+          "D": "Ms. Ivanova"
+        }
+      },
+      {
+        "id": 171,
+        "question": "Where will the products initially be advertised?",
+        "options": {
+          "A": "In a newspaper",
+          "B": "In an online magazine",
+          "C": "On the radio",
+          "D": "On social media"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 10,
+    "title": "Signboard Location for Afternoon Party",
+    "context": "Joanne Matos (11:45 A.M.)\nTuyet and Jim, do you know where I can find that big signboard—the one that we usually post at the entrance to advertise when we’re having a sale inside?\nTuyet Nguyen (11:58 A.M.)\nI haven’t seen it lately. Why?\nJoanne Matos (11:59 A.M.)\nI’m setting up for this afternoon’s party under the tent out in the café courtyard, and I want to have seating information posted for people as they arrive.\nTuyet Nguyen (12:01 P.M.)\nJim likely has it. He usually sets things up for those sales. But I think he’s gone for the day.\nJim Thomas (12:02 P.M.)\nNo, I’m not! I’m out making a delivery right now, but I’ll be back soon. You can find the signboard in the alcove just inside our building’s delivery entrance. Just put it back when you’re done so that I can find it the next time I need it.\nJoanne Matos (12:04 P.M.)\nNo problem. Thanks!",
+    "questions": [
+      {
+        "id": 172,
+        "question": "Why did Ms. Matos begin the text-message chain?",
+        "options": {
+          "A": "She needs help locating something.",
+          "B": "She is wondering what time Mr. Thomas will arrive.",
+          "C": "She wants to know why the tent is up today.",
+          "D": "She wants help putting up decorations."
+        }
+      },
+      {
+        "id": 173,
+        "question": "What will happen this afternoon?",
+        "options": {
+          "A": "There will be an outdoor event.",
+          "B": "There will be a sale.",
+          "C": "Ms. Nguyen will order a signboard.",
+          "D": "Mr. Thomas will deliver an additional tent."
+        }
+      },
+      {
+        "id": 174,
+        "question": "Where is Mr. Thomas most likely texting from?",
+        "options": {
+          "A": "The tent",
+          "B": "The building entrance",
+          "C": "His home",
+          "D": "A delivery site"
+        }
+      },
+      {
+        "id": 175,
+        "question": "At 12:04 P.M., what does Ms. Matos most likely mean when she writes, “No problem”?",
+        "options": {
+          "A": "She will probably be finished soon.",
+          "B": "She will meet Mr. Thomas at the entrance.",
+          "C": "She will return an item to its original location.",
+          "D": "She understands Ms. Nguyen’s explanation."
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 11,
+    "title": "Central Art Museum: Upcoming Special Exhibits and Review",
+    "context": "Central Art Museum\nUpcoming Special Exhibits\nWorldwide Fashion\nNovember 1–28\nDiscover how clothing and accessories have changed throughout time in various parts of the world. See clothing samples, historical items, and sketches.\nJeffrey Lamb: Naturalist\nDecember 1–29\nScientist Jeffrey Lamb spent his life studying and taking pictures of wildlife on six continents. See photos of animals and landscapes from the researcher’s personal collection, taken during his forty-year career.\nHumans in Art\nJanuary 1–29\nThis collection of paintings and sculptures from dozens of artists, past and present, shows us the many ways artists can depict a human subject. Works from both famous and relatively unknown artists are included here.\nEveryday Art\nFebruary 1–26\nA variety of handmade items are on display in this exhibit showing art in everyday life. From handmade quilts to furniture, see these household items in a whole new way.\n\nReview of Central Art Museum\nReviewer: Mary Walsh\nStars: ★★★★★\nI recommend the Central Art Museum to anyone interested in not only art but history as well. I’ve made two trips to the museum recently. My first trip was with my school’s photography club. We only saw the special exhibit featuring photography, but I left wanting to see the rest of the museum. I returned a few days later and had the chance to walk through the entire museum. Each exhibit was different but full of interesting pieces. Be sure to stop at the interactive room near the gift shop for a hands-on experience. During my first trip, the room had cameras with fun backgrounds. Visitors took pictures of themselves, and for a small fee, I got a printout of myself as if I were holding a flag on the moon! Like the special exhibits, the activities at the interactive room change every month, so you will always find something new and interesting to do.",
+    "questions": [
+      {
+        "id": 176,
+        "question": "According to the schedule, what would a visitor most likely see at the first special exhibit?",
+        "options": {
+          "A": "Shoes",
+          "B": "Furniture",
+          "C": "Radios",
+          "D": "Paintings"
+        }
+      },
+      {
+        "id": 177,
+        "question": "What is indicated about the special exhibit in February?",
+        "options": {
+          "A": "It includes mostly paintings done by local artists.",
+          "B": "It will end before the other exhibits listed on the Web site.",
+          "C": "Visitors may see items similar to those that they have in their homes.",
+          "D": "It has returned to the museum after a popular earlier appearance."
+        }
+      },
+      {
+        "id": 178,
+        "question": "Why did Ms. Walsh go to the museum a second time?",
+        "options": {
+          "A": "She wanted to take more photographs.",
+          "B": "She wanted to see more of the museum.",
+          "C": "She accidentally left an item at the museum.",
+          "D": "She got a discount on a ticket."
+        }
+      },
+      {
+        "id": 179,
+        "question": "What does Ms. Walsh recommend that readers do?",
+        "options": {
+          "A": "Take a guided tour of the museum",
+          "B": "Call the museum for more information",
+          "C": "Buy something at the museum gift shop",
+          "D": "Participate in an activity at the museum"
+        }
+      },
+      {
+        "id": 180,
+        "question": "What exhibit did Ms. Walsh visit on the first trip to the museum?",
+        "options": {
+          "A": "Worldwide Fashion",
+          "B": "Jeffrey Lamb: Naturalist",
+          "C": "Humans in Art",
+          "D": "Everyday Art"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 12,
+    "title": "Home Improvement Supply - Materials Overview & Client Intake Form",
+    "context": "Home Improvement Supply - Materials Overview\nCountertops | Cabinets | Flooring\nCeramic tile | Golden oak | Hardwood\nStainless steel | Dark redwood | Vinyl\nMarble - premium | Black walnut | Stone\nGranite - premium | Synthetic laminate | Concrete\nSee the product catalog for the complete range of styles and colors. Contact a sales representative for pricing. Order delivery is usually 7–10 business days.\nNote: Black walnut cabinets and hardwood flooring are local products fabricated by small regional manufacturers. Please allow a minimum of three weeks to fulfill orders.\n\nModern Styles\nYour Remodeling Experts\nClient Intake Form\nClient Name: Theresa Dellman\nPhone: 555-0130\nDesired completion date: April 21\nProject description: Commercial ☐ Residential ☑\nClient wants a complete remodel within three weeks, including new countertops, cabinets, flooring, and appliances (refrigerator, dishwasher, stove, oven).\nClient preferences:\n• Countertops: black granite\n• Cabinets: Client kept samples and will let me know by the April 3 deadline for ordering.\n• Flooring: Client will let me know by April 3.\nNotes:\nTen percent off coupon to be applied to materials purchase. Not valid on premium materials.\nProject contract and deposit were received on April 1.",
+    "questions": [
+      {
+        "id": 181,
+        "question": "According to the product information, where can customers see examples of all products?",
+        "options": {
+          "A": "On a Web site",
+          "B": "In a product catalog",
+          "C": "In a store",
+          "D": "In a newspaper advertisement"
+        }
+      },
+      {
+        "id": 182,
+        "question": "Who most likely completed the form?",
+        "options": {
+          "A": "An appliance repair person",
+          "B": "A restaurant chef",
+          "C": "A design store representative",
+          "D": "A cooking instructor"
+        }
+      },
+      {
+        "id": 183,
+        "question": "According to the form, what does the client need to provide?",
+        "options": {
+          "A": "A signature on the contract",
+          "B": "Approval for work to begin",
+          "C": "Proof of homeowner’s insurance",
+          "D": "Decisions on two types of materials"
+        }
+      },
+      {
+        "id": 184,
+        "question": "What material will probably NOT be used to make the cabinets for the project?",
+        "options": {
+          "A": "Golden oak",
+          "B": "Dark redwood",
+          "C": "Black walnut",
+          "D": "Synthetic laminate"
+        }
+      },
+      {
+        "id": 185,
+        "question": "What is indicated about the marble and granite?",
+        "options": {
+          "A": "They are not eligible for a discount offer.",
+          "B": "They are no longer being manufactured.",
+          "C": "They are produced in limited colors.",
+          "D": "They are very popular with customers."
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 13,
+    "title": "Alexandria's Restaurant Showcase & Reviews",
+    "context": "Alexandria’s Restaurant Showcase\nJune 5 — Alexandria’s Restaurant Showcase is back! From July 8 to July 25, participating restaurants in the Alexandria area will offer set menus at discounted prices. As in past years, restaurants can offer a two-course lunch menu for $15, a two-course dinner menu for $20, or a three-course dinner menu for $30. Both customers and restaurant owners love the showcase. Food enthusiasts try new options at a lower cost, and restaurants report it’s the time of year when dining areas are at their fullest.\nAlexandria had its first restaurant showcase 15 years ago. It was modeled on a similar showcase in the beach town of Willmar. Originally, only eight restaurants participated. Since then, the showcase has grown, adding more restaurants and extending the number of days each year. This year, there will be 40 participating restaurants—about 70 percent of all the restaurants in Alexandria. Those looking to book a table should act fast. Some restaurants require reservations, and the most popular places book up quickly. To see the list of participating restaurants and make a reservation, visit www.alexandriarestaurants.com/showcase.\n\nhttps://www.alexandriarestaurants.com/showcase/reservations\nShowing search results for: Center City Neighborhood\nClaire’s\nFrench food\nServing lunch and 3-course dinner\nOpen Tuesday–Sunday\nCall (703) 555-0102 to make a reservation.\nFresh Fish Grill\nSeafood\nServing lunch and 3-course dinner\nOpen Monday–Sunday\nCall (703) 555-0195 to make a reservation.\nJin-Yi’s House\nKorean food\nServing 2-course dinner\nOpen Wednesday–Saturday\nCall (703) 555-0198 to make a reservation.\nRoberto’s Pizzeria\nItalian food\nServing lunch only\nOpen Tuesday–Sunday\nNo reservations necessary\n\nhttps://www.foodreviews.com/alexandria/freshfishgrill\nNori Sato\nI highly recommend Fresh Fish Grill. It was my first time eating there, and not only was the food excellent, but the staff was welcoming and efficient. I had some clients in town and was lucky enough to get a reservation on the last day of the restaurant showcase. We all really enjoyed the experience. I would gladly take clients there again.",
+    "questions": [
+      {
+        "id": 186,
+        "question": "What does the article mention about Alexandria’s Restaurant Showcase?",
+        "options": {
+          "A": "Every restaurant in Alexandria participates.",
+          "B": "Restaurants are open seven days a week.",
+          "C": "It is the busiest time of year for restaurants.",
+          "D": "Restaurants are open only for dinner."
+        }
+      },
+      {
+        "id": 187,
+        "question": "What is indicated about Alexandria’s first Restaurant Showcase?",
+        "options": {
+          "A": "It took place eight years ago.",
+          "B": "It had 40 participating restaurants.",
+          "C": "It took place before a similar showcase began in Willmar.",
+          "D": "It had a shorter duration than this year’s restaurant showcase."
+        }
+      },
+      {
+        "id": 188,
+        "question": "What is true of all the restaurants on the Web page?",
+        "options": {
+          "A": "They are open on Mondays.",
+          "B": "They serve the same type of food.",
+          "C": "They require a reservation.",
+          "D": "They are in the same neighborhood."
+        }
+      },
+      {
+        "id": 189,
+        "question": "How much does it cost to eat at Roberto’s Pizzeria during Alexandria’s Restaurant Showcase?",
+        "options": {
+          "A": "$8",
+          "B": "$15",
+          "C": "$20",
+          "D": "$30"
+        }
+      },
+      {
+        "id": 190,
+        "question": "What is suggested about Ms. Sato?",
+        "options": {
+          "A": "She went to Fresh Fish Grill on July 25.",
+          "B": "She went to Fresh Fish Grill with her family.",
+          "C": "She has dined at the Fresh Fish Grill many times.",
+          "D": "She knows the owner of Fresh Fish Grill."
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 14,
+    "title": "Student Activities Coordinator Job and Application",
+    "context": "Student Activities Coordinator\nRollervy University\nMaynard, MA 01754\nResponsibilities:\n• Promotes involvement in campus extracurricular activities such as student government, arts, theater, cultural organizations, volunteer groups, and athletic club teams\n• Updates the Rollervy University student activities Web site and manages all social media\n• Coordinates student outings to local sporting and cultural events in the Boston metropolitan area\n• Addresses inquiries by answering phones, responding to e-mails, and greeting walk-in visitors\nTo apply, write your cover letter in an e-mail, attach your résumé, and send it to the Human Resources Manager, at jobs@rollervy.edu.\nPlease address the following:\n• What relevant job experience do you have?\n• Why do you believe you are a good fit for the position?\n• What are your professional strengths?\n• In which areas could you improve?\n\nTo: Jobs <jobs@rollervy.edu>\nFrom: Samantha Bradbury <sambradbury25@rapidonet.com>\nDate: September 10\nSubject: Student Activities Coordinator\nAttachment: Résumé\nTo Whom It May Concern,\nRollervy University is looking for someone to coordinate activities, promote student engagement, and provide professional customer service. I did all three during my tenure as the Campus Recreation Manager at Parvaton College.\nAt Parvaton, I increased participation in student activities by 37 percent. I also created a running club and planned excursions off campus. I placed a great emphasis on volunteering, including a project to pair college tutors with local high school students who needed help with classwork.\nOverall, I believe I’m an excellent fit for the available position. I am punctual, detail oriented, and committed to increasing students’ connection to their academic institution. I look forward to hearing back about a potential interview.\nSincerely,\nSamantha Bradbury\n\n*E-mail*\nTo: Samantha Bradbury <sambradbury25@rapidonet.com>\nFrom: Lisa Cooper <jobs@rollervy.edu>\nDate: October 2\nSubject: Interview\nDear Samantha,\nI am writing to check on your availability to interview for the Student Activities Coordinator position. Your preliminary interview would be conducted virtually. If selected for the next round, your second interview would be in person at the Rollervy University main campus. If you are still interested, please respond and let me know if you are free at 9 A.M. on either October 8 or October 9.\nKind regards,\nLisa Cooper",
+    "questions": [
+      {
+        "id": 191,
+        "question": "According to the job advertisement, what is one responsibility of the Student Activities Coordinator?",
+        "options": {
+          "A": "Help students with difficult assignments",
+          "B": "Inform students about local events",
+          "C": "Train students to give presentations",
+          "D": "Lead workshops about Web site development"
+        }
+      },
+      {
+        "id": 192,
+        "question": "According to the first e-mail, what is one way that Ms. Bradbury promoted student engagement?",
+        "options": {
+          "A": "She volunteered at a local recreation center.",
+          "B": "She participated in several cultural excursions.",
+          "C": "She recruited high school students to be tutors.",
+          "D": "She started a sports group."
+        }
+      },
+      {
+        "id": 193,
+        "question": "What information did Ms. Bradbury leave out of her cover letter?",
+        "options": {
+          "A": "Her relevant job experience",
+          "B": "Her interest in the position",
+          "C": "Her professional strengths",
+          "D": "Her areas for improvement"
+        }
+      },
+      {
+        "id": 194,
+        "question": "What does the second e-mail indicate about the hiring process?",
+        "options": {
+          "A": "Every applicant must fill in a form online.",
+          "B": "Applicants should submit two reference letters.",
+          "C": "Some applicants will have an in-person interview.",
+          "D": "Applicants with four-year degrees are preferred."
+        }
+      },
+      {
+        "id": 195,
+        "question": "Who most likely is Ms. Cooper?",
+        "options": {
+          "A": "The Human Resources Manager",
+          "B": "An office assistant",
+          "C": "A university admissions counselor",
+          "D": "The Student Activities Coordinator"
+        }
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "passage_id": 15,
+    "title": "Ferd Data Services Mobile Phone Reimbursement Policy Review",
+    "context": "To: Celeste O’Brien\nFrom: Monica Cheung\nDate: October 15\nSubject: Mobile phone reimbursement policy\nDear Ms. O’Brien,\nAs the Assistant Director of Accounting, I am writing about the policy regarding mobile phone expenses. Many Ferd Data Services employees use their personal mobile phones for business calls. To get reimbursed, they must submit a form every month. Ferd then pays up to 30 percent of the phone bill. My department confirms each employee’s calculations and then schedules payments that vary every month.\nSome companies have moved to a flat-rate model, whereby all employees who qualify receive a fixed amount each month (e.g., $20). No staff time is required for monthly processing; the allowance is automatically included in each paycheck.\nI hope that, as head of Human Resources, you will consider adopting a policy like this.\nSincerely,\nMonica Cheung\n\nFerd Data Services\nMEETING AGENDA\nLocation: Online\nDate: October 24\nTime: 3:00 P.M.\nHost: Celeste O’Brien, Vice President, Human Resources\nAttendees: Human Resources Managers; Finance Managers; Department Heads\nOBJECTIVES:\n1. Consider issues with the current mobile phone reimbursement program\n2. Review other options along with advantages and disadvantages\n3. Select a new reimbursement model, if appropriate\nOPTIONS:\n1. Continue to reimburse employees for up to 30 percent of their business mobile phone use\n2. Provide a flat monthly amount to employees who qualify; employees with high costs can submit requests for additional compensation\n3. Provide qualified employees with mobile phones for business use\n\nFerd Data Services Employee Policies\nMobile Phone Reimbursement Policy\nRevised October 30\nEmployees who work remotely and/or travel for business purposes should be reimbursed for business use of mobile phones. Three options are available:\n• Employees who qualify will receive a mobile phone allowance of $20 per month, regardless of actual expenses. To enroll in the program, employees must submit a Mobile Phone Allowance form with their supervisor’s signature. The $20 allowance will be applied to each month’s paycheck.\n• Employees with large charges may submit actual expenses to receive additional reimbursement.\n• Managers and executives may opt for a company mobile phone, which is for business use only.",
+    "questions": [
+      {
+        "id": 196,
+        "question": "What is the purpose of the e-mail?",
+        "options": {
+          "A": "To describe patterns of employee behavior",
+          "B": "To suggest updates to certain technology",
+          "C": "To consider replacing a vendor",
+          "D": "To request a revision to a reimbursement policy"
+        }
+      },
+      {
+        "id": 197,
+        "question": "According to the e-mail, who is Ms. Cheung?",
+        "options": {
+          "A": "A telemarketer",
+          "B": "A member of the accounting team",
+          "C": "A human resources specialist",
+          "D": "An electronics engineer"
+        }
+      },
+      {
+        "id": 198,
+        "question": "What did Ms. O’Brien do after receiving Ms. Cheung’s e-mail?",
+        "options": {
+          "A": "She invited Ms. Cheung to a meeting.",
+          "B": "She rejected Ms. Cheung’s suggestion but proposed alternatives.",
+          "C": "She collaborated with other company leaders to address an issue.",
+          "D": "She transferred to a different department."
+        }
+      },
+      {
+        "id": 199,
+        "question": "According to the policy, who qualifies to receive a company mobile phone?",
+        "options": {
+          "A": "Ferd Data Services managers and executives only",
+          "B": "All Ferd Data Services employees who work from home",
+          "C": "Employees who travel for business purposes",
+          "D": "Employees who submit a monthly form"
+        }
+      },
+      {
+        "id": 200,
+        "question": "What best describes the result of the meeting on October 24?",
+        "options": {
+          "A": "Attendees agreed to continue following the original procedures.",
+          "B": "Attendees decided to collect more information before making a decision.",
+          "C": "Attendees decided to adopt some of the options discussed.",
+          "D": "Attendees completed a survey about mobile phone use."
+        }
+      }
+    ]
+  }
+]

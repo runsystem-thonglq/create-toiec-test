@@ -53,7 +53,7 @@ export default function TestCreator({
           description: description.trim() || undefined,
           timeLimitMinutes: timeLimit,
           answers: data.answers as Answer[],
-          dataFile: data.file,
+          dataFile: `/toeic/${data.file}`,
         });
         TestManager.saveTest(test);
         onCreateTest(test);

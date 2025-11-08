@@ -1,0 +1,226 @@
+[
+  {
+    "part": 6,
+    "passage_id": 1,
+    "title": "Darway City Park Project Updates",
+    "context": "Darway City Park management strives to keep all visitor trails ____ 131. while improvement projects are underway. Currently, crews are trimming vegetation around directional signs along the park's Woodmor bike path, so cyclists should ride carefully in this area. Note that 132. possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then. New informational signs that highlight specific features of the surrounding natural environment will also be installed along sections of the trail. 133. This phase of the project will be completed next month, and there is expected to be little ____ 134. to park users as it progresses. The city's Department of Parks makes every effort to avoid trail closures and detours during work projects.",
+    "questions": [
+      {
+        "id": 131,
+        "question": "Darway City Park management strives to keep all visitor trails ____ 131. while improvement projects are underway.",
+        "options": {
+          "A": "open",
+          "B": "noticeable",
+          "C": "practical",
+          "D": "genuine"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 132,
+        "question": "Note that 132. possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then.",
+        "options": {
+          "A": "frequently",
+          "B": "considering",
+          "C": "whenever",
+          "D": "moreover"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 133,
+        "question": "New informational signs that highlight specific features of the surrounding natural environment will also be installed along sections of the trail. 133. This phase of the project will be completed next month, and there is expected to be little to park users as it progresses.",
+        "options": {
+          "A": "They are intended to increase visitors' enjoyment of the park.",
+          "B": "They are designed to communicate these updated regulations.",
+          "C": "Visitors especially enjoy using the park café and other amenities.",
+          "D": "Planting new trees requires proper planning and site selection."
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 134,
+        "question": "...and there is expected to be little ____ 134. to park users as it progresses.",
+        "options": {
+          "A": "supplement",
+          "B": "reduction",
+          "C": "implementation",
+          "D": "disruption"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 2,
+    "title": "Enjoying local beaches",
+    "context": "From: McGuckin, Edward To: All Summer Guests Sent: Wednesday, May 15, 8:02 A.M. Subject: Enjoying local beaches We look forward to your visit to the Grand Hotel at Miracle Beach! The town council has recently passed an ordinance requiring that beachgoers pay for ____ 135. to the local beaches. We know how important free beach entry has been for our guests. ____ 136. we have arranged for beach passes to be available for you—free of charge. All you have to do is ask for the pass when you check in and return the pass when you check out. Please be advised that municipal beach-patrol staff members will be walking along the beach ____ 137. to check for passes such as the ones we are providing. ____ 138. Make sure to get your pass and avoid the possible penalty.",
+    "questions": [
+      {
+        "id": 135,
+        "question": "We look forward to your visit to the Grand Hotel at Miracle Beach! The town council has recently passed an ordinance requiring that beachgoers pay for ____ 135. to the local beaches.",
+        "options": {
+          "A": "accessing",
+          "B": "access",
+          "C": "accessory",
+          "D": "accessed"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 136,
+        "question": "We know how important free beach entry has been for our guests. ____ 136. we have arranged for beach passes to be available for you—free of charge.",
+        "options": {
+          "A": "Nevertheless",
+          "B": "Otherwise",
+          "C": "However",
+          "D": "Therefore"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 137,
+        "question": "Please be advised that municipal beach-patrol staff members will be walking along the beach ____ 137. to check for passes such as the ones we are providing.",
+        "options": {
+          "A": "regular",
+          "B": "regularly",
+          "C": "regulate",
+          "D": "regulation"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 138,
+        "question": "____ 138. Make sure to get your pass and avoid the possible penalty.",
+        "options": {
+          "A": "Take all personal belongings with you when you leave the beach.",
+          "B": "Sadly, having to pay for the beach is a growing phenomenon nationwide.",
+          "C": "A fine will be imposed on anyone who has not secured passes for local beaches.",
+          "D": "We will also provide beach towels for any guest who asks for one."
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 3,
+    "title": "Workplace Improvements",
+    "context": "From: Eun-Mi Park To: All Employees at the New Korea Financial Group (NKFG) Subject: Workplace Improvements Date: March 12 As part of our commitment to providing a comfortable environment for our employees, maintenance work will begin this week with the goal of ____ 139. individual work spaces. The work will proceed in stages. First, new carpeting will be installed tomorrow in each office and cubicle. To help ensure that this project ____ 140. smoothly, please remove all personal items from the floor in your work area before you leave today. ____ 141. open metal bookcases will be replaced later in the week with state-of-the-art, high-density plastic bookshelves with sliding doors. We are confident that these initiatives will improve the appearance of work spaces throughout the company. ____ 142. Thank you in advance for your understanding and cooperation.",
+    "questions": [
+      {
+        "id": 139,
+        "question": "As part of our commitment to providing a comfortable environment for our employees, maintenance work will begin this week with the goal of ____ 139. individual work spaces.",
+        "options": {
+          "A": "combining",
+          "B": "enhancing",
+          "C": "cleaning",
+          "D": "reassigning"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 140,
+        "question": "To help ensure that this project ____ 140. smoothly, please remove all personal items from the floor in your work area before you leave today.",
+        "options": {
+          "A": "running",
+          "B": "runs",
+          "C": "ran",
+          "D": "to run"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 141,
+        "question": "before you leave today. ____ 141. open metal bookcases will be replaced later in the week with state-of-the-art, high-density plastic bookshelves with sliding doors.",
+        "options": {
+          "A": "For example",
+          "B": "Normally",
+          "C": "Next",
+          "D": "In summary"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 142,
+        "question": "We are confident that these initiatives will improve the appearance of work spaces throughout the company. ____ 142. Thank you in advance for your understanding and cooperation.",
+        "options": {
+          "A": "We regret any inconvenience these measures may cause this week.",
+          "B": "We are proud of the financial services we provide to our loyal customers.",
+          "C": "The metal bookshelves were installed only five years ago.",
+          "D": "Books are always welcome at local charities."
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 4,
+    "title": "The Newly Renovated Clairmont Cinema",
+    "context": "The Newly Renovated Clairmont Cinema By Sara Langly BRISTOL (12 September)—After six months, the Clairmont Cinema has finally reopened. Since the owners were ____ 143. about their plans, filmgoers were not sure what to expect when the doors opened last night. The biggest change is that there are now three theatres inside the complex instead of just one. ____ 144. On the one hand, filmgoers now have access to more of the independent films that Clairmont Cinema has long been proud of offering. On the other hand, these films are showing on very small screens. ____ 145. I felt like I was at home watching television. Still, the multiple offerings are fantastic, as is the new refreshment stand, so I encourage all film lovers to discover for ____ 146. what the new Clairmont Cinema has to offer.",
+    "questions": [
+      {
+        "id": 143,
+        "question": "Since the owners were ____ 143. about their plans, filmgoers were not sure what to expect when the doors opened last night.",
+        "options": {
+          "A": "vague",
+          "B": "flexible",
+          "C": "joyful",
+          "D": "encouraging"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 144,
+        "question": "The biggest change is that there are now three theatres inside the complex instead of just one. ____ 144. On the one hand, filmgoers now have access to more of the independent films that Clairmont Cinema has long been proud of offering.",
+        "options": {
+          "A": "This has advantages and disadvantages.",
+          "B": "A large number of filmgoers came to the reopening.",
+          "C": "Big changes are often difficult but necessary.",
+          "D": "The owners will likely enjoy significant profits."
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 145,
+        "question": "On the other hand, these films are showing on very small screens. ____ 145. I felt like I was at home watching television.",
+        "options": {
+          "A": "Instead",
+          "B": "Regardless",
+          "C": "In conclusion",
+          "D": "In fact"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      },
+      {
+        "id": 146,
+        "question": "Still, the multiple offerings are fantastic, as is the new refreshment stand, so I encourage all film lovers to discover for ____ 146. what the new Clairmont Cinema has to offer.",
+        "options": {
+          "A": "them",
+          "B": "oneself",
+          "C": "themselves",
+          "D": "itself"
+        },
+        "answer": "N/A",
+        "explanation": "N/A"
+      }
+    ]
+  }
+]

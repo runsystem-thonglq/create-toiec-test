@@ -1,0 +1,450 @@
+[
+  {
+    "part": 6,
+    "passage_id": 1,
+    "title": "Darway City Park Project Updates",
+    "context": "Darway City Park management strives to keep all visitor trails **___**(131) while improvement projects are underway. Currently, crews are trimming vegetation around directional signs along the park's Woodmor bike path, so cyclists should ride carefully in this area. Note that **___**(132) possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then. New informational signs that highlight specific features of the surrounding natural environment will also be installed along sections of the trail. **___**(133). This phase of the project will be completed next month, and there is expected to be little **___**(134) to park users as it progresses. The city's Department of Parks makes every effort to avoid trail closures and detours during work projects.",
+    "questions": [
+      {
+        "id": 131,
+        "question": "Darway City Park management strives to keep all visitor trails **___**(131) while improvement projects are underway.",
+        "options": {
+          "A": "open",
+          "B": "noticeable",
+          "C": "practical",
+          "D": "genuine"
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Là một tính từ, có nghĩa là 'mở, không bị chặn'. Phù hợp với ngữ cảnh 'giữ cho lối đi của khách tham quan không bị chặn' trong khi các dự án đang được tiến hành.",
+              "B": "Tính từ, có nghĩa là 'đáng chú ý, dễ nhận thấy'. Không phù hợp để mô tả trạng thái của lối đi.",
+              "C": "Tính từ, có nghĩa là 'thực tế, thiết thực'. Không phù hợp với ngữ cảnh.",
+              "D": "Tính từ, có nghĩa là 'chính hãng, thật'. Không phù hợp với ngữ cảnh."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. open",
+            "sentence_explanation": "💬 Ban quản lý Công viên Darway City cố gắng giữ cho tất cả các lối đi của du khách luôn mở trong khi các dự án cải tạo đang diễn ra. Từ 'open' mô tả trạng thái dễ tiếp cận, không bị chặn của các lối đi.",
+            "translation": "Ban quản lý Công viên Darway City nỗ lực giữ cho tất cả các lối đi của du khách luôn mở trong khi các dự án cải tạo đang được tiến hành.",
+            "vocab_notes": "📘 Ghi nhớ: strive (v): cố gắng, nỗ lực; underway (adj): đang tiến hành; trail (n): lối đi.",
+            "grammar_notes": "👉 Cấu trúc 'keep something + adjective' (giữ cái gì ở trạng thái nào) là phù hợp. Ở đây, 'open' là tính từ mô tả trạng thái của 'visitor trails'."
+          }
+        }
+      },
+      {
+        "id": 132,
+        "question": "Note that **___**(132) possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then.",
+        "options": {
+          "A": "frequently",
+          "B": "considering",
+          "C": "whenever",
+          "D": "moreover"
+        },
+        "answer": "C",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Trạng từ, có nghĩa là 'thường xuyên'. Không tạo thành cụm từ đúng với 'possible'.",
+              "B": "Giới từ, có nghĩa là 'xem xét, cân nhắc'. Không phù hợp với ngữ cảnh.",
+              "C": "Liên từ/Trạng từ, có nghĩa là 'bất cứ khi nào'. Cụm từ 'whenever possible' (bất cứ khi nào có thể) là một thành ngữ phổ biến, rất phù hợp với ngữ cảnh muốn nói rằng công việc được lên lịch vào thời gian thấp điểm nếu có thể.",
+              "D": "Trạng từ liên kết, có nghĩa là 'hơn nữa, vả lại'. Dùng để thêm thông tin, không phù hợp với 'possible'."
+            },
+            "correct_answer": "✅ Đáp án đúng: C. whenever",
+            "sentence_explanation": "💬 Lưu ý rằng bất cứ khi nào có thể, công việc cải tạo được lên lịch thực hiện vào thời gian thấp điểm vì khi đó ít người sử dụng công viên hơn. Cụm từ 'whenever possible' có nghĩa là 'bất cứ khi nào có thể' và thể hiện điều kiện về thời gian thực hiện công việc.",
+            "translation": "Lưu ý rằng bất cứ khi nào có thể, công việc cải tạo được lên lịch thực hiện vào thời gian thấp điểm vì khi đó ít người sử dụng công viên hơn.",
+            "vocab_notes": "📘 Ghi nhớ: off-peak (adj): ngoài giờ cao điểm.",
+            "grammar_notes": "👉 Thành ngữ 'whenever possible' là cách diễn đạt đúng trong tiếng Anh để chỉ một điều kiện."
+          }
+        }
+      },
+      {
+        "id": 133,
+        "question": "**___**(133). This phase of the project will be completed next month...",
+        "options": {
+          "A": "They are intended to increase visitors' enjoyment of the park.",
+          "B": "They are designed to communicate these updated regulations.",
+          "C": "Visitors especially enjoy using the park café and other amenities.",
+          "D": "Planting new trees requires proper planning and site selection."
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Câu này nói về mục đích của 'new informational signs' được nhắc đến ở câu trước. Việc 'highlight specific features of the surrounding natural environment' (làm nổi bật các đặc điểm cụ thể của môi trường tự nhiên) nhằm mục đích 'increase visitors' enjoyment' (tăng sự thích thú của du khách) là hợp lý. Đồng thời, 'This phase of the project' ở câu sau có thể ám chỉ việc lắp đặt biển báo này.",
+              "B": "Mặc dù biển báo có thể truyền đạt thông tin, nhưng ngữ cảnh nói về 'natural environment' chứ không phải 'regulations'.",
+              "C": "Câu này không liên quan trực tiếp đến việc lắp đặt biển báo thông tin mới.",
+              "D": "Câu này không liên quan đến việc lắp đặt biển báo thông tin mới."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. They are intended to increase visitors' enjoyment of the park.",
+            "sentence_explanation": "💬 Câu trước nói về việc lắp đặt 'New informational signs that highlight specific features of the surrounding natural environment'. Câu A giải thích mục đích của những biển báo này. 'This phase of the project' ở câu sau có thể liên kết với việc lắp đặt biển báo thông tin mới, làm cho câu A trở thành sự bổ sung hợp lý.",
+            "translation": "Các biển báo thông tin mới làm nổi bật các đặc điểm cụ thể của môi trường tự nhiên xung quanh cũng sẽ được lắp đặt dọc theo các đoạn đường mòn. Chúng được thiết kế để tăng cường sự thích thú của du khách đối với công viên. Giai đoạn dự án này sẽ hoàn thành vào tháng tới...",
+            "vocab_notes": "📘 Ghi nhớ: informational signs (n): biển báo thông tin; highlight (v): làm nổi bật; surrounding (adj): xung quanh; natural environment (n): môi trường tự nhiên; intended to (v): có ý định/mục đích làm gì.",
+            "grammar_notes": "👉 Câu được chọn phải có sự liên kết logic về mặt ý nghĩa và đại từ (They) với câu trước (new informational signs) và câu sau (This phase of the project)."
+          }
+        }
+      },
+      {
+        "id": 134,
+        "question": "This phase of the project will be completed next month, and there is expected to be little **___**(134) to park users as it progresses.",
+        "options": {
+          "A": "supplement",
+          "B": "reduction",
+          "C": "implementation",
+          "D": "disruption"
+        },
+        "answer": "D",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Danh từ, có nghĩa là 'phần bổ sung'. Không phù hợp với ngữ cảnh 'cho người dùng công viên'.",
+              "B": "Danh từ, có nghĩa là 'sự giảm bớt'. Không phù hợp với 'to park users'.",
+              "C": "Danh từ, có nghĩa là 'sự thực hiện, triển khai'. Không phù hợp với ngữ cảnh gây ảnh hưởng.",
+              "D": "Danh từ, có nghĩa là 'sự gián đoạn, sự xáo trộn'. 'Little disruption' có nghĩa là ít gây ra sự bất tiện/xáo trộn, rất phù hợp với ngữ cảnh của các dự án đang tiến hành trong công viên, mà công viên cố gắng 'tránh đóng cửa và chuyển hướng đường mòn'."
+            },
+            "correct_answer": "✅ Đáp án đúng: D. disruption",
+            "sentence_explanation": "💬 Giai đoạn dự án này sẽ hoàn thành vào tháng tới, và dự kiến sẽ có ít sự gián đoạn đối với người dùng công viên khi nó tiến triển. Từ 'disruption' (sự gián đoạn) phù hợp nhất với ngữ cảnh công viên đang cố gắng giảm thiểu ảnh hưởng đến người dùng trong quá trình thi công.",
+            "translation": "Giai đoạn dự án này sẽ hoàn thành vào tháng tới, và dự kiến sẽ có ít sự gián đoạn đối với người dùng công viên khi nó tiến triển.",
+            "vocab_notes": "📘 Ghi nhớ: disruption (n): sự gián đoạn, sự xáo trộn; progress (v): tiến triển.",
+            "grammar_notes": "👉 'little + uncountable noun' (ít cái gì) là cấu trúc ngữ pháp đúng. 'Disruption' là danh từ không đếm được và phù hợp với ý nghĩa muốn truyền tải."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 2,
+    "title": "Enjoying local beaches",
+    "context": "We look forward to your visit to the Grand Hotel at Miracle Beach! The town council has recently passed an ordinance requiring that beachgoers pay for **___**(135) to the local beaches. We know how important free beach entry has been for our guests. **___**(136), we have arranged for beach passes to be available for you—free of charge. All you have to do is ask for the pass when you check in and return the pass when you check out. Please be advised that municipal beach-patrol staff members will be walking along the beach **___**(137) to check for passes such as the ones we are providing. **___**(138). Make sure to get your pass and avoid the possible penalty.",
+    "questions": [
+      {
+        "id": 135,
+        "question": "The town council has recently passed an ordinance requiring that beachgoers pay for **___**(135) to the local beaches.",
+        "options": {
+          "A": "accessing",
+          "B": "access",
+          "C": "accessory",
+          "D": "accessed"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Dạng V-ing, là danh động từ hoặc hiện tại phân từ. Không phù hợp sau giới từ 'for' để chỉ mục đích trả tiền.",
+              "B": "Danh từ, có nghĩa là 'quyền tiếp cận, sự tiếp cận'. Cụm từ 'pay for access' là cách diễn đạt đúng.",
+              "C": "Danh từ, có nghĩa là 'phụ kiện'. Không phù hợp với ngữ cảnh.",
+              "D": "Dạng quá khứ phân từ của động từ 'access'. Không phù hợp sau giới từ 'for' để chỉ mục đích trả tiền."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. access",
+            "sentence_explanation": "💬 Hội đồng thị trấn gần đây đã thông qua một sắc lệnh yêu cầu những người đi biển phải trả tiền để tiếp cận các bãi biển địa phương. 'Access' (danh từ) ở đây có nghĩa là 'sự tiếp cận' và kết hợp với 'pay for' tạo thành cụm động từ có nghĩa.",
+            "translation": "Hội đồng thị trấn gần đây đã thông qua một sắc lệnh yêu cầu những người đi biển phải trả tiền để tiếp cận các bãi biển địa phương.",
+            "vocab_notes": "📘 Ghi nhớ: ordinance (n): sắc lệnh, quy định; beachgoer (n): người đi biển; access (n): quyền/sự tiếp cận.",
+            "grammar_notes": "👉 Cấu trúc 'pay for + noun' (trả tiền cho cái gì) đòi hỏi một danh từ sau 'for'. 'Access' là danh từ phù hợp nhất trong các lựa chọn."
+          }
+        }
+      },
+      {
+        "id": 136,
+        "question": "We know how important free beach entry has been for our guests. **___**(136), we have arranged for beach passes to be available for you—free of charge.",
+        "options": {
+          "A": "Nevertheless",
+          "B": "Otherwise",
+          "C": "However",
+          "D": "Therefore"
+        },
+        "answer": "D",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Trạng từ liên kết, có nghĩa là 'tuy nhiên, dù sao đi nữa'. Dùng để chỉ sự tương phản, đối lập.",
+              "B": "Trạng từ liên kết, có nghĩa là 'nếu không thì'. Dùng để chỉ hậu quả nếu không làm điều gì đó.",
+              "C": "Trạng từ liên kết, có nghĩa là 'tuy nhiên'. Dùng để chỉ sự tương phản, đối lập.",
+              "D": "Trạng từ liên kết, có nghĩa là 'do đó, vì vậy'. Dùng để chỉ kết quả hoặc lý do hợp lý."
+            },
+            "correct_answer": "✅ Đáp án đúng: D. Therefore",
+            "sentence_explanation": "💬 Chúng tôi biết việc vào bãi biển miễn phí quan trọng như thế nào đối với khách của chúng tôi. Do đó, chúng tôi đã sắp xếp để quý khách có thể nhận được thẻ đi biển – miễn phí. 'Therefore' cho thấy mối quan hệ nguyên nhân-kết quả: vì việc vào cửa miễn phí là quan trọng, nên khách sạn đã sắp xếp thẻ miễn phí.",
+            "translation": "Chúng tôi biết việc vào bãi biển miễn phí quan trọng như thế nào đối với khách của chúng tôi. Do đó, chúng tôi đã sắp xếp để quý khách có thể nhận được thẻ đi biển – miễn phí.",
+            "vocab_notes": "📘 Ghi nhớ: free of charge: miễn phí; arrange for (v): sắp xếp cho.",
+            "grammar_notes": "👉 'Therefore' là trạng từ liên kết phù hợp nhất để thể hiện mối quan hệ nhân quả giữa hai câu."
+          }
+        }
+      },
+      {
+        "id": 137,
+        "question": "Please be advised that municipal beach-patrol staff members will be walking along the beach **___**(137) to check for passes such as the ones we are providing.",
+        "options": {
+          "A": "regular",
+          "B": "regularly",
+          "C": "regulate",
+          "D": "regulation"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Tính từ, có nghĩa là 'thường xuyên, đều đặn'. Không thể bổ nghĩa trực tiếp cho động từ 'walking'.",
+              "B": "Trạng từ, có nghĩa là 'một cách thường xuyên, đều đặn'. Bổ nghĩa cho động từ 'walking', chỉ cách thức đi lại của nhân viên tuần tra.",
+              "C": "Động từ, có nghĩa là 'điều chỉnh, quy định'. Không phù hợp với ngữ cảnh.",
+              "D": "Danh từ, có nghĩa là 'quy định'. Không phù hợp với ngữ cảnh."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. regularly",
+            "sentence_explanation": "💬 Xin lưu ý rằng các nhân viên tuần tra bãi biển của thành phố sẽ đi dọc bãi biển thường xuyên để kiểm tra thẻ đi biển mà chúng tôi cung cấp. 'Regularly' là một trạng từ cần thiết để bổ nghĩa cho động từ 'walking', chỉ tần suất hoạt động tuần tra.",
+            "translation": "Xin lưu ý rằng các nhân viên tuần tra bãi biển của thành phố sẽ đi dọc bãi biển thường xuyên để kiểm tra thẻ đi biển mà chúng tôi cung cấp.",
+            "vocab_notes": "📘 Ghi nhớ: municipal (adj): thuộc thành phố, đô thị; beach-patrol staff (n): nhân viên tuần tra bãi biển; pass (n): thẻ, vé.",
+            "grammar_notes": "👉 Trạng từ 'regularly' được dùng để bổ nghĩa cho động từ 'walking', mô tả cách thức hoặc tần suất của hành động."
+          }
+        }
+      },
+      {
+        "id": 138,
+        "question": "**___**(138). Make sure to get your pass and avoid the possible penalty.",
+        "options": {
+          "A": "Take all personal belongings with you when you leave the beach.",
+          "B": "Sadly, having to pay for the beach is a growing phenomenon nationwide.",
+          "C": "A fine will be imposed on anyone who has not secured passes for local beaches.",
+          "D": "We will also provide beach towels for any guest who asks for one."
+        },
+        "answer": "C",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Không liên quan đến việc kiểm tra thẻ và tránh hình phạt.",
+              "B": "Không phải là lời khuyên trực tiếp liên quan đến thẻ đi biển và hình phạt.",
+              "C": "Câu này giải thích hậu quả của việc không có thẻ, cụ thể là 'A fine will be imposed' (một khoản tiền phạt sẽ được áp dụng), điều này liên kết trực tiếp với 'possible penalty' (hình phạt có thể xảy ra) trong câu tiếp theo.",
+              "D": "Không liên quan đến việc kiểm tra thẻ và tránh hình phạt."
+            },
+            "correct_answer": "✅ Đáp án đúng: C. A fine will be imposed on anyone who has not secured passes for local beaches.",
+            "sentence_explanation": "💬 Câu trước nói về việc kiểm tra thẻ, và câu sau khuyên 'Make sure to get your pass and avoid the possible penalty'. Câu C giải thích chính xác 'possible penalty' đó là gì (tiền phạt), tạo sự liên kết chặt chẽ về ý nghĩa.",
+            "translation": "Xin lưu ý rằng các nhân viên tuần tra bãi biển của thành phố sẽ đi dọc bãi biển thường xuyên để kiểm tra thẻ đi biển mà chúng tôi cung cấp. Một khoản tiền phạt sẽ được áp dụng cho bất kỳ ai không có thẻ đi biển địa phương. Hãy đảm bảo lấy thẻ của bạn và tránh những hình phạt có thể xảy ra.",
+            "vocab_notes": "📘 Ghi nhớ: impose (v): áp đặt; penalty (n): hình phạt; secure (v): có được, lấy được.",
+            "grammar_notes": "👉 Sự liên kết về từ vựng giữa 'A fine will be imposed' và 'possible penalty' là yếu tố chính để chọn đáp án này."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 3,
+    "title": "Workplace Improvements",
+    "context": "As part of our commitment to providing a comfortable environment for our employees, maintenance work will begin this week with the goal of **___**(139) individual work spaces. The work will proceed in stages. First, new carpeting will be installed tomorrow in each office and cubicle. To help ensure that this project **___**(140) smoothly, please remove all personal items from the floor in your work area before you leave today. **___**(141), open metal bookcases will be replaced later in the week with state-of-the-art, high-density plastic bookshelves with sliding doors. We are confident that these initiatives will improve the appearance of work spaces throughout the company. **___**(142). Thank you in advance for your understanding and cooperation.",
+    "questions": [
+      {
+        "id": 139,
+        "question": "maintenance work will begin this week with the goal of **___**(139) individual work spaces.",
+        "options": {
+          "A": "combining",
+          "B": "enhancing",
+          "C": "cleaning",
+          "D": "reassigning"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Danh động từ, có nghĩa là 'kết hợp'. Không phù hợp với mục tiêu tạo môi trường thoải mái.",
+              "B": "Danh động từ, có nghĩa là 'nâng cao, cải thiện'. Rất phù hợp với mục tiêu 'providing a comfortable environment' (cung cấp một môi trường thoải mái) và 'improve the appearance' (cải thiện diện mạo) của các không gian làm việc.",
+              "C": "Danh động từ, có nghĩa là 'dọn dẹp'. Mặc dù có thể là một phần của bảo trì, nhưng 'nâng cao' bao quát ý nghĩa cải thiện tổng thể hơn.",
+              "D": "Danh động từ, có nghĩa là 'phân công lại'. Không liên quan đến việc cải thiện không gian vật lý."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. enhancing",
+            "sentence_explanation": "💬 Công việc bảo trì sẽ bắt đầu trong tuần này với mục tiêu nâng cao không gian làm việc cá nhân. Từ 'enhancing' (nâng cao, cải thiện) phù hợp nhất với việc 'providing a comfortable environment' và 'improve the appearance' của các không gian làm việc.",
+            "translation": "Là một phần trong cam kết của chúng tôi nhằm cung cấp một môi trường thoải mái cho nhân viên, công việc bảo trì sẽ bắt đầu trong tuần này với mục tiêu nâng cao không gian làm việc cá nhân.",
+            "vocab_notes": "📘 Ghi nhớ: commitment (n): cam kết; comfortable environment (n): môi trường thoải mái; enhance (v): nâng cao, cải thiện.",
+            "grammar_notes": "👉 'the goal of + V-ing' (mục tiêu của việc làm gì) là cấu trúc đúng. 'Enhancing' thể hiện mục đích cải thiện chất lượng."
+          }
+        }
+      },
+      {
+        "id": 140,
+        "question": "To help ensure that this project **___**(140) smoothly, please remove all personal items from the floor in your work area before you leave today.",
+        "options": {
+          "A": "running",
+          "B": "runs",
+          "C": "ran",
+          "D": "to run"
+        },
+        "answer": "B",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Dạng V-ing, không phù hợp sau 'that' trong mệnh đề cần một động từ chia theo thì.",
+              "B": "Động từ chia ở thì hiện tại đơn, ngôi thứ ba số ít (project là chủ ngữ số ít). Cụm từ 'the project runs smoothly' (dự án diễn ra suôn sẻ) là cách diễn đạt đúng và phù hợp với ngữ cảnh hiện tại.",
+              "C": "Động từ chia ở thì quá khứ đơn. Không phù hợp vì dự án chưa bắt đầu hoặc đang trong giai đoạn lên kế hoạch thực hiện.",
+              "D": "Dạng nguyên thể có 'to'. Không phù hợp sau 'that' trong mệnh đề phụ cần một động từ chia thì."
+            },
+            "correct_answer": "✅ Đáp án đúng: B. runs",
+            "sentence_explanation": "💬 Để giúp đảm bảo rằng dự án này diễn ra suôn sẻ, vui lòng dọn tất cả vật dụng cá nhân khỏi sàn trong khu vực làm việc của bạn trước khi bạn rời đi hôm nay. Mệnh đề 'that this project runs smoothly' cần một động từ chia thì tương ứng với chủ ngữ 'this project' (số ít) và ngữ cảnh hiện tại/tương lai.",
+            "translation": "Để giúp đảm bảo rằng dự án này diễn ra suôn sẻ, vui lòng dọn tất cả vật dụng cá nhân khỏi sàn trong khu vực làm việc của bạn trước khi bạn rời đi hôm nay.",
+            "vocab_notes": "📘 Ghi nhớ: ensure (v): đảm bảo; smoothly (adv): suôn sẻ.",
+            "grammar_notes": "👉 Trong mệnh đề phụ bắt đầu bằng 'that' sau động từ 'ensure', động từ phải được chia theo chủ ngữ và thì. Với 'this project' (số ít) và ngữ cảnh hiện tại/tương lai, thì hiện tại đơn 'runs' là phù hợp."
+          }
+        }
+      },
+      {
+        "id": 141,
+        "question": "**___**(141), open metal bookcases will be replaced later in the week with state-of-the-art, high-density plastic bookshelves with sliding doors.",
+        "options": {
+          "A": "For example",
+          "B": "Normally",
+          "C": "Next",
+          "D": "In summary"
+        },
+        "answer": "C",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Trạng từ liên kết, có nghĩa là 'ví dụ'. Dùng để đưa ra ví dụ, không phải trình tự thời gian.",
+              "B": "Trạng từ, có nghĩa là 'thông thường'. Không phù hợp để chỉ trình tự các bước.",
+              "C": "Trạng từ liên kết, có nghĩa là 'tiếp theo'. Rất phù hợp để chỉ bước tiếp theo trong chuỗi các công việc bảo trì ('First, new carpeting... Then, Next, open metal bookcases will be replaced').",
+              "D": "Trạng từ liên kết, có nghĩa là 'tóm lại'. Dùng để kết luận, không phải để chỉ trình tự."
+            },
+            "correct_answer": "✅ Đáp án đúng: C. Next",
+            "sentence_explanation": "💬 Câu trước nói về việc lắp đặt thảm mới ('First, new carpeting...'). Câu này nói về việc thay thế kệ sách. 'Next' (tiếp theo) là từ nối phù hợp nhất để thể hiện trình tự các công việc trong dự án.",
+            "translation": "Đầu tiên, thảm mới sẽ được lắp đặt vào ngày mai trong mỗi văn phòng và buồng làm việc. Tiếp theo, các tủ sách kim loại mở sẽ được thay thế vào cuối tuần này bằng các tủ sách nhựa mật độ cao, hiện đại với cửa trượt.",
+            "vocab_notes": "📘 Ghi nhớ: state-of-the-art (adj): hiện đại, tiên tiến nhất; high-density (adj): mật độ cao; sliding doors (n): cửa trượt.",
+            "grammar_notes": "👉 'Next' là một trạng từ liên kết chỉ trình tự thời gian, nối liền hai hành động khác nhau trong một chuỗi sự kiện được mô tả."
+          }
+        }
+      },
+      {
+        "id": 142,
+        "question": "We are confident that these initiatives will improve the appearance of work spaces throughout the company. **___**(142). Thank you in advance for your understanding and cooperation.",
+        "options": {
+          "A": "We regret any inconvenience these measures may cause this week.",
+          "B": "We are proud of the financial services we provide to our loyal customers.",
+          "C": "The metal bookshelves were installed only five years ago.",
+          "D": "Books are always welcome at local charities."
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Câu này thể hiện sự hối tiếc về những bất tiện có thể xảy ra do công việc bảo trì, là một lời kết lịch sự và chuyên nghiệp trong thông báo về cải tạo. Nó trực tiếp liên quan đến ngữ cảnh của các công việc đang diễn ra.",
+              "B": "Không liên quan đến chủ đề cải tạo văn phòng.",
+              "C": "Thông tin không cần thiết và không phù hợp với lời cảm ơn cuối cùng.",
+              "D": "Không liên quan đến cải tạo văn phòng hoặc lời cảm ơn."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. We regret any inconvenience these measures may cause this week.",
+            "sentence_explanation": "💬 Chúng tôi tin rằng những sáng kiến này sẽ cải thiện diện mạo không gian làm việc trong toàn công ty. Chúng tôi rất tiếc về bất kỳ sự bất tiện nào mà các biện pháp này có thể gây ra trong tuần này. Cảm ơn trước về sự thông cảm và hợp tác của bạn. Câu A là lời xin lỗi cần thiết cho những phiền toái mà công việc cải tạo có thể gây ra, nối liền một cách hợp lý với lời cảm ơn về sự thông cảm và hợp tác.",
+            "translation": "Chúng tôi tin rằng những sáng kiến này sẽ cải thiện diện mạo không gian làm việc trong toàn công ty. Chúng tôi rất tiếc về bất kỳ sự bất tiện nào mà các biện pháp này có thể gây ra trong tuần này. Cảm ơn trước về sự thông cảm và hợp tác của bạn.",
+            "vocab_notes": "📘 Ghi nhớ: initiative (n): sáng kiến; regret (v): hối tiếc; inconvenience (n): sự bất tiện; measure (n): biện pháp.",
+            "grammar_notes": "👉 Câu được chọn phải là một câu kết thúc mang tính chất giao tiếp, phù hợp với lời cảm ơn về sự hợp tác khi có các công việc gây gián đoạn."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "passage_id": 4,
+    "title": "The Newly Renovated Clairmont Cinema",
+    "context": "BRISTOL (12 September)—After six months, the Clairmont Cinema has finally reopened. Since the owners were **___**(143) about their plans, filmgoers were not sure what to expect when the doors opened last night. The biggest change is that there are now three theatres inside the complex instead of just one. **___**(144). On the one hand, filmgoers now have access to more of the independent films that Clairmont Cinema has long been proud of offering. On the other hand, these films are showing on very small screens. **___**(145), I felt like I was at home watching television. Still, the multiple offerings are fantastic, as is the new refreshment stand, so I encourage all film lovers to discover for **___**(146) what the new Clairmont Cinema has to offer.",
+    "questions": [
+      {
+        "id": 143,
+        "question": "Since the owners were **___**(143) about their plans, filmgoers were not sure what to expect when the doors opened last night.",
+        "options": {
+          "A": "vague",
+          "B": "flexible",
+          "C": "joyful",
+          "D": "encouraging"
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Tính từ, có nghĩa là 'mơ hồ, không rõ ràng'. Nếu chủ sở hữu không rõ ràng về kế hoạch, khán giả sẽ không biết nên mong đợi điều gì.",
+              "B": "Tính từ, có nghĩa là 'lin hoạt'. Không phù hợp với việc khán giả không chắc chắn điều gì.",
+              "C": "Tính từ, có nghĩa là 'vui vẻ, hân hoan'. Không liên quan đến sự không chắc chắn của khán giả.",
+              "D": "Tính từ, có nghĩa là 'khuyến khích'. Không phù hợp với ngữ cảnh gây ra sự không chắc chắn."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. vague",
+            "sentence_explanation": "💬 Kể từ khi các chủ sở hữu không rõ ràng về kế hoạch của họ, những người yêu điện ảnh đã không chắc chắn nên mong đợi điều gì khi rạp mở cửa tối qua. 'Vague' mô tả sự thiếu rõ ràng, dẫn đến sự không chắc chắn của khán giả.",
+            "translation": "Kể từ khi các chủ sở hữu không rõ ràng về kế hoạch của họ, những người yêu điện ảnh đã không chắc chắn nên mong đợi điều gì khi rạp mở cửa tối qua.",
+            "vocab_notes": "📘 Ghi nhớ: reopen (v): mở cửa lại; filmgoer (n): người xem phim; expect (v): mong đợi; vague (adj): mơ hồ, không rõ ràng.",
+            "grammar_notes": "👉 'to be vague about something' (không rõ ràng về điều gì) là một cách diễn đạt đúng ngữ pháp."
+          }
+        }
+      },
+      {
+        "id": 144,
+        "question": "**___**(144). On the one hand, filmgoers now have access to more of the independent films that Clairmont Cinema has long been proud of offering. On the other hand, these films are showing on very small screens.",
+        "options": {
+          "A": "This has advantages and disadvantages.",
+          "B": "A large number of filmgoers came to the reopening.",
+          "C": "Big changes are often difficult but necessary.",
+          "D": "The owners will likely enjoy significant profits."
+        },
+        "answer": "A",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Câu này giới thiệu một sự phân tích hai mặt, điều này được chứng minh bởi các câu tiếp theo 'On the one hand...' (một mặt là ưu điểm) và 'On the other hand...' (mặt khác là nhược điểm).",
+              "B": "Không liên quan trực tiếp đến sự thay đổi về số lượng rạp chiếu và hậu quả của nó.",
+              "C": "Mặc dù đúng về mặt tổng quát, nhưng không cụ thể giải thích cho cấu trúc 'On the one hand... On the other hand...' sắp tới.",
+              "D": "Không phù hợp vì bài báo đang nói về trải nghiệm của khán giả và các thay đổi, không phải về lợi nhuận của chủ sở hữu."
+            },
+            "correct_answer": "✅ Đáp án đúng: A. This has advantages and disadvantages.",
+            "sentence_explanation": "💬 Thay đổi lớn nhất là hiện có ba rạp chiếu bên trong khu phức hợp thay vì chỉ một. Điều này có những ưu điểm và nhược điểm. Một mặt, những người yêu điện ảnh giờ đây có thể tiếp cận nhiều hơn các bộ phim độc lập mà Rạp chiếu phim Clairmont từ lâu đã tự hào giới thiệu. Mặt khác, những bộ phim này đang được chiếu trên màn hình rất nhỏ. Câu A là câu dẫn hoàn hảo cho việc trình bày hai mặt lợi và hại của sự thay đổi.",
+            "translation": "Thay đổi lớn nhất là hiện có ba rạp chiếu bên trong khu phức hợp thay vì chỉ một. Điều này có những ưu điểm và nhược điểm. Một mặt, những người yêu điện ảnh giờ đây có thể tiếp cận nhiều hơn các bộ phim độc lập mà Rạp chiếu phim Clairmont từ lâu đã tự hào giới thiệu. Mặt khác, những bộ phim này đang được chiếu trên màn hình rất nhỏ.",
+            "vocab_notes": "📘 Ghi nhớ: complex (n): khu phức hợp; independent films (n): phim độc lập; on the one hand... on the other hand...: một mặt... mặt khác...",
+            "grammar_notes": "👉 Cấu trúc 'On the one hand... On the other hand...' luôn được dùng để trình bày hai khía cạnh, thường là ưu và nhược điểm, của một vấn đề. Câu dẫn phải khái quát được điều này."
+          }
+        }
+      },
+      {
+        "id": 145,
+        "question": "On the other hand, these films are showing on very small screens. **___**(145), I felt like I was at home watching television.",
+        "options": {
+          "A": "Instead",
+          "B": "Regardless",
+          "C": "In conclusion",
+          "D": "In fact"
+        },
+        "answer": "D",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Trạng từ liên kết, có nghĩa là 'thay vì'. Dùng để thay thế cho một lựa chọn khác.",
+              "B": "Trạng từ liên kết, có nghĩa là 'bất kể', 'dù sao đi nữa'. Dùng để chỉ một điều vẫn đúng bất chấp một điều khác.",
+              "C": "Trạng từ liên kết, có nghĩa là 'tóm lại, kết luận'. Dùng để đưa ra kết luận.",
+              "D": "Trạng từ liên kết, có nghĩa là 'thực tế là', 'quả thực'. Dùng để nhấn mạnh, bổ sung một chi tiết hoặc xác nhận một điều gì đó đúng, thường là một điều bất ngờ hoặc đáng chú ý. Ở đây, nó nhấn mạnh cảm giác xem phim trên màn hình nhỏ giống như xem TV ở nhà."
+            },
+            "correct_answer": "✅ Đáp án đúng: D. In fact",
+            "sentence_explanation": "💬 Mặt khác, những bộ phim này đang được chiếu trên màn hình rất nhỏ. Thực tế là, tôi cảm thấy như đang ở nhà xem TV. 'In fact' được sử dụng để bổ sung hoặc nhấn mạnh một thông tin chi tiết hoặc một sự thật gây bất ngờ, làm rõ thêm về trải nghiệm tiêu cực của việc xem phim trên màn hình nhỏ.",
+            "translation": "Mặt khác, những bộ phim này đang được chiếu trên màn hình rất nhỏ. Thực tế là, tôi cảm thấy như đang ở nhà xem TV.",
+            "vocab_notes": "📘 Ghi nhớ: in fact: thực tế là; watching television: xem TV.",
+            "grammar_notes": "👉 'In fact' thường dùng để đưa ra một sự thật bất ngờ hoặc một chi tiết cụ thể để củng cố/làm rõ ý trước đó."
+          }
+        }
+      },
+      {
+        "id": 146,
+        "question": "so I encourage all film lovers to discover for **___**(146) what the new Clairmont Cinema has to offer.",
+        "options": {
+          "A": "them",
+          "B": "oneself",
+          "C": "themselves",
+          "D": "itself"
+        },
+        "answer": "D",
+        "explanation": {
+          "vi": {
+            "option_analysis": {
+              "A": "Đại từ tân ngữ số nhiều. Không phù hợp vì 'what the new Clairmont Cinema has to offer' là một mệnh đề danh từ, và 'for' cần một đại từ phản thân hoặc danh từ để hoàn thành cụm 'discover for X'.",
+              "B": "Đại từ phản thân, có nghĩa là 'chính mình'. Dùng cho chủ ngữ không xác định 'one'.",
+              "C": "Đại từ phản thân số nhiều, có nghĩa là 'chính họ'. Không phù hợp vì chủ ngữ là 'all film lovers', nhưng đối tượng của 'discover for X' là rạp chiếu phim.",
+              "D": "Đại từ phản thân, có nghĩa là 'chính nó'. Ở đây 'itself' là đại từ phản thân của 'the new Clairmont Cinema', ngụ ý khám phá những gì rạp chiếu phim mới này tự thân nó (bản chất của nó) có thể mang lại. Đây là cách diễn đạt đúng ngữ pháp trong ngữ cảnh này."
+            },
+            "correct_answer": "✅ Đáp án đúng: D. itself",
+            "sentence_explanation": "💬 ...vì vậy tôi khuyến khích tất cả những người yêu điện ảnh hãy tự khám phá những gì Rạp chiếu phim Clairmont mới này mang lại. 'Itself' là đại từ phản thân của 'the new Clairmont Cinema', nhấn mạnh việc khám phá chính bản thân rạp chiếu phim và những điều nó cung cấp.",
+            "translation": "Vẫn vậy, nhiều dịch vụ rất tuyệt vời, cũng như quầy giải khát mới, vì vậy tôi khuyến khích tất cả những người yêu điện ảnh hãy tự khám phá những gì Rạp chiếu phim Clairmont mới này mang lại.",
+            "vocab_notes": "📘 Ghi nhớ: refreshment stand (n): quầy giải khát; encourage (v): khuyến khích; discover (v): khám phá.",
+            "grammar_notes": "👉 Cụm động từ 'discover for itself/oneself/themselves' có nghĩa là 'tự mình khám phá'. Trong trường hợp này, 'the new Clairmont Cinema' là chủ thể của 'to offer', vì vậy 'itself' là đại từ phản thân đúng để chỉ đến rạp chiếu phim đó."
+          }
+        }
+      }
+    ]
+  }
+]
