@@ -36,7 +36,7 @@ export default function TestList({
     }
   };
 
-  if (tests.length === 0) {
+  if (tests?.length === 0) {
     return (
       <div className="text-center py-12">
         <div className="text-6xl mb-4">📝</div>
@@ -51,7 +51,7 @@ export default function TestList({
   return (
     <div>
       <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">
-        📋 Danh Sách Bài Test ({tests.length})
+        📋 Danh Sách Bài Test ({tests?.length})
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -84,7 +84,7 @@ export default function TestList({
                 </div>
                 <div className="flex justify-between text-sm text-gray-600">
                   <span>📝 Số câu:</span>
-                  <span>{test.answers.length}</span>
+                  <span>{test?.answers?.length}</span>
                 </div>
                 <div className="flex justify-between text-sm text-gray-600">
                   <span>🔄 Cập nhật:</span>

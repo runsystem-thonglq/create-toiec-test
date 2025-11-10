@@ -13,9 +13,13 @@ export default function Home() {
     "list"
   );
   const [selectedTest, setSelectedTest] = useState<TestData | null>(null);
-
+  const getAllTest = async () => {
+    const res = await TestManager.getAllTests();
+    console.log(res, 32323);
+    setTests(res);
+  };
   useEffect(() => {
-    setTests(TestManager.getAllTests());
+    getAllTest();
   }, []);
 
   const handleCreateTest = (
@@ -28,13 +32,13 @@ export default function Home() {
     } else {
       TestManager.saveTest(titleOrTest);
     }
-    setTests(TestManager.getAllTests());
+    getAllTest();
     setCurrentView("list");
   };
 
   const handleDeleteTest = (testId: string) => {
     TestManager.deleteTest(testId);
-    setTests(TestManager.getAllTests());
+    getAllTest();
   };
 
   const handleStartTest = (test: TestData, customTimeLimit?: number) => {

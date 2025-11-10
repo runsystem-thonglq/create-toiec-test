@@ -1,15 +1,15 @@
 import { TestData, Answer } from "@/types";
+import axiosInstance from "@/utils/axios";
 
 export class TestManager {
-  private static readonly STORAGE_KEY = "toeic-tests";
-
   // Get all tests from localStorage
-  static getAllTests(): TestData[] {
+  static async getAllTests(): Promise<TestData[]> {
     if (typeof window === "undefined") return [];
 
     try {
-      const stored = localStorage.getItem(this.STORAGE_KEY);
-      return stored ? JSON.parse(stored) : [];
+      const res = await axiosInstance.get("/toeic");
+      console.log(res, 222, res.data);
+      return res;
     } catch (error) {
       console.error("Error loading tests:", error);
       return [];
@@ -21,16 +21,14 @@ export class TestManager {
     if (typeof window === "undefined") return;
 
     try {
-      const tests = this.getAllTests();
-      const existingIndex = tests.findIndex((test) => test.id === testData.id);
-
-      if (existingIndex !== -1) {
-        tests[existingIndex] = testData;
-      } else {
-        tests.push(testData);
-      }
-
-      localStorage.setItem(this.STORAGE_KEY, JSON.stringify(tests));
+      // const tests = this.getAllTests();
+      // const existingIndex = tests.findIndex((test) => test.id === testData.id);
+      // if (existingIndex !== -1) {
+      //   tests[existingIndex] = testData;
+      // } else {
+      //   tests.push(testData);
+      // }
+      // localStorage.setItem(this.STORAGE_KEY, JSON.stringify(tests));
     } catch (error) {
       console.error("Error saving test:", error);
     }
@@ -41,18 +39,23 @@ export class TestManager {
     if (typeof window === "undefined") return;
 
     try {
-      const tests = this.getAllTests();
-      const filteredTests = tests.filter((test) => test.id !== testId);
-      localStorage.setItem(this.STORAGE_KEY, JSON.stringify(filteredTests));
+      // const tests = this.getAllTests();
+      // const filteredTests = tests.filter((test) => test.id !== testId);
+      // localStorage.setItem(this.STORAGE_KEY, JSON.stringify(filteredTests));
     } catch (error) {
       console.error("Error deleting test:", error);
     }
   }
 
   // Get a specific test by ID
-  static getTest(testId: string): TestData | null {
-    const tests = this.getAllTests();
-    return tests.find((test) => test.id === testId) || null;
+  static async getTest(testId: string): Promise<TestData> {
+    try {
+      const res = await axiosInstance.get(`toeic/${testId}`);
+      return res.data as TestData;
+    } catch (error) {
+      console.error("Error loading tests:", error);
+      return {} as TestData;
+    }
   }
 
   // Generate random answers for testing
