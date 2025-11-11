@@ -13,7 +13,7 @@ ví dụ: 101. Lawrence Paper is dedicated to helping employees fulfill their po
 ---
 
 YÊU CẦU XUẤT DỮ LIỆU DẠNG JSON, ĐẢM BẢO CÓ THỂ PARSE RA ĐƯỢC,KHÔNG CÓ VĂN BẢN THỪA.  
-Mỗi câu hỏi là một object có cấu trúc:
+Mỗi câu hỏi là một object có cấu trúc, vi du:
 
 [
 {

@@ -1,13 +1,15 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, use } from "react";
 import { TestData } from "@/types";
 import { TestManager } from "@/lib/testManager";
 import TestList from "@/components/TestList";
 import TestCreator from "@/components/TestCreator";
 import TestRunner from "@/components/TestRunner";
+import { useRouter } from "next/navigation";
 
 export default function Home() {
+  const router = useRouter();
   const [tests, setTests] = useState<TestData[]>([]);
   const [currentView, setCurrentView] = useState<"list" | "create" | "test">(
     "list"
@@ -26,12 +28,12 @@ export default function Home() {
     titleOrTest: string | TestData,
     description?: string
   ) => {
-    if (typeof titleOrTest === "string") {
-      const newTest = TestManager.createNewTest(titleOrTest, description);
-      TestManager.saveTest(newTest);
-    } else {
-      TestManager.saveTest(titleOrTest);
-    }
+    // if (typeof titleOrTest === "string") {
+    //   const newTest = TestManager.createNewTest(titleOrTest, description);
+    //   TestManager.saveTest(newTest);
+    // } else {
+    //   TestManager.saveTest(titleOrTest);
+    // }
     getAllTest();
     setCurrentView("list");
   };
@@ -42,8 +44,7 @@ export default function Home() {
   };
 
   const handleStartTest = (test: TestData, customTimeLimit?: number) => {
-    setSelectedTest({ ...test, timeLimitMinutes: customTimeLimit });
-    setCurrentView("test");
+    router.push(`/${test.id}`);
   };
 
   const handleBackToList = () => {

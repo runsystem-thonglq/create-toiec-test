@@ -7,7 +7,7 @@ export interface TestData {
   id: string;
   title: string;
   description?: string;
-  answers: Answer[];
+  answers?: Answer[];
   timeLimitMinutes?: number;
   dataFile?: string; // public URL like /tests/xxx.json
   createdAt: string;

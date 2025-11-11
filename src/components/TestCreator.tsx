@@ -36,36 +36,31 @@ export default function TestCreator({
         form.append("file", pdfFile);
         form.append("title", title.trim());
         form.append("description", description.trim());
-        form.append("timeLimit", String(timeLimit));
+        form.append("time_limit", String(timeLimit));
 
-        const res = await fetch("/toeic/api/generate-test", {
-          method: "POST",
-          body: form,
-        });
-        if (!res.ok) throw new Error("Không tạo được dữ liệu từ AI");
-        const data: {
-          file: string;
-          answers: { id: number; value: "A" | "B" | "C" | "D" }[];
-        } = await res.json();
+        // const data: {
+        //   file: string;
+        //   answers: { id: number; value: "A" | "B" | "C" | "D" }[];
+        // } = await res.json();
 
         const test = TestManager.createFromAI({
           title: title.trim(),
           description: description.trim() || undefined,
           timeLimitMinutes: timeLimit,
-          answers: data.answers as Answer[],
-          dataFile: `/toeic/${data.file}`,
+          // answers: data.answers as Answer[],
+          // dataFile: `/toeic/${data.file}`,
         });
-        TestManager.saveTest(test);
+        await TestManager.saveTest(form);
         onCreateTest(test);
       } else {
-        // fallback: no PDF -> create random answers
-        const test = TestManager.createNewTest(
-          title.trim(),
-          description.trim() || undefined
-        );
-        test.timeLimitMinutes = timeLimit;
-        TestManager.saveTest(test);
-        onCreateTest(test);
+        // // fallback: no PDF -> create random answers
+        // const test = TestManager.createNewTest(
+        //   title.trim(),
+        //   description.trim() || undefined
+        // );
+        // test.timeLimitMinutes = timeLimit;
+        // TestManager.saveTest(test);
+        // onCreateTest(test);
       }
     } catch (e) {
       alert((e as Error).message);

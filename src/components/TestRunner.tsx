@@ -68,15 +68,14 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
   // Load questions from attached data file if provided
   useEffect(() => {
     const load = async () => {
-      if (test.dataFile) {
+      if (test) {
         try {
-          const res = await fetch(test.dataFile);
-          const json = await res.json();
-          if (Array.isArray(json)) {
+          console.log("Loading test data file:", test);
+          if (Array.isArray(test)) {
             const p5: Part5Question[] = [];
             const p6: Part6Passage[] = [];
             const p7: Part7Passage[] = [];
-            for (const item of json as CombinedItem[]) {
+            for (const item of test as CombinedItem[]) {
               if ((item as any)?.part === 5) p5.push(item as Part5Question);
               else if ((item as any)?.part === 6) p6.push(item as Part6Passage);
               else if ((item as any)?.part === 7) p7.push(item as Part7Passage);
@@ -87,7 +86,7 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
             if (p5.length && !p6.length && !p7.length)
               setQuestions(p5 as unknown as Question[]);
           } else {
-            setQuestions(json as Question[]);
+            setQuestions([]);
           }
         } catch (e) {
           console.error("Cannot load test dataFile, fallback to default", e);
@@ -95,7 +94,8 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
       }
     };
     load();
-  }, [test.dataFile]);
+    console.log("Test data loaded:", test);
+  }, [test]);
 
   // Build correct answers map from JSON
   const correctAnswerMap = useMemo(() => {

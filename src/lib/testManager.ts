@@ -9,7 +9,7 @@ export class TestManager {
     try {
       const res = await axiosInstance.get("/toeic");
       console.log(res, 222, res.data);
-      return res;
+      return res.data;
     } catch (error) {
       console.error("Error loading tests:", error);
       return [];
@@ -17,18 +17,16 @@ export class TestManager {
   }
 
   // Save a test to localStorage
-  static saveTest(testData: TestData): void {
+  static async saveTest(form: FormData): Promise<void> {
     if (typeof window === "undefined") return;
 
     try {
-      // const tests = this.getAllTests();
-      // const existingIndex = tests.findIndex((test) => test.id === testData.id);
-      // if (existingIndex !== -1) {
-      //   tests[existingIndex] = testData;
-      // } else {
-      //   tests.push(testData);
-      // }
-      // localStorage.setItem(this.STORAGE_KEY, JSON.stringify(tests));
+      const res = await axiosInstance.post("/toeic", form, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+        },
+      });
+      return res.data;
     } catch (error) {
       console.error("Error saving test:", error);
     }
@@ -88,7 +86,7 @@ export class TestManager {
     title: string;
     description?: string;
     timeLimitMinutes?: number;
-    answers: Answer[];
+    answers?: Answer[];
     dataFile?: string;
   }): TestData {
     const now = new Date().toISOString();
