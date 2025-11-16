@@ -64,6 +64,8 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
   const [highlightContent, setHighlightContent] = useState(true);
   const [isReview, setIsReview] = useState(false);
   const [timeLeft, setTimeLeft] = useState((test.timeLimitMinutes || 45) * 60);
+  const [showAside, setShowAside] = useState(false);
+  const [showScrollTop, setShowScrollTop] = useState(false);
 
   // Load questions from attached data file if provided
   useEffect(() => {
@@ -151,6 +153,19 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
     return () => clearInterval(id);
   }, [isReview]);
 
+  // Scroll to top button visibility
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowScrollTop(window.scrollY > 300);
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   const formatTime = (sec: number) => {
     const m = Math.floor(sec / 60)
       .toString()
@@ -224,6 +239,194 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-[1fr_200px] gap-6 relative">
+      {/* Backdrop overlay for mobile menu */}
+      {showAside && (
+        <div
+          className="lg:hidden fixed inset-0 bg-black bg-opacity-50 z-40"
+          onClick={() => setShowAside(false)}
+        />
+      )}
+
+      {/* Toggle menu button - visible only on small screens */}
+      <button
+        onClick={() => setShowAside(!showAside)}
+        className="lg:hidden fixed top-4 right-4 z-50 bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 transition-colors"
+        aria-label="Toggle menu"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          className="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          {showAside ? (
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M6 18L18 6M6 6l12 12"
+            />
+          ) : (
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M4 6h16M4 12h16M4 18h16"
+            />
+          )}
+        </svg>
+      </button>
+
+      {/* Scroll to top button */}
+      {showScrollTop && (
+        <button
+          onClick={scrollToTop}
+          className="fixed bottom-6 right-6 z-50 bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 transition-all duration-300"
+          aria-label="Scroll to top"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M5 10l7-7m0 0l7 7m-7-7v18"
+            />
+          </svg>
+        </button>
+      )}
+
+      <aside
+        className={`h-fit lg:fixed lg:right-6 lg:top-24 lg:w-80 ${
+          showAside
+            ? "fixed top-16 right-4 left-4 z-50 lg:block"
+            : "hidden lg:block"
+        }`}
+      >
+        <div className="card">
+          <div className="p-4 space-y-4">
+            <div className="flex items-center justify-between">
+              <div className="font-semibold">Thời gian làm bài</div>
+              <div
+                className={`px-3 py-1 rounded text-white ${
+                  timeLeft === 0 ? "bg-red-600" : "bg-slate-700"
+                }`}
+              >
+                {formatTime(timeLeft)}
+              </div>
+            </div>
+
+            <div className="flex items-center gap-2">
+              <input
+                id="highlight"
+                type="checkbox"
+                className="scale-110"
+                checked={highlightContent}
+                onChange={(e) => setHighlightContent(e.target.checked)}
+              />
+              <label htmlFor="highlight" className="text-sm">
+                Highlight nội dung
+              </label>
+            </div>
+
+            {part5.length + part6.length + part7.length > 0 && (
+              <div className="space-y-2">
+                <div className="font-semibold">Chọn phần</div>
+                <label className="flex items-center gap-2 text-sm">
+                  <input
+                    type="checkbox"
+                    checked={selectedParts[5]}
+                    onChange={(e) =>
+                      setSelectedParts((s) => ({ ...s, 5: e.target.checked }))
+                    }
+                  />
+                  <span>Part 5</span>
+                </label>
+                <label className="flex items-center gap-2 text-sm">
+                  <input
+                    type="checkbox"
+                    checked={selectedParts[6]}
+                    onChange={(e) =>
+                      setSelectedParts((s) => ({ ...s, 6: e.target.checked }))
+                    }
+                  />
+                  <span>Part 6</span>
+                </label>
+                <label className="flex items-center gap-2 text-sm">
+                  <input
+                    type="checkbox"
+                    checked={selectedParts[7]}
+                    onChange={(e) =>
+                      setSelectedParts((s) => ({ ...s, 7: e.target.checked }))
+                    }
+                  />
+                  <span>Part 7</span>
+                </label>
+              </div>
+            )}
+
+            <button
+              onClick={isReview ? resetAnswers : finishAndReview}
+              className={`w-full btn ${
+                isReview ? "btn-danger" : "btn-success"
+              }`}
+            >
+              {isReview ? "Làm lại" : "Nộp Bài"}
+            </button>
+
+            <div>
+              <div className="font-semibold mb-2">Câu hỏi</div>
+              <div className="grid grid-cols-5 gap-2 max-h-[500px] overflow-y-auto">
+                {(part5.length + part6.length + part7.length === 0
+                  ? questions
+                  : [
+                      ...(selectedParts[5]
+                        ? part5.map((q: any) => ({ id: q.id }))
+                        : []),
+                      ...(selectedParts[6]
+                        ? part6.flatMap((p: any) =>
+                            p.questions.map((q: any) => ({ id: q.id }))
+                          )
+                        : []),
+                      ...(selectedParts[7]
+                        ? part7.flatMap((p: any) =>
+                            p.questions.map((q: any) => ({ id: q.id }))
+                          )
+                        : []),
+                    ]
+                ).map((q: any, i: number) => {
+                  const userChoice = getUserChoice(q.id);
+                  const correct = correctAnswerMap.get(q.id);
+                  const stateClass = isReview
+                    ? userChoice
+                      ? userChoice === correct
+                        ? "bg-green-500 text-white"
+                        : "bg-red-500 text-white"
+                      : "bg-gray-200"
+                    : userChoice
+                    ? "bg-blue-600 text-white"
+                    : "bg-gray-100";
+                  return (
+                    <a
+                      key={q.id}
+                      href={`#q-${q.id}`}
+                      className={`text-center rounded p-2 text-xs ${stateClass}`}
+                    >
+                      {q.id}
+                    </a>
+                  );
+                })}
+              </div>
+            </div>
+          </div>
+        </div>
+      </aside>
       <div>
         <div className="flex items-center justify-between mb-4">
           <button onClick={onBack} className="btn btn-secondary">
@@ -462,126 +665,6 @@ export default function TestRunner({ test, onBack }: TestRunnerProps) {
           )}
         </div>
       </div>
-
-      <aside className="h-fit lg:fixed lg:right-6 lg:top-24 lg:w-80">
-        <div className="card">
-          <div className="p-4 space-y-4">
-            <div className="flex items-center justify-between">
-              <div className="font-semibold">Thời gian làm bài</div>
-              <div
-                className={`px-3 py-1 rounded text-white ${
-                  timeLeft === 0 ? "bg-red-600" : "bg-slate-700"
-                }`}
-              >
-                {formatTime(timeLeft)}
-              </div>
-            </div>
-
-            <div className="flex items-center gap-2">
-              <input
-                id="highlight"
-                type="checkbox"
-                className="scale-110"
-                checked={highlightContent}
-                onChange={(e) => setHighlightContent(e.target.checked)}
-              />
-              <label htmlFor="highlight" className="text-sm">
-                Highlight nội dung
-              </label>
-            </div>
-
-            {part5.length + part6.length + part7.length > 0 && (
-              <div className="space-y-2">
-                <div className="font-semibold">Chọn phần</div>
-                <label className="flex items-center gap-2 text-sm">
-                  <input
-                    type="checkbox"
-                    checked={selectedParts[5]}
-                    onChange={(e) =>
-                      setSelectedParts((s) => ({ ...s, 5: e.target.checked }))
-                    }
-                  />
-                  <span>Part 5</span>
-                </label>
-                <label className="flex items-center gap-2 text-sm">
-                  <input
-                    type="checkbox"
-                    checked={selectedParts[6]}
-                    onChange={(e) =>
-                      setSelectedParts((s) => ({ ...s, 6: e.target.checked }))
-                    }
-                  />
-                  <span>Part 6</span>
-                </label>
-                <label className="flex items-center gap-2 text-sm">
-                  <input
-                    type="checkbox"
-                    checked={selectedParts[7]}
-                    onChange={(e) =>
-                      setSelectedParts((s) => ({ ...s, 7: e.target.checked }))
-                    }
-                  />
-                  <span>Part 7</span>
-                </label>
-              </div>
-            )}
-
-            <button
-              onClick={isReview ? resetAnswers : finishAndReview}
-              className={`w-full btn ${
-                isReview ? "btn-danger" : "btn-success"
-              }`}
-            >
-              {isReview ? "Làm lại" : "Nộp Bài"}
-            </button>
-
-            <div>
-              <div className="font-semibold mb-2">Câu hỏi</div>
-              <div className="grid grid-cols-5 gap-2 max-h-[500px] overflow-y-auto">
-                {(part5.length + part6.length + part7.length === 0
-                  ? questions
-                  : [
-                      ...(selectedParts[5]
-                        ? part5.map((q: any) => ({ id: q.id }))
-                        : []),
-                      ...(selectedParts[6]
-                        ? part6.flatMap((p: any) =>
-                            p.questions.map((q: any) => ({ id: q.id }))
-                          )
-                        : []),
-                      ...(selectedParts[7]
-                        ? part7.flatMap((p: any) =>
-                            p.questions.map((q: any) => ({ id: q.id }))
-                          )
-                        : []),
-                    ]
-                ).map((q: any, i: number) => {
-                  const userChoice = getUserChoice(q.id);
-                  const correct = correctAnswerMap.get(q.id);
-                  const stateClass = isReview
-                    ? userChoice
-                      ? userChoice === correct
-                        ? "bg-green-500 text-white"
-                        : "bg-red-500 text-white"
-                      : "bg-gray-200"
-                    : userChoice
-                    ? "bg-blue-600 text-white"
-                    : "bg-gray-100";
-                  return (
-                    <a
-                      key={q.id}
-                      href={`#q-${q.id}`}
-                      className={`text-center rounded p-2 text-xs ${stateClass}`}
-                    >
-                      {q.id}
-                    </a>
-                  );
-                })}
-              </div>
-            </div>
-          </div>
-        </div>
-      </aside>
     </div>
   );
 }

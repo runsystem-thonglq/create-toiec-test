@@ -1,0 +1,31 @@
+# Base image
+FROM node:18-alpine
+
+# Cài đặt gói cần thiết
+RUN apk add --no-cache libc6-compat bash
+
+# Thiết lập thư mục làm việc
+WORKDIR /app
+
+# Copy file package
+COPY package.json yarn.lock* ./
+
+# Cài đặt dependencies (bao gồm devDependencies để hỗ trợ yarn dev)
+RUN yarn install
+
+# Copy toàn bộ mã nguồn vào container
+COPY . .
+
+# Tạo thư mục tạm cần thiết
+RUN mkdir -p public AI
+
+# Thiết lập biến môi trường
+ENV NODE_ENV=development
+ENV HOST=0.0.0.0
+ENV PORT=3000
+
+# Mở port 3000
+EXPOSE 3000
+
+# Sử dụng lệnh dev (Next.js: yarn dev, NestJS: yarn start:dev)
+CMD ["yarn", "dev"]
